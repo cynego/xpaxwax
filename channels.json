@@ -1173,7 +1173,7 @@
     {
       "id": 285,
       "title": "Discovery Velocity CA",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/960px-Discovery_logo.svg.png",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/960px-2019_Discovery_logo.svg.png",
       "category": "Documentary",
       "country": "Canada",
       "country_flag_emoji": "🇨🇦",
@@ -1239,6 +1239,7765 @@
       "country_flag_emoji": "🇺🇸",
       "language": "English",
       "is_vip": true
+    },
+    {
+      "id": 332,
+      "title": "Oxygen True Crime",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Oxygen_TV_%282017_Logo%29.svg/960px-Oxygen_TV_%282017_Logo%29.svg.png",
+      "category": "Documentary",
+      "country": "United States",
+      "country_flag_emoji": "🇺🇸",
+      "language": "English",
+      "is_vip": true
+    },
+    {
+      "id": 954,
+      "title": "RMC Story France",
+      "image": "",
+      "category": "Documentary",
+      "country": "France",
+      "country_flag_emoji": "🇫🇷",
+      "language": "French",
+      "is_vip": true
+    },
+    {
+      "id": 294,
+      "title": "Science Channel",
+      "image": "",
+      "category": "Documentary",
+      "country": "United States",
+      "country_flag_emoji": "🇺🇸",
+      "language": "English",
+      "is_vip": true
+    },
+    {
+      "id": 686,
+      "title": "Sky History",
+      "image": "",
+      "category": "Documentary",
+      "country": "United Kingdom",
+      "country_flag_emoji": "🇬🇧",
+      "language": "English",
+      "is_vip": true
+    },
+    {
+      "id": 603,
+      "title": "Smithsonian Channel",
+      "image": "",
+      "category": "Documentary",
+      "country": "United States",
+      "country_flag_emoji": "🇺🇸",
+      "language": "English",
+      "is_vip": true
+    },
+    {
+      "id": 340,
+      "title": "Travel Channel",
+      "image": "https://i.imgur.com/RmHGeP1.png",
+      "category": "Documentary",
+      "country": "United States",
+      "country_flag_emoji": "🇺🇸",
+      "language": "English",
+      "is_vip": true
+    },
+    {
+      "id": 659,
+      "title": "VICE TV",
+      "image": "",
+      "category": "Documentary",
+      "country": "United States",
+      "country_flag_emoji": "🇺🇸",
+      "language": "English",
+      "is_vip": true
+    },
+    {
+      "id": 728,
+      "title": "ZDF Info DE",
+      "image": "",
+      "category": "Documentary",
+      "country": "Germany",
+      "country_flag_emoji": "🇩🇪",
+      "language": "German",
+      "is_vip": true
+    },
+    {
+      "id": 295,
+      "title": "Adult Swim",
+      "image": "",
+      "category": "Comedy",
+      "country": "United States",
+      "country_flag_emoji": "🇺🇸",
+      "language": "English",
+      "is_vip": true
+    },
+    {
+      "id": 310,
+      "title": "Comedy Central",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/960px-Comedy_Central_2018.svg.png",
+      "category": "Comedy",
+      "country": "United States",
+      "country_flag_emoji": "🇺🇸",
+      "language": "English",
+      "is_vip": true
+    },
+    {
+      "id": 696,
+      "title": "Comet USA",
+      "image": "",
+      "category": "Comedy",
+      "country": "United States",
+      "country_flag_emoji": "🇺🇸",
+      "language": "English",
+      "is_vip": true
+    },
+    {
+      "id": 348,
+      "title": "Dave",
+      "image": "",
+      "category": "Comedy",
+      "country": "United Kingdom",
+      "country_flag_emoji": "🇬🇧",
+      "language": "English",
+      "is_vip": true
+    },
+    {
+      "id": 656,
+      "title": "IFC TV USA",
+      "image": "",
+      "category": "Comedy",
+      "country": "United States",
+      "country_flag_emoji": "🇺🇸",
+      "language": "English",
+      "is_vip": true
+    },
+    {
+      "id": 684,
+      "title": "Sky Comedy UK",
+      "image": "",
+      "category": "Comedy",
+      "country": "United Kingdom",
+      "country_flag_emoji": "🇬🇧",
+      "language": "English",
+      "is_vip": true
+    },
+    {
+      "id": 341,
+      "title": "TruTV USA",
+      "image": "",
+      "category": "Comedy",
+      "country": "United States",
+      "country_flag_emoji": "🇺🇸",
+      "language": "English",
+      "is_vip": true
+    },
+    {
+      "id": 521,
+      "title": "#Vamos Spain",
+      "image": "",
+      "category": "General",
+      "country": "Spain",
+      "country_flag_emoji": "🇪🇸",
+      "language": "Spanish",
+      "is_vip": true
+    },
+    {
+      "id": 857,
+      "title": "20 Mediaset Italy",
+      "image": "",
+      "category": "General",
+      "country": "Italy",
+      "country_flag_emoji": "🇮🇹",
+      "language": "Italian",
+      "is_vip": true
+    },
+    {
+      "id": 726,
+      "title": "3sat DE",
+      "image": "",
+      "category": "General",
+      "country": "Germany",
+      "country_flag_emoji": "🇩🇪",
+      "language": "German",
+      "is_vip": true
+    },
+    {
+      "id": 360,
+      "title": "5 USA",
+      "image": "",
+      "category": "General",
+      "country": "United Kingdom",
+      "country_flag_emoji": "🇬🇧",
+      "language": "English",
+      "is_vip": true
+    },
+    {
+      "id": 800,
+      "title": "6'eren Denmark",
+      "image": "",
+      "category": "General",
+      "country": "Denmark",
+      "country_flag_emoji": "🇩🇰",
+      "language": "Danish",
+      "is_vip": true
+    },
+    {
+      "id": 963,
+      "title": "6ter France",
+      "image": "",
+      "category": "General",
+      "country": "France",
+      "country_flag_emoji": "🇫🇷",
+      "language": "French",
+      "is_vip": true
+    },
+    {
+      "id": 1011,
+      "title": "A Spor Turkey",
+      "image": "",
+      "category": "General",
+      "country": "Türkiye",
+      "country_flag_emoji": "🇹🇷",
+      "language": "Turkish",
+      "is_vip": true
+    },
+    {
+      "id": 302,
+      "title": "A&E USA",
+      "image": "",
+      "category": "General",
+      "country": "United States",
+      "country_flag_emoji": "🇺🇸",
+      "language": "English",
+      "is_vip": true
+    },
+    {
+      "id": 766,
+      "title": "ABC NY USA",
+      "image": "",
+      "category": "General",
+      "country": "United States",
+      "country_flag_emoji": "🇺🇸",
+      "language": "English",
+      "is_vip": true
+    },
+    {
+      "id": 51,
+      "title": "ABC USA",
+      "image": "",
+      "category": "General",
+      "country": "United States",
+      "country_flag_emoji": "🇺🇸",
+      "language": "English",
+      "is_vip": true
+    },
+    {
+      "id": 784,
+      "title": "Alkass Four",
+      "image": "",
+      "category": "General",
+      "country": "Qatar",
+      "country_flag_emoji": "🇶🇦",
+      "language": "Arabic",
+      "is_vip": true
+    },
+    {
+      "id": 781,
+      "title": "Alkass One",
+      "image": "",
+      "category": "General",
+      "country": "Qatar",
+      "country_flag_emoji": "🇶🇦",
+      "language": "Arabic",
+      "is_vip": true
+    },
+    {
+      "id": 783,
+      "title": "Alkass Three",
+      "image": "",
+      "category": "General",
+      "country": "Qatar",
+      "country_flag_emoji": "🇶🇦",
+      "language": "Arabic",
+      "is_vip": true
+    },
+    {
+      "id": 782,
+      "title": "Alkass Two",
+      "image": "",
+      "category": "General",
+      "country": "Qatar",
+      "country_flag_emoji": "🇶🇦",
+      "language": "Arabic",
+      "is_vip": true
+    },
+    {
+      "id": 303,
+      "title": "AMC USA",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png",
+      "category": "General",
+      "country": "United States",
+      "country_flag_emoji": "🇺🇸",
+      "language": "English",
+      "is_vip": true
+    },
+    {
+      "id": 531,
+      "title": "Antena 3 Spain",
+      "image": "",
+      "category": "General",
+      "country": "Spain",
+      "country_flag_emoji": "🇪🇸",
+      "language": "Spanish",
+      "is_vip": true
+    },
+    {
+      "id": 283,
+      "title": "Antenna TV USA",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Antenna_TV_2022_logo.png",
+      "category": "General",
+      "country": "United States",
+      "country_flag_emoji": "🇺🇸",
+      "language": "English",
+      "is_vip": true
+    },
+    {
+      "id": 1000,
+      "title": "ATV Turkey",
+      "image": "",
+      "category": "General",
+      "country": "Türkiye",
+      "country_flag_emoji": "🇹🇷",
+      "language": "Turkish",
+      "is_vip": true
+    },
+    {
+      "id": 961,
+      "title": "Automoto La chaîne",
+      "image": "",
+      "category": "General",
+      "country": "France",
+      "country_flag_emoji": "🇫🇷",
+      "language": "French",
+      "is_vip": true
+    },
+    {
+      "id": 844,
+      "title": "Azteca 7 MX",
+      "image": "",
+      "category": "General",
+      "country": "Mexico",
+      "country_flag_emoji": "🇲🇽",
+      "language": "Spanish",
+      "is_vip": true
+    },
+    {
+      "id": 934,
+      "title": "Azteca Uno MX",
+      "image": "",
+      "category": "General",
+      "country": "Mexico",
+      "country_flag_emoji": "🇲🇽",
+      "language": "Spanish",
+      "is_vip": true
+    },
+    {
+      "id": 522,
+      "title": "Barca TV Spain",
+      "image": "",
+      "category": "General",
+      "country": "Spain",
+      "country_flag_emoji": "🇪🇸",
+      "language": "Spanish",
+      "is_vip": true
+    },
+    {
+      "id": 305,
+      "title": "BBC America (BBCA)",
+      "image": "",
+      "category": "General",
+      "country": "United States",
+      "country_flag_emoji": "🇺🇸",
+      "language": "English",
+      "is_vip": true
+    },
+    {
+      "id": 359,
+      "title": "BBC Four UK",
+      "image": "",
+      "category": "General",
+      "country": "United Kingdom",
+      "country_flag_emoji": "🇬🇧",
+      "language": "English",
+      "is_vip": true
+    },
+    {
+      "id": 356,
+      "title": "BBC One UK",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/960px-BBC_One_logo_2021.svg.png",
+      "category": "General",
+      "country": "United Kingdom",
+      "country_flag_emoji": "🇬🇧",
+      "language": "English",
+      "is_vip": true
+    },
+    {
+      "id": 358,
+      "title": "BBC Three UK",
+      "image": "",
+      "category": "General",
+      "country": "United Kingdom",
+      "country_flag_emoji": "🇬🇧",
+      "language": "English",
+      "is_vip": true
+    },
+    {
+      "id": 357,
+      "title": "BBC Two UK",
+      "image": "",
+      "category": "General",
+      "country": "United Kingdom",
+      "country_flag_emoji": "🇬🇧",
+      "language": "English",
+      "is_vip": true
+    },
+    {
+      "id": 380,
+      "title": "Benfica TV PT",
+      "image": "",
+      "category": "General",
+      "country": "Portugal",
+      "country_flag_emoji": "🇵🇹",
+      "language": "Portuguese",
+      "is_vip": true
+    },
+    {
+      "id": 476,
+      "title": "BNT 1 Bulgaria",
+      "image": "",
+      "category": "General",
+      "country": "Bulgaria",
+      "country_flag_emoji": "🇧🇬",
+      "language": "Bulgarian",
+      "is_vip": true
+    },
+    {
+      "id": 477,
+      "title": "BNT 2 Bulgaria",
+      "image": "",
+      "category": "General",
+      "country": "Bulgaria",
+      "country_flag_emoji": "🇧🇬",
+      "language": "Bulgarian",
+      "is_vip": true
+    },
+    {
+      "id": 478,
+      "title": "BNT 3 Bulgaria",
+      "image": "",
+      "category": "General",
+      "country": "Bulgaria",
+      "country_flag_emoji": "🇧🇬",
+      "language": "Bulgarian",
+      "is_vip": true
+    },
+    {
+      "id": 737,
+      "title": "BR Fernsehen DE",
+      "image": "",
+      "category": "General",
+      "country": "Germany",
+      "country_flag_emoji": "🇩🇪",
+      "language": "German",
+      "is_vip": true
+    },
+    {
+      "id": 481,
+      "title": "bTV Action Bulgaria",
+      "image": "",
+      "category": "General",
+      "country": "Bulgaria",
+      "country_flag_emoji": "🇧🇬",
+      "language": "Bulgarian",
+      "is_vip": true
+    },
+    {
+      "id": 479,
+      "title": "bTV Bulgaria",
+      "image": "",
+      "category": "General",
+      "country": "Bulgaria",
+      "country_flag_emoji": "🇧🇬",
+      "language": "Bulgarian",
+      "is_vip": true
+    },
+    {
+      "id": 484,
+      "title": "bTV Lady Bulgaria",
+      "image": "",
+      "category": "General",
+      "country": "Bulgaria",
+      "country_flag_emoji": "🇧🇬",
+      "language": "Bulgarian",
+      "is_vip": true
+    },
+    {
+      "id": 750,
+      "title": "C SPAN 1",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/C-SPAN_Logo_%282019%29.svg/960px-C-SPAN_Logo_%282019%29.svg.png",
+      "category": "General",
+      "country": "United States",
+      "country_flag_emoji": "🇺🇸",
+      "language": "English",
+      "is_vip": true
+    },
+    {
+      "id": 956,
+      "title": "C8 France",
+      "image": "",
+      "category": "General",
+      "country": "France",
+      "country_flag_emoji": "🇫🇷",
+      "language": "French",
+      "is_vip": true
+    },
+    {
+      "id": 540,
+      "title": "Canal 11 Portugal",
+      "image": "",
+      "category": "General",
+      "country": "Portugal",
+      "country_flag_emoji": "🇵🇹",
+      "language": "Portuguese",
+      "is_vip": true
+    },
+    {
+      "id": 805,
+      "title": "CANAL 9 Denmark",
+      "image": "",
+      "category": "General",
+      "country": "Denmark",
+      "country_flag_emoji": "🇩🇰",
+      "language": "Danish",
+      "is_vip": true
+    },
+    {
+      "id": 983,
+      "title": "Canal+ Extra 1 Poland",
+      "image": "",
+      "category": "General",
+      "country": "Poland",
+      "country_flag_emoji": "🇵🇱",
+      "language": "Polish",
+      "is_vip": true
+    },
+    {
+      "id": 984,
+      "title": "Canal+ Extra 2 Poland",
+      "image": "",
+      "category": "General",
+      "country": "Poland",
+      "country_flag_emoji": "🇵🇱",
+      "language": "Polish",
+      "is_vip": true
+    },
+    {
+      "id": 985,
+      "title": "Canal+ Extra 3 Poland",
+      "image": "",
+      "category": "General",
+      "country": "Poland",
+      "country_flag_emoji": "🇵🇱",
+      "language": "Polish",
+      "is_vip": true
+    },
+    {
+      "id": 986,
+      "title": "Canal+ Extra 4 Poland",
+      "image": "",
+      "category": "General",
+      "country": "Poland",
+      "country_flag_emoji": "🇵🇱",
+      "language": "Polish",
+      "is_vip": true
+    },
+    {
+      "id": 987,
+      "title": "Canal+ Extra 5 Poland",
+      "image": "",
+      "category": "General",
+      "country": "Poland",
+      "country_flag_emoji": "🇵🇱",
+      "language": "Polish",
+      "is_vip": true
+    },
+    {
+      "id": 988,
+      "title": "Canal+ Extra 6 Poland",
+      "image": "",
+      "category": "General",
+      "country": "Poland",
+      "country_flag_emoji": "🇵🇱",
+      "language": "Polish",
+      "is_vip": true
+    },
+    {
+      "id": 989,
+      "title": "Canal+ Extra 7 Poland",
+      "image": "",
+      "category": "General",
+      "country": "Poland",
+      "country_flag_emoji": "🇵🇱",
+      "language": "Polish",
+      "is_vip": true
+    },
+    {
+      "id": 121,
+      "title": "Canal+ France",
+      "image": "",
+      "category": "General",
+      "country": "France",
+      "country_flag_emoji": "🇫🇷",
+      "language": "French",
+      "is_vip": true
+    },
+    {
+      "id": 566,
+      "title": "Canal+ Premium Poland",
+      "image": "",
+      "category": "General",
+      "country": "Poland",
+      "country_flag_emoji": "🇵🇱",
+      "language": "Polish",
+      "is_vip": true
+    },
+    {
+      "id": 936,
+      "title": "Canal5 MX",
+      "image": "",
+      "category": "General",
+      "country": "Mexico",
+      "country_flag_emoji": "🇲🇽",
+      "language": "Spanish",
+      "is_vip": true
+    },
+    {
+      "id": 832,
+      "title": "CBC CA",
+      "image": "",
+      "category": "General",
+      "country": "Canada",
+      "country_flag_emoji": "🇨🇦",
+      "language": "English",
+      "is_vip": true
+    },
+    {
+      "id": 52,
+      "title": "CBS USA",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/960px-CBS_logo_%282020%29.svg.png",
+      "category": "General",
+      "country": "United States",
+      "country_flag_emoji": "🇺🇸",
+      "language": "English",
+      "is_vip": true
+    },
+    {
+      "id": 767,
+      "title": "CBSNY USA",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/960px-CBS_logo_%282020%29.svg.png",
+      "category": "General",
+      "country": "United States",
+      "country_flag_emoji": "🇺🇸",
+      "language": "English",
+      "is_vip": true
+    },
+    {
+      "id": 547,
+      "title": "Channel 10 Israe",
+      "image": "",
+      "category": "General",
+      "country": "Israel",
+      "country_flag_emoji": "🇮🇱",
+      "language": "Hebrew",
+      "is_vip": true
+    },
+    {
+      "id": 548,
+      "title": "Channel 11 Israel",
+      "image": "",
+      "category": "General",
+      "country": "Israel",
+      "country_flag_emoji": "🇮🇱",
+      "language": "Hebrew",
+      "is_vip": true
+    },
+    {
+      "id": 549,
+      "title": "Channel 12 Israel",
+      "image": "",
+      "category": "General",
+      "country": "Israel",
+      "country_flag_emoji": "🇮🇱",
+      "language": "Hebrew",
+      "is_vip": true
+    },
+    {
+      "id": 551,
+      "title": "Channel 13 Israel",
+      "image": "",
+      "category": "General",
+      "country": "Israel",
+      "country_flag_emoji": "🇮🇱",
+      "language": "Hebrew",
+      "is_vip": true
+    },
+    {
+      "id": 552,
+      "title": "Channel 14 Israel",
+      "image": "",
+      "category": "General",
+      "country": "Israel",
+      "country_flag_emoji": "🇮🇱",
+      "language": "Hebrew",
+      "is_vip": true
+    },
+    {
+      "id": 354,
+      "title": "Channel 4 UK",
+      "image": "",
+      "category": "General",
+      "country": "United Kingdom",
+      "country_flag_emoji": "🇬🇧",
+      "language": "English",
+      "is_vip": true
+    },
+    {
+      "id": 355,
+      "title": "Channel 5 UK",
+      "image": "",
+      "category": "General",
+      "country": "United Kingdom",
+      "country_flag_emoji": "🇬🇧",
+      "language": "English",
+      "is_vip": true
+    },
+    {
+      "id": 546,
+      "title": "Channel 9 Israel",
+      "image": "",
+      "category": "General",
+      "country": "Israel",
+      "country_flag_emoji": "🇮🇱",
+      "language": "Hebrew",
+      "is_vip": true
+    },
+    {
+      "id": 831,
+      "title": "Citytv",
+      "image": "",
+      "category": "General",
+      "country": "Canada",
+      "country_flag_emoji": "🇨🇦",
+      "language": "English",
+      "is_vip": true
+    },
+    {
+      "id": 790,
+      "title": "CMTV Portugal",
+      "image": "",
+      "category": "General",
+      "country": "Portugal",
+      "country_flag_emoji": "🇵🇹",
+      "language": "Portuguese",
+      "is_vip": true
+    },
+    {
+      "id": 281,
+      "title": "Court TV USA",
+      "image": "https://i.imgur.com/jOKA735.png",
+      "category": "General",
+      "country": "United States",
+      "country_flag_emoji": "🇺🇸",
+      "language": "English",
+      "is_vip": true
+    },
+    {
+      "id": 1035,
+      "title": "CT1 HD CZ",
+      "image": "",
+      "category": "General",
+      "country": "Czechia",
+      "country_flag_emoji": "🇨🇿",
+      "language": "Czech",
+      "is_vip": true
+    },
+    {
+      "id": 1036,
+      "title": "CT2 HD CZ",
+      "image": "",
+      "category": "General",
+      "country": "Czechia",
+      "country_flag_emoji": "🇨🇿",
+      "language": "Czech",
+      "is_vip": true
+    },
+    {
+      "id": 838,
+      "title": "CTV 2 Canada",
+      "image": "",
+      "category": "General",
+      "country": "Canada",
+      "country_flag_emoji": "🇨🇦",
+      "language": "English",
+      "is_vip": true
+    },
+    {
+      "id": 602,
+      "title": "CTV Canada",
+      "image": "",
+      "category": "General",
+      "country": "Canada",
+      "country_flag_emoji": "🇨🇦",
+      "language": "English",
+      "is_vip": true
+    },
+    {
+      "id": 535,
+      "title": "Cuatro Spain",
+      "image": "",
+      "category": "General",
+      "country": "Spain",
+      "country_flag_emoji": "🇪🇸",
+      "language": "Spanish",
+      "is_vip": true
+    },
+    {
+      "id": 866,
+      "title": "CW Philly",
+      "image": "",
+      "category": "General",
+      "country": "United States",
+      "country_flag_emoji": "🇺🇸",
+      "language": "English",
+      "is_vip": true
+    },
+    {
+      "id": 280,
+      "title": "CW PIX 11 USA",
+      "image": "",
+      "category": "General",
+      "country": "United States",
+      "country_flag_emoji": "🇺🇸",
+      "language": "English",
+      "is_vip": true
+    },
+    {
+      "id": 300,
+      "title": "CW USA",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/The_CW_2024.svg/960px-The_CW_2024.svg.png",
+      "category": "General",
+      "country": "United States",
+      "country_flag_emoji": "🇺🇸",
+      "language": "English",
+      "is_vip": true
+    },
+    {
+      "id": 1051,
+      "title": "Dajto SK",
+      "image": "",
+      "category": "General",
+      "country": "Slovakia",
+      "country_flag_emoji": "🇸🇰",
+      "language": "Slovak",
+      "is_vip": true
+    },
+    {
+      "id": 482,
+      "title": "Diema Bulgaria",
+      "image": "",
+      "category": "General",
+      "country": "Bulgaria",
+      "country_flag_emoji": "🇧🇬",
+      "language": "Bulgarian",
+      "is_vip": true
+    },
+    {
+      "id": 485,
+      "title": "Diema Family Bulgaria",
+      "image": "",
+      "category": "General",
+      "country": "Bulgaria",
+      "country_flag_emoji": "🇧🇬",
+      "language": "Bulgarian",
+      "is_vip": true
+    },
+    {
+      "id": 312,
+      "title": "Disney Channel",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg",
+      "category": "General",
+      "country": "United States",
+      "country_flag_emoji": "🇺🇸",
+      "language": "English",
+      "is_vip": true
+    },
+    {
+      "id": 801,
+      "title": "DR1 Denmark",
+      "image": "",
+      "category": "General",
+      "country": "Denmark",
+      "country_flag_emoji": "🇩🇰",
+      "language": "Danish",
+      "is_vip": true
+    },
+    {
+      "id": 802,
+      "title": "DR2 Denmark",
+      "image": "",
+      "category": "General",
+      "country": "Denmark",
+      "country_flag_emoji": "🇩🇰",
+      "language": "Danish",
+      "is_vip": true
+    },
+    {
+      "id": 828,
+      "title": "DSTV kykNET & kie",
+      "image": "",
+      "category": "General",
+      "country": "South Africa",
+      "country_flag_emoji": "🇿🇦",
+      "language": "English",
+      "is_vip": true
+    },
+    {
+      "id": 827,
+      "title": "DSTV M-Net",
+      "image": "",
+      "category": "General",
+      "country": "South Africa",
+      "country_flag_emoji": "🇿🇦",
+      "language": "English",
+      "is_vip": true
+    },
+    {
+      "id": 786,
+      "title": "DSTV Mzansi Magic",
+      "image": "",
+      "category": "General",
+      "country": "South Africa",
+      "country_flag_emoji": "🇿🇦",
+      "language": "English",
+      "is_vip": true
+    },
+    {
+      "id": 363,
+      "title": "E4 Channel",
+      "image": "",
+      "category": "General",
+      "country": "United Kingdom",
+      "country_flag_emoji": "🇬🇧",
+      "language": "English",
+      "is_vip": true
+    },
+    {
+      "id": 774,
+      "title": "ERT 1 Greece",
+      "image": "",
+      "category": "General",
+      "country": "Greece",
+      "country_flag_emoji": "🇬🇷",
+      "language": "Greek",
+      "is_vip": true
+    },
+    {
+      "id": 297,
+      "title": "Fox Business",
+      "image": "",
+      "category": "General",
+      "country": "United States",
+      "country_flag_emoji": "🇺🇸",
+      "language": "English",
+      "is_vip": true
+    },
+    {
+      "id": 643,
+      "title": "FOX Deportes USA",
+      "image": "",
+      "category": "General",
+      "country": "United States",
+      "country_flag_emoji": "🇺🇸",
+      "language": "English",
+      "is_vip": true
+    },
+    {
+      "id": 483,
+      "title": "FOX HD Bulgaria",
+      "image": "",
+      "category": "General",
+      "country": "Bulgaria",
+      "country_flag_emoji": "🇧🇬",
+      "language": "Bulgarian",
+      "is_vip": true
+    },
+    {
+      "id": 54,
+      "title": "FOX USA",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/FOX_wordmark-red.svg/960px-FOX_wordmark-red.svg.png",
+      "category": "General",
+      "country": "United States",
+      "country_flag_emoji": "🇺🇸",
+      "language": "English",
+      "is_vip": true
+    },
+    {
+      "id": 775,
+      "title": "Fox Weather Channel",
+      "image": "",
+      "category": "General",
+      "country": "United States",
+      "country_flag_emoji": "🇺🇸",
+      "language": "English",
+      "is_vip": true
+    },
+    {
+      "id": 768,
+      "title": "FOXNY USA",
+      "image": "",
+      "category": "General",
+      "country": "United States",
+      "country_flag_emoji": "🇺🇸",
+      "language": "English",
+      "is_vip": true
+    },
+    {
+      "id": 950,
+      "title": "France 2",
+      "image": "",
+      "category": "General",
+      "country": "France",
+      "country_flag_emoji": "🇫🇷",
+      "language": "French",
+      "is_vip": true
+    },
+    {
+      "id": 951,
+      "title": "France 3",
+      "image": "",
+      "category": "General",
+      "country": "France",
+      "country_flag_emoji": "🇫🇷",
+      "language": "French",
+      "is_vip": true
+    },
+    {
+      "id": 952,
+      "title": "France 4",
+      "image": "",
+      "category": "General",
+      "country": "France",
+      "country_flag_emoji": "🇫🇷",
+      "language": "French",
+      "is_vip": true
+    },
+    {
+      "id": 953,
+      "title": "France 5",
+      "image": "",
+      "category": "General",
+      "country": "France",
+      "country_flag_emoji": "🇫🇷",
+      "language": "French",
+      "is_vip": true
+    },
+    {
+      "id": 743,
+      "title": "Galavisi贸n USA",
+      "image": "",
+      "category": "General",
+      "country": "United States",
+      "country_flag_emoji": "🇺🇸",
+      "language": "English",
+      "is_vip": true
+    },
+    {
+      "id": 836,
+      "title": "Global CA",
+      "image": "",
+      "category": "General",
+      "country": "Canada",
+      "country_flag_emoji": "🇨🇦",
+      "language": "English",
+      "is_vip": true
+    },
+    {
+      "id": 761,
+      "title": "Globo RIO",
+      "image": "",
+      "category": "General",
+      "country": "Brazil",
+      "country_flag_emoji": "🇧🇷",
+      "language": "Portuguese",
+      "is_vip": true
+    },
+    {
+      "id": 760,
+      "title": "Globo SP",
+      "image": "",
+      "category": "General",
+      "country": "Brazil",
+      "country_flag_emoji": "🇧🇷",
+      "language": "Portuguese",
+      "is_vip": true
+    },
+    {
+      "id": 530,
+      "title": "GOL PLAY Spain",
+      "image": "",
+      "category": "General",
+      "country": "Spain",
+      "country_flag_emoji": "🇪🇸",
+      "language": "Spanish",
+      "is_vip": true
+    },
+    {
+      "id": 752,
+      "title": "Grit Channel",
+      "image": "https://www.grittv.com/assets/grit-logo-DmpiMvdA.png",
+      "category": "General",
+      "country": "United States",
+      "country_flag_emoji": "🇺🇸",
+      "language": "English",
+      "is_vip": true
+    },
+    {
+      "id": 689,
+      "title": "HBO2 USA",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/HBO_2_%282014%29.svg/960px-HBO_2_%282014%29.svg.png",
+      "category": "General",
+      "country": "United States",
+      "country_flag_emoji": "🇺🇸",
+      "language": "English",
+      "is_vip": true
+    },
+    {
+      "id": 282,
+      "title": "Heroes & Icons (H&I) USA",
+      "image": "",
+      "category": "General",
+      "country": "United States",
+      "country_flag_emoji": "🇺🇸",
+      "language": "English",
+      "is_vip": true
+    },
+    {
+      "id": 553,
+      "title": "HOT3 Israel",
+      "image": "",
+      "category": "General",
+      "country": "Israel",
+      "country_flag_emoji": "🇮🇱",
+      "language": "Hebrew",
+      "is_vip": true
+    },
+    {
+      "id": 325,
+      "title": "ION USA",
+      "image": "",
+      "category": "General",
+      "country": "United States",
+      "country_flag_emoji": "🇺🇸",
+      "language": "English",
+      "is_vip": true
+    },
+    {
+      "id": 854,
+      "title": "Italia 1 Italy",
+      "image": "",
+      "category": "General",
+      "country": "Italy",
+      "country_flag_emoji": "🇮🇹",
+      "language": "Italian",
+      "is_vip": true
+    },
+    {
+      "id": 350,
+      "title": "ITV 1 UK",
+      "image": "",
+      "category": "General",
+      "country": "United Kingdom",
+      "country_flag_emoji": "🇬🇧",
+      "language": "English",
+      "is_vip": true
+    },
+    {
+      "id": 351,
+      "title": "ITV 2 UK",
+      "image": "",
+      "category": "General",
+      "country": "United Kingdom",
+      "country_flag_emoji": "🇬🇧",
+      "language": "English",
+      "is_vip": true
+    },
+    {
+      "id": 352,
+      "title": "ITV 3 UK",
+      "image": "",
+      "category": "General",
+      "country": "United Kingdom",
+      "country_flag_emoji": "🇬🇧",
+      "language": "English",
+      "is_vip": true
+    },
+    {
+      "id": 353,
+      "title": "ITV 4 UK",
+      "image": "",
+      "category": "General",
+      "country": "United Kingdom",
+      "country_flag_emoji": "🇬🇧",
+      "language": "English",
+      "is_vip": true
+    },
+    {
+      "id": 876,
+      "title": "ITV Quiz",
+      "image": "",
+      "category": "General",
+      "country": "United Kingdom",
+      "country_flag_emoji": "🇬🇧",
+      "language": "English",
+      "is_vip": true
+    },
+    {
+      "id": 1050,
+      "title": "JOJ SK",
+      "image": "",
+      "category": "General",
+      "country": "Slovakia",
+      "country_flag_emoji": "🇸🇰",
+      "language": "Slovak",
+      "is_vip": true
+    },
+    {
+      "id": 1052,
+      "title": "JOJ Šport SK",
+      "image": "",
+      "category": "General",
+      "country": "Slovakia",
+      "country_flag_emoji": "🇸🇰",
+      "language": "Slovak",
+      "is_vip": true
+    },
+    {
+      "id": 731,
+      "title": "Kabel Eins (Kabel 1) DE",
+      "image": "",
+      "category": "General",
+      "country": "Germany",
+      "country_flag_emoji": "🇩🇪",
+      "language": "German",
+      "is_vip": true
+    },
+    {
+      "id": 803,
+      "title": "Kanal 4 Denmark",
+      "image": "",
+      "category": "General",
+      "country": "Denmark",
+      "country_flag_emoji": "🇩🇰",
+      "language": "Danish",
+      "is_vip": true
+    },
+    {
+      "id": 804,
+      "title": "Kanal 5 Denmark",
+      "image": "",
+      "category": "General",
+      "country": "Denmark",
+      "country_flag_emoji": "🇩🇰",
+      "language": "Danish",
+      "is_vip": true
+    },
+    {
+      "id": 1001,
+      "title": "Kanal D Turkey",
+      "image": "",
+      "category": "General",
+      "country": "Türkiye",
+      "country_flag_emoji": "🇹🇷",
+      "language": "Turkish",
+      "is_vip": true
+    },
+    {
+      "id": 645,
+      "title": "L'Equipe France",
+      "image": "",
+      "category": "General",
+      "country": "France",
+      "country_flag_emoji": "🇫🇷",
+      "language": "French",
+      "is_vip": true
+    },
+    {
+      "id": 534,
+      "title": "La Sexta Spain",
+      "image": "",
+      "category": "General",
+      "country": "Spain",
+      "country_flag_emoji": "🇪🇸",
+      "language": "Spanish",
+      "is_vip": true
+    },
+    {
+      "id": 855,
+      "title": "La7 Italy",
+      "image": "",
+      "category": "General",
+      "country": "Italy",
+      "country_flag_emoji": "🇮🇹",
+      "language": "Italian",
+      "is_vip": true
+    },
+    {
+      "id": 924,
+      "title": "Las Estrellas",
+      "image": "",
+      "category": "General",
+      "country": "Mexico",
+      "country_flag_emoji": "🇲🇽",
+      "language": "Spanish",
+      "is_vip": true
+    },
+    {
+      "id": 826,
+      "title": "Liverpool TV (LFC TV)",
+      "image": "",
+      "category": "General",
+      "country": "United Kingdom",
+      "country_flag_emoji": "🇬🇧",
+      "language": "English",
+      "is_vip": true
+    },
+    {
+      "id": 470,
+      "title": "M6 France",
+      "image": "",
+      "category": "General",
+      "country": "France",
+      "country_flag_emoji": "🇫🇷",
+      "language": "French",
+      "is_vip": true
+    },
+    {
+      "id": 829,
+      "title": "MASN USA",
+      "image": "",
+      "category": "General",
+      "country": "United States",
+      "country_flag_emoji": "🇺🇸",
+      "language": "English",
+      "is_vip": true
+    },
+    {
+      "id": 733,
+      "title": "MDR DE",
+      "image": "",
+      "category": "General",
+      "country": "Germany",
+      "country_flag_emoji": "🇩🇪",
+      "language": "German",
+      "is_vip": true
+    },
+    {
+      "id": 662,
+      "title": "METV USA",
+      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/5/55/MeTV_Logo.svg/960px-MeTV_Logo.svg.png",
+      "category": "General",
+      "country": "United States",
+      "country_flag_emoji": "🇺🇸",
+      "language": "English",
+      "is_vip": true
+    },
+    {
+      "id": 563,
+      "title": "Motowizja Poland",
+      "image": "",
+      "category": "General",
+      "country": "Poland",
+      "country_flag_emoji": "🇵🇱",
+      "language": "Polish",
+      "is_vip": true
+    },
+    {
+      "id": 438,
+      "title": "Movistar Deportes 2 Spain",
+      "image": "",
+      "category": "General",
+      "country": "Spain",
+      "country_flag_emoji": "🇪🇸",
+      "language": "Spanish",
+      "is_vip": true
+    },
+    {
+      "id": 526,
+      "title": "Movistar Deportes 3 Spain",
+      "image": "",
+      "category": "General",
+      "country": "Spain",
+      "country_flag_emoji": "🇪🇸",
+      "language": "Spanish",
+      "is_vip": true
+    },
+    {
+      "id": 527,
+      "title": "Movistar Deportes 4 Spain",
+      "image": "",
+      "category": "General",
+      "country": "Spain",
+      "country_flag_emoji": "🇪🇸",
+      "language": "Spanish",
+      "is_vip": true
+    },
+    {
+      "id": 436,
+      "title": "Movistar Deportes Spain",
+      "image": "",
+      "category": "General",
+      "country": "Spain",
+      "country_flag_emoji": "🇪🇸",
+      "language": "Spanish",
+      "is_vip": true
+    },
+    {
+      "id": 435,
+      "title": "Movistar Liga de Campeones",
+      "image": "",
+      "category": "General",
+      "country": "Spain",
+      "country_flag_emoji": "🇪🇸",
+      "language": "Spanish",
+      "is_vip": true
+    },
+    {
+      "id": 437,
+      "title": "Movistar Supercopa de España",
+      "image": "",
+      "category": "General",
+      "country": "Spain",
+      "country_flag_emoji": "🇪🇸",
+      "language": "Spanish",
+      "is_vip": true
+    },
+    {
+      "id": 765,
+      "title": "MSG USA",
+      "image": "",
+      "category": "General",
+      "country": "United States",
+      "country_flag_emoji": "🇺🇸",
+      "language": "English",
+      "is_vip": true
+    },
+    {
+      "id": 749,
+      "title": "Mundotoro TV Spain",
+      "image": "",
+      "category": "General",
+      "country": "Spain",
+      "country_flag_emoji": "🇪🇸",
+      "language": "Spanish",
+      "is_vip": true
+    },
+    {
+      "id": 377,
+      "title": "MUTV UK",
+      "image": "",
+      "category": "General",
+      "country": "United Kingdom",
+      "country_flag_emoji": "🇬🇧",
+      "language": "English",
+      "is_vip": true
+    },
+    {
+      "id": 654,
+      "title": "MY9TV USA",
+      "image": "",
+      "category": "General",
+      "country": "United States",
+      "country_flag_emoji": "🇺🇸",
+      "language": "English",
+      "is_vip": true
+    },
+    {
+      "id": 845,
+      "title": "NBC Universo",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/960px-NBC_logo_2022_%28vertical%29.svg.png",
+      "category": "General",
+      "country": "United States",
+      "country_flag_emoji": "🇺🇸",
+      "language": "Spanish",
+      "is_vip": true
+    },
+    {
+      "id": 53,
+      "title": "NBC USA",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/960px-NBC_logo_2022_%28vertical%29.svg.png",
+      "category": "General",
+      "country": "United States",
+      "country_flag_emoji": "🇺🇸",
+      "language": "English",
+      "is_vip": true
+    },
+    {
+      "id": 277,
+      "title": "NBC10 Philadelphia",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/960px-NBC_logo_2022_%28vertical%29.svg.png",
+      "category": "General",
+      "country": "United States",
+      "country_flag_emoji": "🇺🇸",
+      "language": "English",
+      "is_vip": true
+    },
+    {
+      "id": 769,
+      "title": "NBCNY USA",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/960px-NBC_logo_2022_%28vertical%29.svg.png",
+      "category": "General",
+      "country": "United States",
+      "country_flag_emoji": "🇺🇸",
+      "language": "English",
+      "is_vip": true
+    },
+    {
+      "id": 736,
+      "title": "NDR DE",
+      "image": "",
+      "category": "General",
+      "country": "Germany",
+      "country_flag_emoji": "🇩🇪",
+      "language": "German",
+      "is_vip": true
+    },
+    {
+      "id": 762,
+      "title": "NESN USA",
+      "image": "",
+      "category": "General",
+      "country": "United States",
+      "country_flag_emoji": "🇺🇸",
+      "language": "English",
+      "is_vip": true
+    },
+    {
+      "id": 330,
+      "title": "NICK",
+      "image": "",
+      "category": "General",
+      "country": "United States",
+      "country_flag_emoji": "🇺🇸",
+      "language": "English",
+      "is_vip": true
+    },
+    {
+      "id": 835,
+      "title": "Noovo CA",
+      "image": "",
+      "category": "General",
+      "country": "Canada",
+      "country_flag_emoji": "🇨🇦",
+      "language": "French",
+      "is_vip": true
+    },
+    {
+      "id": 1034,
+      "title": "Nova HD CZ",
+      "image": "",
+      "category": "General",
+      "country": "Czechia",
+      "country_flag_emoji": "🇨🇿",
+      "language": "Czech",
+      "is_vip": true
+    },
+    {
+      "id": 847,
+      "title": "Nova S Serbia",
+      "image": "",
+      "category": "General",
+      "country": "Serbia",
+      "country_flag_emoji": "🇷🇸",
+      "language": "Serbian",
+      "is_vip": true
+    },
+    {
+      "id": 480,
+      "title": "Nova TV Bulgaria",
+      "image": "",
+      "category": "General",
+      "country": "Bulgaria",
+      "country_flag_emoji": "🇧🇬",
+      "language": "Bulgarian",
+      "is_vip": true
+    },
+    {
+      "id": 1003,
+      "title": "NOW TV Turkey",
+      "image": "",
+      "category": "General",
+      "country": "Türkiye",
+      "country_flag_emoji": "🇹🇷",
+      "language": "Turkish",
+      "is_vip": true
+    },
+    {
+      "id": 541,
+      "title": "ONE 1 HD Israel",
+      "image": "",
+      "category": "General",
+      "country": "Israel",
+      "country_flag_emoji": "🇮🇱",
+      "language": "Hebrew",
+      "is_vip": true
+    },
+    {
+      "id": 542,
+      "title": "ONE 2 HD Israel",
+      "image": "",
+      "category": "General",
+      "country": "Israel",
+      "country_flag_emoji": "🇮🇱",
+      "language": "Hebrew",
+      "is_vip": true
+    },
+    {
+      "id": 1039,
+      "title": "OnePlay MD2 CZ",
+      "image": "",
+      "category": "General",
+      "country": "Czechia",
+      "country_flag_emoji": "🇨🇿",
+      "language": "Czech",
+      "is_vip": true
+    },
+    {
+      "id": 1040,
+      "title": "OnePlay MD3 CZ",
+      "image": "",
+      "category": "General",
+      "country": "Czechia",
+      "country_flag_emoji": "🇨🇿",
+      "language": "Czech",
+      "is_vip": true
+    },
+    {
+      "id": 1041,
+      "title": "OnePlay MD4 CZ",
+      "image": "",
+      "category": "General",
+      "country": "Czechia",
+      "country_flag_emoji": "🇨🇿",
+      "language": "Czech",
+      "is_vip": true
+    },
+    {
+      "id": 210,
+      "title": "PBS USA",
+      "image": "https://seeklogo.com/images/P/pbs-1984-2019-logo-622F6E1EF2-seeklogo.com.png",
+      "category": "General",
+      "country": "United States",
+      "country_flag_emoji": "🇺🇸",
+      "language": "English",
+      "is_vip": true
+    },
+    {
+      "id": 562,
+      "title": "Polsat Poland",
+      "image": "",
+      "category": "General",
+      "country": "Poland",
+      "country_flag_emoji": "🇵🇱",
+      "language": "Polish",
+      "is_vip": true
+    },
+    {
+      "id": 718,
+      "title": "Porto Canal Portugal",
+      "image": "",
+      "category": "General",
+      "country": "Portugal",
+      "country_flag_emoji": "🇵🇹",
+      "language": "Portuguese",
+      "is_vip": true
+    },
+    {
+      "id": 88,
+      "title": "Premier Brasil",
+      "image": "",
+      "category": "General",
+      "country": "Brazil",
+      "country_flag_emoji": "🇧🇷",
+      "language": "Portuguese",
+      "is_vip": true
+    },
+    {
+      "id": 843,
+      "title": "Prima TV RO",
+      "image": "",
+      "category": "General",
+      "country": "Romania",
+      "country_flag_emoji": "🇷🇴",
+      "language": "Romanian",
+      "is_vip": true
+    },
+    {
+      "id": 730,
+      "title": "ProSieben (PRO7) DE",
+      "image": "",
+      "category": "General",
+      "country": "Germany",
+      "country_flag_emoji": "🇩🇪",
+      "language": "German",
+      "is_vip": true
+    },
+    {
+      "id": 646,
+      "title": "Racer TV USA",
+      "image": "",
+      "category": "General",
+      "country": "United States",
+      "country_flag_emoji": "🇺🇸",
+      "language": "English",
+      "is_vip": true
+    },
+    {
+      "id": 850,
+      "title": "Rai 1 Italy",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Rai_1_logo.svg/960px-Rai_1_logo.svg.png",
+      "category": "General",
+      "country": "Italy",
+      "country_flag_emoji": "🇮🇹",
+      "language": "Italian",
+      "is_vip": true
+    },
+    {
+      "id": 851,
+      "title": "Rai 2 Italy",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Rai_2_logo.svg/960px-Rai_2_logo.svg.png",
+      "category": "General",
+      "country": "Italy",
+      "country_flag_emoji": "🇮🇹",
+      "language": "Italian",
+      "is_vip": true
+    },
+    {
+      "id": 852,
+      "title": "Rai 3 Italy",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Rai_3_logo.svg/960px-Rai_3_logo.svg.png",
+      "category": "General",
+      "country": "Italy",
+      "country_flag_emoji": "🇮🇹",
+      "language": "Italian",
+      "is_vip": true
+    },
+    {
+      "id": 853,
+      "title": "Rai 4 Italy",
+      "image": "",
+      "category": "General",
+      "country": "Italy",
+      "country_flag_emoji": "🇮🇹",
+      "language": "Italian",
+      "is_vip": true
+    },
+    {
+      "id": 858,
+      "title": "Rai Premium Italy",
+      "image": "",
+      "category": "General",
+      "country": "Italy",
+      "country_flag_emoji": "🇮🇹",
+      "language": "Italian",
+      "is_vip": true
+    },
+    {
+      "id": 523,
+      "title": "Real Madrid TV Spain",
+      "image": "",
+      "category": "General",
+      "country": "Spain",
+      "country_flag_emoji": "🇪🇸",
+      "language": "Spanish",
+      "is_vip": true
+    },
+    {
+      "id": 293,
+      "title": "Reelz Channel",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Reelz.svg/960px-Reelz.svg.png",
+      "category": "General",
+      "country": "United States",
+      "country_flag_emoji": "🇺🇸",
+      "language": "English",
+      "is_vip": true
+    },
+    {
+      "id": 364,
+      "title": "RTE 1",
+      "image": "",
+      "category": "General",
+      "country": "Ireland",
+      "country_flag_emoji": "🇮🇪",
+      "language": "English / Irish",
+      "is_vip": true
+    },
+    {
+      "id": 365,
+      "title": "RTE 2",
+      "image": "",
+      "category": "General",
+      "country": "Ireland",
+      "country_flag_emoji": "🇮🇪",
+      "language": "English / Irish",
+      "is_vip": true
+    },
+    {
+      "id": 740,
+      "title": "RTL DE",
+      "image": "",
+      "category": "General",
+      "country": "Germany",
+      "country_flag_emoji": "🇩🇪",
+      "language": "German",
+      "is_vip": true
+    },
+    {
+      "id": 390,
+      "title": "RTL7 Netherland",
+      "image": "",
+      "category": "General",
+      "country": "Netherlands",
+      "country_flag_emoji": "🇳🇱",
+      "language": "Dutch",
+      "is_vip": true
+    },
+    {
+      "id": 719,
+      "title": "RTP 1 Portugal",
+      "image": "",
+      "category": "General",
+      "country": "Portugal",
+      "country_flag_emoji": "🇵🇹",
+      "language": "Portuguese",
+      "is_vip": true
+    },
+    {
+      "id": 720,
+      "title": "RTP 2 Portugal",
+      "image": "",
+      "category": "General",
+      "country": "Portugal",
+      "country_flag_emoji": "🇵🇹",
+      "language": "Portuguese",
+      "is_vip": true
+    },
+    {
+      "id": 721,
+      "title": "RTP 3 Portugal",
+      "image": "",
+      "category": "General",
+      "country": "Portugal",
+      "country_flag_emoji": "🇵🇹",
+      "language": "Portuguese",
+      "is_vip": true
+    },
+    {
+      "id": 670,
+      "title": "S4C UK",
+      "image": "",
+      "category": "General",
+      "country": "United Kingdom",
+      "country_flag_emoji": "🇬🇧",
+      "language": "Welsh / English",
+      "is_vip": true
+    },
+    {
+      "id": 729,
+      "title": "SAT.1 DE",
+      "image": "",
+      "category": "General",
+      "country": "Germany",
+      "country_flag_emoji": "🇩🇪",
+      "language": "German",
+      "is_vip": true
+    },
+    {
+      "id": 883,
+      "title": "SBS6 NL",
+      "image": "",
+      "category": "General",
+      "country": "Netherlands",
+      "country_flag_emoji": "🇳🇱",
+      "language": "Dutch",
+      "is_vip": true
+    },
+    {
+      "id": 811,
+      "title": "SEE Denmark",
+      "image": "",
+      "category": "General",
+      "country": "Denmark",
+      "country_flag_emoji": "🇩🇰",
+      "language": "Danish",
+      "is_vip": true
+    },
+    {
+      "id": 811,
+      "title": "SEE Denmark",
+      "image": "",
+      "category": "General",
+      "country": "Denmark",
+      "country_flag_emoji": "🇩🇰",
+      "language": "Danish",
+      "is_vip": true
+    },
+    {
+      "id": 1002,
+      "title": "Show TV Turkey",
+      "image": "",
+      "category": "General",
+      "country": "Türkiye",
+      "country_flag_emoji": "🇹🇷",
+      "language": "Turkish",
+      "is_vip": true
+    },
+    {
+      "id": 722,
+      "title": "SIC Portugal",
+      "image": "",
+      "category": "General",
+      "country": "Portugal",
+      "country_flag_emoji": "🇵🇹",
+      "language": "Portuguese",
+      "is_vip": true
+    },
+    {
+      "id": 871,
+      "title": "Sky Calcio 1 (251) Italy",
+      "image": "",
+      "category": "General",
+      "country": "Italy",
+      "country_flag_emoji": "🇮🇹",
+      "language": "Italian",
+      "is_vip": true
+    },
+    {
+      "id": 872,
+      "title": "Sky Calcio 2 (252) Italy",
+      "image": "",
+      "category": "General",
+      "country": "Italy",
+      "country_flag_emoji": "🇮🇹",
+      "language": "Italian",
+      "is_vip": true
+    },
+    {
+      "id": 873,
+      "title": "Sky Calcio 3 (253) Italy",
+      "image": "",
+      "category": "General",
+      "country": "Italy",
+      "country_flag_emoji": "🇮🇹",
+      "language": "Italian",
+      "is_vip": true
+    },
+    {
+      "id": 874,
+      "title": "Sky Calcio 4 (254) Italy",
+      "image": "",
+      "category": "General",
+      "country": "Italy",
+      "country_flag_emoji": "🇮🇹",
+      "language": "Italian",
+      "is_vip": true
+    },
+    {
+      "id": 880,
+      "title": "Sky Serie Italy",
+      "image": "",
+      "category": "General",
+      "country": "Italy",
+      "country_flag_emoji": "🇮🇹",
+      "language": "Italian",
+      "is_vip": true
+    },
+    {
+      "id": 881,
+      "title": "Sky UNO Italy",
+      "image": "",
+      "category": "General",
+      "country": "Italy",
+      "country_flag_emoji": "🇮🇹",
+      "language": "Italian",
+      "is_vip": true
+    },
+    {
+      "id": 739,
+      "title": "SR Fernsehen DE",
+      "image": "",
+      "category": "General",
+      "country": "Germany",
+      "country_flag_emoji": "🇩🇪",
+      "language": "German",
+      "is_vip": true
+    },
+    {
+      "id": 1004,
+      "title": "Star TV Turkey",
+      "image": "",
+      "category": "General",
+      "country": "Türkiye",
+      "country_flag_emoji": "🇹🇷",
+      "language": "Turkish",
+      "is_vip": true
+    },
+    {
+      "id": 284,
+      "title": "StarzPlay CricLife 1 HD",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Starz_2022.svg/960px-Starz_2022.svg.png",
+      "category": "General",
+      "country": "",
+      "country_flag_emoji": "",
+      "language": "English",
+      "is_vip": true
+    },
+    {
+      "id": 738,
+      "title": "SUPER RTL DE",
+      "image": "",
+      "category": "General",
+      "country": "Germany",
+      "country_flag_emoji": "🇩🇪",
+      "language": "German",
+      "is_vip": true
+    },
+    {
+      "id": 735,
+      "title": "SWR DE",
+      "image": "",
+      "category": "General",
+      "country": "Germany",
+      "country_flag_emoji": "🇩🇪",
+      "language": "German",
+      "is_vip": true
+    },
+    {
+      "id": 336,
+      "title": "TBS USA",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/TBS_2020.svg/960px-TBS_2020.svg.png",
+      "category": "General",
+      "country": "United States",
+      "country_flag_emoji": "🇺🇸",
+      "language": "English",
+      "is_vip": true
+    },
+    {
+      "id": 650,
+      "title": "TeenNick",
+      "image": "",
+      "category": "General",
+      "country": "United States",
+      "country_flag_emoji": "🇺🇸",
+      "language": "English",
+      "is_vip": true
+    },
+    {
+      "id": 532,
+      "title": "Telecinco Spain",
+      "image": "",
+      "category": "General",
+      "country": "Spain",
+      "country_flag_emoji": "🇪🇸",
+      "language": "Spanish",
+      "is_vip": true
+    },
+    {
+      "id": 131,
+      "title": "Telemundo",
+      "image": "",
+      "category": "General",
+      "country": "United States",
+      "country_flag_emoji": "🇺🇸",
+      "language": "Spanish",
+      "is_vip": true
+    },
+    {
+      "id": 394,
+      "title": "The Weather Channel",
+      "image": "",
+      "category": "General",
+      "country": "United States",
+      "country_flag_emoji": "🇺🇸",
+      "language": "English",
+      "is_vip": true
+    },
+    {
+      "id": 337,
+      "title": "TLC",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/960px-TLC_Logo.svg.png",
+      "category": "General",
+      "country": "United States",
+      "country_flag_emoji": "🇺🇸",
+      "language": "English",
+      "is_vip": true
+    },
+    {
+      "id": 698,
+      "title": "TMC Channel USA",
+      "image": "",
+      "category": "General",
+      "country": "United States",
+      "country_flag_emoji": "🇺🇸",
+      "language": "English",
+      "is_vip": true
+    },
+    {
+      "id": 955,
+      "title": "TMC France",
+      "image": "",
+      "category": "General",
+      "country": "France",
+      "country_flag_emoji": "🇫🇷",
+      "language": "French",
+      "is_vip": true
+    },
+    {
+      "id": 1037,
+      "title": "TN Live CZ",
+      "image": "",
+      "category": "General",
+      "country": "Czechia",
+      "country_flag_emoji": "🇨🇿",
+      "language": "Czech",
+      "is_vip": true
+    },
+    {
+      "id": 87,
+      "title": "TNT Brasil",
+      "image": "",
+      "category": "General",
+      "country": "Brazil",
+      "country_flag_emoji": "🇧🇷",
+      "language": "Portuguese",
+      "is_vip": true
+    },
+    {
+      "id": 338,
+      "title": "TNT USA",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/960px-TNT_Logo_2016.svg.png",
+      "category": "General",
+      "country": "United States",
+      "country_flag_emoji": "🇺🇸",
+      "language": "English",
+      "is_vip": true
+    },
+    {
+      "id": 889,
+      "title": "TRT Spor TR",
+      "image": "",
+      "category": "General",
+      "country": "Türkiye",
+      "country_flag_emoji": "🇹🇷",
+      "language": "Turkish",
+      "is_vip": true
+    },
+    {
+      "id": 807,
+      "title": "TV2 Bornholm Denmark",
+      "image": "",
+      "category": "General",
+      "country": "Denmark",
+      "country_flag_emoji": "🇩🇰",
+      "language": "Danish",
+      "is_vip": true
+    },
+    {
+      "id": 817,
+      "title": "TV2 Denmark",
+      "image": "",
+      "category": "General",
+      "country": "Denmark",
+      "country_flag_emoji": "🇩🇰",
+      "language": "Danish",
+      "is_vip": true
+    },
+    {
+      "id": 818,
+      "title": "TV2 Zulu",
+      "image": "",
+      "category": "General",
+      "country": "Denmark",
+      "country_flag_emoji": "🇩🇰",
+      "language": "Danish",
+      "is_vip": true
+    },
+    {
+      "id": 223,
+      "title": "TV3 Max Denmark",
+      "image": "",
+      "category": "General",
+      "country": "Denmark",
+      "country_flag_emoji": "🇩🇰",
+      "language": "Danish",
+      "is_vip": true
+    },
+    {
+      "id": 819,
+      "title": "TV3+ Denmark",
+      "image": "",
+      "category": "General",
+      "country": "Denmark",
+      "country_flag_emoji": "🇩🇰",
+      "language": "Danish",
+      "is_vip": true
+    },
+    {
+      "id": 700,
+      "title": "TV4 Hockey",
+      "image": "",
+      "category": "General",
+      "country": "Sweden",
+      "country_flag_emoji": "🇸🇪",
+      "language": "Swedish",
+      "is_vip": true
+    },
+    {
+      "id": 702,
+      "title": "TV4 Motor",
+      "image": "",
+      "category": "General",
+      "country": "Sweden",
+      "country_flag_emoji": "🇸🇪",
+      "language": "Swedish",
+      "is_vip": true
+    },
+    {
+      "id": 1005,
+      "title": "TV8 Turkey",
+      "image": "",
+      "category": "General",
+      "country": "Türkiye",
+      "country_flag_emoji": "🇹🇷",
+      "language": "Turkish",
+      "is_vip": true
+    },
+    {
+      "id": 932,
+      "title": "TVC Deportes MX",
+      "image": "",
+      "category": "General",
+      "country": "Mexico",
+      "country_flag_emoji": "🇲🇽",
+      "language": "Spanish",
+      "is_vip": true
+    },
+    {
+      "id": 533,
+      "title": "TVE La 1 Spain",
+      "image": "",
+      "category": "General",
+      "country": "Spain",
+      "country_flag_emoji": "🇪🇸",
+      "language": "Spanish",
+      "is_vip": true
+    },
+    {
+      "id": 536,
+      "title": "TVE La 2 Spain",
+      "image": "",
+      "category": "General",
+      "country": "Spain",
+      "country_flag_emoji": "🇪🇸",
+      "language": "Spanish",
+      "is_vip": true
+    },
+    {
+      "id": 723,
+      "title": "TVI Portugal",
+      "image": "",
+      "category": "General",
+      "country": "Portugal",
+      "country_flag_emoji": "🇵🇹",
+      "language": "Portuguese",
+      "is_vip": true
+    },
+    {
+      "id": 565,
+      "title": "TVN HD Poland",
+      "image": "",
+      "category": "General",
+      "country": "Poland",
+      "country_flag_emoji": "🇵🇱",
+      "language": "Polish",
+      "is_vip": true
+    },
+    {
+      "id": 444,
+      "title": "TVN24 Poland",
+      "image": "",
+      "category": "General",
+      "country": "Poland",
+      "country_flag_emoji": "🇵🇱",
+      "language": "Polish",
+      "is_vip": true
+    },
+    {
+      "id": 842,
+      "title": "TVO CA",
+      "image": "",
+      "category": "General",
+      "country": "Canada",
+      "country_flag_emoji": "🇨🇦",
+      "language": "English",
+      "is_vip": true
+    },
+    {
+      "id": 560,
+      "title": "TVP1 Poland",
+      "image": "",
+      "category": "General",
+      "country": "Poland",
+      "country_flag_emoji": "🇵🇱",
+      "language": "Polish",
+      "is_vip": true
+    },
+    {
+      "id": 561,
+      "title": "TVP2 Poland",
+      "image": "",
+      "category": "General",
+      "country": "Poland",
+      "country_flag_emoji": "🇵🇱",
+      "language": "Polish",
+      "is_vip": true
+    },
+    {
+      "id": 133,
+      "title": "Unimas",
+      "image": "",
+      "category": "General",
+      "country": "United States",
+      "country_flag_emoji": "🇺🇸",
+      "language": "Spanish",
+      "is_vip": true
+    },
+    {
+      "id": 132,
+      "title": "Univision",
+      "image": "",
+      "category": "General",
+      "country": "United States",
+      "country_flag_emoji": "🇺🇸",
+      "language": "Spanish",
+      "is_vip": true
+    },
+    {
+      "id": 343,
+      "title": "USA Network",
+      "image": "",
+      "category": "General",
+      "country": "United States",
+      "country_flag_emoji": "🇺🇸",
+      "language": "English",
+      "is_vip": true
+    },
+    {
+      "id": 378,
+      "title": "Veronica NL Netherland",
+      "image": "",
+      "category": "General",
+      "country": "Netherlands",
+      "country_flag_emoji": "🇳🇱",
+      "language": "Dutch",
+      "is_vip": true
+    },
+    {
+      "id": 1053,
+      "title": "Voyo Special 1 SK",
+      "image": "",
+      "category": "General",
+      "country": "Slovakia",
+      "country_flag_emoji": "🇸🇰",
+      "language": "Slovak",
+      "is_vip": true
+    },
+    {
+      "id": 1054,
+      "title": "Voyo Special 2 SK",
+      "image": "",
+      "category": "General",
+      "country": "Slovakia",
+      "country_flag_emoji": "🇸🇰",
+      "language": "Slovak",
+      "is_vip": true
+    },
+    {
+      "id": 1055,
+      "title": "Voyo Special 3 SK",
+      "image": "",
+      "category": "General",
+      "country": "Slovakia",
+      "country_flag_emoji": "🇸🇰",
+      "language": "Slovak",
+      "is_vip": true
+    },
+    {
+      "id": 1056,
+      "title": "Voyo Special 4 SK",
+      "image": "",
+      "category": "General",
+      "country": "Slovakia",
+      "country_flag_emoji": "🇸🇰",
+      "language": "Slovak",
+      "is_vip": true
+    },
+    {
+      "id": 1057,
+      "title": "Voyo Special 7 SK",
+      "image": "",
+      "category": "General",
+      "country": "Slovakia",
+      "country_flag_emoji": "🇸🇰",
+      "language": "Slovak",
+      "is_vip": true
+    },
+    {
+      "id": 1058,
+      "title": "Voyo Special 8 SK",
+      "image": "",
+      "category": "General",
+      "country": "Slovakia",
+      "country_flag_emoji": "🇸🇰",
+      "language": "Slovak",
+      "is_vip": true
+    },
+    {
+      "id": 1059,
+      "title": "Voyo Special 9 SK",
+      "image": "",
+      "category": "General",
+      "country": "Slovakia",
+      "country_flag_emoji": "🇸🇰",
+      "language": "Slovak",
+      "is_vip": true
+    },
+    {
+      "id": 391,
+      "title": "VTV+ Uruguay",
+      "image": "",
+      "category": "General",
+      "country": "Uruguay",
+      "country_flag_emoji": "🇺🇾",
+      "language": "Spanish",
+      "is_vip": true
+    },
+    {
+      "id": 959,
+      "title": "W9 France",
+      "image": "",
+      "category": "General",
+      "country": "France",
+      "country_flag_emoji": "🇫🇷",
+      "language": "French",
+      "is_vip": true
+    },
+    {
+      "id": 734,
+      "title": "WDR DE",
+      "image": "",
+      "category": "General",
+      "country": "Germany",
+      "country_flag_emoji": "🇩🇪",
+      "language": "German",
+      "is_vip": true
+    },
+    {
+      "id": 763,
+      "title": "YES Network USA",
+      "image": "",
+      "category": "General",
+      "country": "United States",
+      "country_flag_emoji": "🇺🇸",
+      "language": "English",
+      "is_vip": true
+    },
+    {
+      "id": 837,
+      "title": "Yes TV CA",
+      "image": "",
+      "category": "General",
+      "country": "Canada",
+      "country_flag_emoji": "🇨🇦",
+      "language": "English",
+      "is_vip": true
+    },
+    {
+      "id": 727,
+      "title": "ZDF DE",
+      "image": "",
+      "category": "General",
+      "country": "Germany",
+      "country_flag_emoji": "🇩🇪",
+      "language": "German",
+      "is_vip": true
+    },
+    {
+      "id": 395,
+      "title": "МАТЧ! БОЕЦ Russia",
+      "image": "",
+      "category": "General",
+      "country": "Russia",
+      "country_flag_emoji": "🇷🇺",
+      "language": "Russian",
+      "is_vip": true
+    },
+    {
+      "id": 648,
+      "title": "Boomerang",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/960px-Boomerang_2014_logo.svg.png",
+      "category": "Kids",
+      "country": "United States",
+      "country_flag_emoji": "🇺🇸",
+      "language": "English",
+      "is_vip": true
+    },
+    {
+      "id": 339,
+      "title": "Cartoon Network",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png",
+      "category": "Kids",
+      "country": "United States",
+      "country_flag_emoji": "🇺🇸",
+      "language": "English",
+      "is_vip": true
+    },
+    {
+      "id": 657,
+      "title": "Discovery Family",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/960px-2019_Discovery_logo.svg.png",
+      "category": "Kids",
+      "country": "United States",
+      "country_flag_emoji": "🇺🇸",
+      "language": "English",
+      "is_vip": true
+    },
+    {
+      "id": 652,
+      "title": "Disney JR",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg",
+      "category": "Kids",
+      "country": "United States",
+      "country_flag_emoji": "🇺🇸",
+      "language": "English",
+      "is_vip": true
+    },
+    {
+      "id": 314,
+      "title": "Disney XD",
+      "image": "",
+      "category": "Kids",
+      "country": "United States",
+      "country_flag_emoji": "🇺🇸",
+      "language": "English",
+      "is_vip": true
+    },
+    {
+      "id": 329,
+      "title": "NICK JR",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_(outline).svg/960px-Nick_Jr._logo_2023_(outline).svg.png",
+      "category": "Kids",
+      "country": "United States",
+      "country_flag_emoji": "🇺🇸",
+      "language": "English",
+      "is_vip": true
+    },
+    {
+      "id": 649,
+      "title": "Nicktoons",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/b/be/Nicktoons_Logo_2023.svg",
+      "category": "Kids",
+      "country": "United States",
+      "country_flag_emoji": "🇺🇸",
+      "language": "English",
+      "is_vip": true
+    },
+    {
+      "id": 795,
+      "title": "Showtime Family Zone (SHO Family Zone) USA",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Showtime_Family_Zone.svg/960px-Showtime_Family_Zone.svg.png",
+      "category": "Kids",
+      "country": "United States",
+      "country_flag_emoji": "🇺🇸",
+      "language": "English",
+      "is_vip": true
+    },
+    {
+      "id": 974,
+      "title": "Starz Kids & Family",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Starz_2022.svg/960px-Starz_2022.svg.png",
+      "category": "Kids",
+      "country": "United States",
+      "country_flag_emoji": "🇺🇸",
+      "language": "English",
+      "is_vip": true
+    },
+    {
+      "id": 668,
+      "title": "Universal Kids USA",
+      "image": "",
+      "category": "Kids",
+      "country": "United States",
+      "country_flag_emoji": "🇺🇸",
+      "language": "English",
+      "is_vip": true
+    },
+    {
+      "id": 544,
+      "title": "Yes Movies Kids Israel",
+      "image": "",
+      "category": "Kids",
+      "country": "Israel",
+      "country_flag_emoji": "🇮🇱",
+      "language": "Hebrew",
+      "is_vip": true
+    },
+    {
+      "id": 286,
+      "title": "YTV CA",
+      "image": "",
+      "category": "Kids",
+      "country": "Canada",
+      "country_flag_emoji": "🇨🇦",
+      "language": "English",
+      "is_vip": true
+    },
+    {
+      "id": 349,
+      "title": "BBC News Channel HD",
+      "image": "https://i.imgur.com/vSz2WEp.png",
+      "category": "News",
+      "country": "United Kingdom",
+      "country_flag_emoji": "🇬🇧",
+      "language": "English",
+      "is_vip": true
+    },
+    {
+      "id": 957,
+      "title": "BFM TV France",
+      "image": "",
+      "category": "News",
+      "country": "France",
+      "country_flag_emoji": "🇫🇷",
+      "language": "French",
+      "is_vip": true
+    },
+    {
+      "id": 309,
+      "title": "CNBC USA",
+      "image": "",
+      "category": "News",
+      "country": "United States",
+      "country_flag_emoji": "🇺🇸",
+      "language": "English",
+      "is_vip": true
+    },
+    {
+      "id": 964,
+      "title": "CNews France",
+      "image": "",
+      "category": "News",
+      "country": "France",
+      "country_flag_emoji": "🇫🇷",
+      "language": "French",
+      "is_vip": true
+    },
+    {
+      "id": 345,
+      "title": "CNN USA",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/960px-CNN.svg.png",
+      "category": "News",
+      "country": "United States",
+      "country_flag_emoji": "🇺🇸",
+      "language": "English",
+      "is_vip": true
+    },
+    {
+      "id": 347,
+      "title": "Fox News",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/960px-Fox_News_Channel_logo.svg.png",
+      "category": "News",
+      "country": "United States",
+      "country_flag_emoji": "🇺🇸",
+      "language": "English",
+      "is_vip": true
+    },
+    {
+      "id": 323,
+      "title": "Headline News",
+      "image": "",
+      "category": "News",
+      "country": "United States",
+      "country_flag_emoji": "🇺🇸",
+      "language": "English",
+      "is_vip": true
+    },
+    {
+      "id": 962,
+      "title": "LCI France",
+      "image": "",
+      "category": "News",
+      "country": "France",
+      "country_flag_emoji": "🇫🇷",
+      "language": "French",
+      "is_vip": true
+    },
+    {
+      "id": 327,
+      "title": "MSNBC",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/7f/MSNBC_2023.svg",
+      "category": "News",
+      "country": "United States",
+      "country_flag_emoji": "🇺🇸",
+      "language": "English",
+      "is_vip": true
+    },
+    {
+      "id": 613,
+      "title": "Newsmax USA",
+      "image": "",
+      "category": "News",
+      "country": "United States",
+      "country_flag_emoji": "🇺🇸",
+      "language": "English",
+      "is_vip": true
+    },
+    {
+      "id": 292,
+      "title": "NewsNation USA",
+      "image": "https://thehill.com/wp-content/uploads/sites/2/2025/08/NN-Stacked-Logo_Blue_1400x787.png",
+      "category": "News",
+      "country": "United States",
+      "country_flag_emoji": "🇺🇸",
+      "language": "English",
+      "is_vip": true
+    },
+    {
+      "id": 443,
+      "title": "Polsat News Poland",
+      "image": "",
+      "category": "News",
+      "country": "Poland",
+      "country_flag_emoji": "🇵🇱",
+      "language": "Polish",
+      "is_vip": true
+    },
+    {
+      "id": 695,
+      "title": "Sky NEWS UK",
+      "image": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1404.png",
+      "category": "News",
+      "country": "United Kingdom",
+      "country_flag_emoji": "🇬🇧",
+      "language": "English",
+      "is_vip": true
+    },
+    {
+      "id": 452,
+      "title": "TVP INFO",
+      "image": "",
+      "category": "News",
+      "country": "Poland",
+      "country_flag_emoji": "🇵🇱",
+      "language": "Polish",
+      "is_vip": true
+    },
+    {
+      "id": 269,
+      "title": "A Sport PK",
+      "image": "",
+      "category": "Sports",
+      "country": "Pakistan",
+      "country_flag_emoji": "🇵🇰",
+      "language": "Urdu",
+      "is_vip": true
+    },
+    {
+      "id": 609,
+      "title": "Abu Dhabi Sports 1 Premium",
+      "image": "",
+      "category": "Sports",
+      "country": "United Arab Emirates",
+      "country_flag_emoji": "🇦🇪",
+      "language": "Arabic",
+      "is_vip": true
+    },
+    {
+      "id": 600,
+      "title": "Abu Dhabi Sports 1 UAE",
+      "image": "",
+      "category": "Sports",
+      "country": "United Arab Emirates",
+      "country_flag_emoji": "🇦🇪",
+      "language": "Arabic",
+      "is_vip": true
+    },
+    {
+      "id": 610,
+      "title": "Abu Dhabi Sports 2 Premium",
+      "image": "",
+      "category": "Sports",
+      "country": "United Arab Emirates",
+      "country_flag_emoji": "🇦🇪",
+      "language": "Arabic",
+      "is_vip": true
+    },
+    {
+      "id": 601,
+      "title": "Abu Dhabi Sports 2 UAE",
+      "image": "",
+      "category": "Sports",
+      "country": "United Arab Emirates",
+      "country_flag_emoji": "🇦🇪",
+      "language": "Arabic",
+      "is_vip": true
+    },
+    {
+      "id": 664,
+      "title": "ACC Network USA",
+      "image": "",
+      "category": "Sports",
+      "country": "United States",
+      "country_flag_emoji": "🇺🇸",
+      "language": "English",
+      "is_vip": true
+    },
+    {
+      "id": 923,
+      "title": "Altitude Sports",
+      "image": "",
+      "category": "Sports",
+      "country": "United States",
+      "country_flag_emoji": "🇺🇸",
+      "language": "English",
+      "is_vip": true
+    },
+    {
+      "id": 579,
+      "title": "Arena Sport 1 BiH",
+      "image": "",
+      "category": "Sports",
+      "country": "Bosnia and Herzegovina",
+      "country_flag_emoji": "🇧🇦",
+      "language": "Bosnian / Croatian / Serbian",
+      "is_vip": true
+    },
+    {
+      "id": 432,
+      "title": "Arena Sport 1 Croatia",
+      "image": "",
+      "category": "Sports",
+      "country": "Croatia",
+      "country_flag_emoji": "🇭🇷",
+      "language": "Croatian",
+      "is_vip": true
+    },
+    {
+      "id": 134,
+      "title": "Arena Sport 1 Premium",
+      "image": "",
+      "category": "Sports",
+      "country": "Slovenia",
+      "country_flag_emoji": "🇸🇮",
+      "language": "Slovenian",
+      "is_vip": true
+    },
+    {
+      "id": 429,
+      "title": "Arena Sport 1 Serbia",
+      "image": "",
+      "category": "Sports",
+      "country": "Serbia",
+      "country_flag_emoji": "🇷🇸",
+      "language": "Serbian",
+      "is_vip": true
+    },
+    {
+      "id": 945,
+      "title": "Arena Sport 10 Serbia",
+      "image": "",
+      "category": "Sports",
+      "country": "Serbia",
+      "country_flag_emoji": "🇷🇸",
+      "language": "Serbian",
+      "is_vip": true
+    },
+    {
+      "id": 433,
+      "title": "Arena Sport 2 Croatia",
+      "image": "",
+      "category": "Sports",
+      "country": "Croatia",
+      "country_flag_emoji": "🇭🇷",
+      "language": "Croatian",
+      "is_vip": true
+    },
+    {
+      "id": 135,
+      "title": "Arena Sport 2 Premium",
+      "image": "",
+      "category": "Sports",
+      "country": "Slovenia",
+      "country_flag_emoji": "🇸🇮",
+      "language": "Slovenian",
+      "is_vip": true
+    },
+    {
+      "id": 430,
+      "title": "Arena Sport 2 Serbia",
+      "image": "",
+      "category": "Sports",
+      "country": "Serbia",
+      "country_flag_emoji": "🇷🇸",
+      "language": "Serbian",
+      "is_vip": true
+    },
+    {
+      "id": 434,
+      "title": "Arena Sport 3 Croatia",
+      "image": "",
+      "category": "Sports",
+      "country": "Croatia",
+      "country_flag_emoji": "🇭🇷",
+      "language": "Croatian",
+      "is_vip": true
+    },
+    {
+      "id": 139,
+      "title": "Arena Sport 3 Premium",
+      "image": "",
+      "category": "Sports",
+      "country": "Slovenia",
+      "country_flag_emoji": "🇸🇮",
+      "language": "Slovenian",
+      "is_vip": true
+    },
+    {
+      "id": 431,
+      "title": "Arena Sport 3 Serbia",
+      "image": "",
+      "category": "Sports",
+      "country": "Serbia",
+      "country_flag_emoji": "🇷🇸",
+      "language": "Serbian",
+      "is_vip": true
+    },
+    {
+      "id": 580,
+      "title": "Arena Sport 4 Croatia",
+      "image": "",
+      "category": "Sports",
+      "country": "Croatia",
+      "country_flag_emoji": "🇭🇷",
+      "language": "Croatian",
+      "is_vip": true
+    },
+    {
+      "id": 581,
+      "title": "Arena Sport 4 Serbia",
+      "image": "",
+      "category": "Sports",
+      "country": "Serbia",
+      "country_flag_emoji": "🇷🇸",
+      "language": "Serbian",
+      "is_vip": true
+    },
+    {
+      "id": 940,
+      "title": "Arena Sport 5 Serbia",
+      "image": "",
+      "category": "Sports",
+      "country": "Serbia",
+      "country_flag_emoji": "🇷🇸",
+      "language": "Serbian",
+      "is_vip": true
+    },
+    {
+      "id": 941,
+      "title": "Arena Sport 6 Serbia",
+      "image": "",
+      "category": "Sports",
+      "country": "Serbia",
+      "country_flag_emoji": "🇷🇸",
+      "language": "Serbian",
+      "is_vip": true
+    },
+    {
+      "id": 942,
+      "title": "Arena Sport 7 Serbia",
+      "image": "",
+      "category": "Sports",
+      "country": "Serbia",
+      "country_flag_emoji": "🇷🇸",
+      "language": "Serbian",
+      "is_vip": true
+    },
+    {
+      "id": 943,
+      "title": "Arena Sport 8 Serbia",
+      "image": "",
+      "category": "Sports",
+      "country": "Serbia",
+      "country_flag_emoji": "🇷🇸",
+      "language": "Serbian",
+      "is_vip": true
+    },
+    {
+      "id": 944,
+      "title": "Arena Sport 9 Serbia",
+      "image": "",
+      "category": "Sports",
+      "country": "Serbia",
+      "country_flag_emoji": "🇷🇸",
+      "language": "Serbian",
+      "is_vip": true
+    },
+    {
+      "id": 612,
+      "title": "Arena Sports Tenis Serbia",
+      "image": "",
+      "category": "Sports",
+      "country": "Serbia",
+      "country_flag_emoji": "🇷🇸",
+      "language": "Serbian",
+      "is_vip": true
+    },
+    {
+      "id": 370,
+      "title": "Astro Cricket",
+      "image": "",
+      "category": "Sports",
+      "country": "Malaysia",
+      "country_flag_emoji": "🇲🇾",
+      "language": "Malay",
+      "is_vip": true
+    },
+    {
+      "id": 123,
+      "title": "Astro SuperSport 1",
+      "image": "",
+      "category": "Sports",
+      "country": "Malaysia",
+      "country_flag_emoji": "🇲🇾",
+      "language": "Malay",
+      "is_vip": true
+    },
+    {
+      "id": 124,
+      "title": "Astro SuperSport 2",
+      "image": "",
+      "category": "Sports",
+      "country": "Malaysia",
+      "country_flag_emoji": "🇲🇾",
+      "language": "Malay",
+      "is_vip": true
+    },
+    {
+      "id": 125,
+      "title": "Astro SuperSport 3",
+      "image": "",
+      "category": "Sports",
+      "country": "Malaysia",
+      "country_flag_emoji": "🇲🇾",
+      "language": "Malay",
+      "is_vip": true
+    },
+    {
+      "id": 126,
+      "title": "Astro SuperSport 4",
+      "image": "",
+      "category": "Sports",
+      "country": "Malaysia",
+      "country_flag_emoji": "🇲🇾",
+      "language": "Malay",
+      "is_vip": true
+    },
+    {
+      "id": 275,
+      "title": "Bandsports Brasil",
+      "image": "",
+      "category": "Sports",
+      "country": "Brazil",
+      "country_flag_emoji": "🇧🇷",
+      "language": "Portuguese",
+      "is_vip": true
+    },
+    {
+      "id": 91,
+      "title": "beIN Sports 1 Arabic",
+      "image": "https://i.imgur.com/Vtk2cGI.png",
+      "category": "Sports",
+      "country": "Qatar",
+      "country_flag_emoji": "🇶🇦",
+      "language": "Arabic",
+      "is_vip": true
+    },
+    {
+      "id": 116,
+      "title": "beIN SPORTS 1 France",
+      "image": "https://i.imgur.com/Vtk2cGI.png",
+      "category": "Sports",
+      "country": "France",
+      "country_flag_emoji": "🇫🇷",
+      "language": "French",
+      "is_vip": true
+    },
+    {
+      "id": 712,
+      "title": "beIN Sports 1 Malaysia",
+      "image": "https://i.imgur.com/Vtk2cGI.png",
+      "category": "Sports",
+      "country": "Malaysia",
+      "country_flag_emoji": "🇲🇾",
+      "language": "Malay",
+      "is_vip": true
+    },
+    {
+      "id": 62,
+      "title": "beIN SPORTS 1 Turkey",
+      "image": "https://i.imgur.com/Vtk2cGI.png",
+      "category": "Sports",
+      "country": "Türkiye",
+      "country_flag_emoji": "🇹🇷",
+      "language": "Turkish",
+      "is_vip": true
+    },
+    {
+      "id": 92,
+      "title": "beIN Sports 2 Arabic",
+      "image": "https://i.imgur.com/vUJZSvs.png",
+      "category": "Sports",
+      "country": "Qatar",
+      "country_flag_emoji": "🇶🇦",
+      "language": "Arabic",
+      "is_vip": true
+    },
+    {
+      "id": 117,
+      "title": "beIN SPORTS 2 France",
+      "image": "https://i.imgur.com/vUJZSvs.png",
+      "category": "Sports",
+      "country": "France",
+      "country_flag_emoji": "🇫🇷",
+      "language": "French",
+      "is_vip": true
+    },
+    {
+      "id": 713,
+      "title": "beIN Sports 2 Malaysia",
+      "image": "https://i.imgur.com/vUJZSvs.png",
+      "category": "Sports",
+      "country": "Malaysia",
+      "country_flag_emoji": "🇲🇾",
+      "language": "Malay",
+      "is_vip": true
+    },
+    {
+      "id": 63,
+      "title": "beIN SPORTS 2 Turkey",
+      "image": "https://i.imgur.com/vUJZSvs.png",
+      "category": "Sports",
+      "country": "Türkiye",
+      "country_flag_emoji": "🇹🇷",
+      "language": "Turkish",
+      "is_vip": true
+    },
+    {
+      "id": 93,
+      "title": "beIN Sports 3 Arabic",
+      "image": "https://i.imgur.com/UYSMao3.png",
+      "category": "Sports",
+      "country": "Qatar",
+      "country_flag_emoji": "🇶🇦",
+      "language": "Arabic",
+      "is_vip": true
+    },
+    {
+      "id": 118,
+      "title": "beIN SPORTS 3 France",
+      "image": "https://i.imgur.com/UYSMao3.png",
+      "category": "Sports",
+      "country": "France",
+      "country_flag_emoji": "🇫🇷",
+      "language": "French",
+      "is_vip": true
+    },
+    {
+      "id": 714,
+      "title": "beIN Sports 3 Malaysia",
+      "image": "https://i.imgur.com/UYSMao3.png",
+      "category": "Sports",
+      "country": "Malaysia",
+      "country_flag_emoji": "🇲🇾",
+      "language": "Malay",
+      "is_vip": true
+    },
+    {
+      "id": 64,
+      "title": "beIN SPORTS 3 Turkey",
+      "image": "https://i.imgur.com/UYSMao3.png",
+      "category": "Sports",
+      "country": "Türkiye",
+      "country_flag_emoji": "🇹🇷",
+      "language": "Turkish",
+      "is_vip": true
+    },
+    {
+      "id": 94,
+      "title": "beIN Sports 4 Arabic",
+      "image": "https://i.imgur.com/vwAgJNi.png",
+      "category": "Sports",
+      "country": "Qatar",
+      "country_flag_emoji": "🇶🇦",
+      "language": "Arabic",
+      "is_vip": true
+    },
+    {
+      "id": 67,
+      "title": "beIN SPORTS 4 Turkey",
+      "image": "https://i.imgur.com/vwAgJNi.png",
+      "category": "Sports",
+      "country": "Türkiye",
+      "country_flag_emoji": "🇹🇷",
+      "language": "Turkish",
+      "is_vip": true
+    },
+    {
+      "id": 95,
+      "title": "beIN Sports 5 Arabic",
+      "image": "https://i.imgur.com/2Rha5aY.png",
+      "category": "Sports",
+      "country": "Qatar",
+      "country_flag_emoji": "🇶🇦",
+      "language": "Arabic",
+      "is_vip": true
+    },
+    {
+      "id": 1010,
+      "title": "bein Sports 5 Turkey",
+      "image": "https://i.imgur.com/2Rha5aY.png",
+      "category": "Sports",
+      "country": "Türkiye",
+      "country_flag_emoji": "🇹🇷",
+      "language": "Turkish",
+      "is_vip": true
+    },
+    {
+      "id": 96,
+      "title": "beIN Sports 6 Arabic",
+      "image": "https://i.imgur.com/0wBdLYb.png",
+      "category": "Sports",
+      "country": "Qatar",
+      "country_flag_emoji": "🇶🇦",
+      "language": "Arabic",
+      "is_vip": true
+    },
+    {
+      "id": 97,
+      "title": "beIN Sports 7 Arabic",
+      "image": "https://i.imgur.com/iODFwZi.png",
+      "category": "Sports",
+      "country": "Qatar",
+      "country_flag_emoji": "🇶🇦",
+      "language": "Arabic",
+      "is_vip": true
+    },
+    {
+      "id": 98,
+      "title": "beIN Sports 8 Arabic",
+      "image": "https://i.imgur.com/CaFEyVn.png",
+      "category": "Sports",
+      "country": "Qatar",
+      "country_flag_emoji": "🇶🇦",
+      "language": "Arabic",
+      "is_vip": true
+    },
+    {
+      "id": 99,
+      "title": "beIN Sports 9 Arabic",
+      "image": "https://assets.bein.com/mena/sites/3/2023/09/logos-_beINSPORTS9.png",
+      "category": "Sports",
+      "country": "Qatar",
+      "country_flag_emoji": "🇶🇦",
+      "language": "Arabic",
+      "is_vip": true
+    },
+    {
+      "id": 491,
+      "title": "beIN SPORTS Australia 1",
+      "image": "",
+      "category": "Sports",
+      "country": "Australia",
+      "country_flag_emoji": "🇦🇺",
+      "language": "English",
+      "is_vip": true
+    },
+    {
+      "id": 492,
+      "title": "beIN SPORTS Australia 2",
+      "image": "",
+      "category": "Sports",
+      "country": "Australia",
+      "country_flag_emoji": "🇦🇺",
+      "language": "English",
+      "is_vip": true
+    },
+    {
+      "id": 493,
+      "title": "beIN SPORTS Australia 3",
+      "image": "",
+      "category": "Sports",
+      "country": "Australia",
+      "country_flag_emoji": "🇦🇺",
+      "language": "English",
+      "is_vip": true
+    },
+    {
+      "id": 372,
+      "title": "beIN SPORTS en Espa単ol",
+      "image": "",
+      "category": "Sports",
+      "country": "United States",
+      "country_flag_emoji": "🇺🇸",
+      "language": "Spanish",
+      "is_vip": true
+    },
+    {
+      "id": 578,
+      "title": "BeIN Sports HD Qatar",
+      "image": "",
+      "category": "Sports",
+      "country": "Qatar",
+      "country_flag_emoji": "🇶🇦",
+      "language": "Arabic",
+      "is_vip": true
+    },
+    {
+      "id": 500,
+      "title": "beIN Sports MAX 10 France",
+      "image": "",
+      "category": "Sports",
+      "country": "France",
+      "country_flag_emoji": "🇫🇷",
+      "language": "French",
+      "is_vip": true
+    },
+    {
+      "id": 494,
+      "title": "beIN Sports MAX 4 France",
+      "image": "",
+      "category": "Sports",
+      "country": "France",
+      "country_flag_emoji": "🇫🇷",
+      "language": "French",
+      "is_vip": true
+    },
+    {
+      "id": 495,
+      "title": "beIN Sports MAX 5 France",
+      "image": "",
+      "category": "Sports",
+      "country": "France",
+      "country_flag_emoji": "🇫🇷",
+      "language": "French",
+      "is_vip": true
+    },
+    {
+      "id": 496,
+      "title": "beIN Sports MAX 6 France",
+      "image": "",
+      "category": "Sports",
+      "country": "France",
+      "country_flag_emoji": "🇫🇷",
+      "language": "French",
+      "is_vip": true
+    },
+    {
+      "id": 497,
+      "title": "beIN Sports MAX 7 France",
+      "image": "",
+      "category": "Sports",
+      "country": "France",
+      "country_flag_emoji": "🇫🇷",
+      "language": "French",
+      "is_vip": true
+    },
+    {
+      "id": 498,
+      "title": "beIN Sports MAX 8 France",
+      "image": "",
+      "category": "Sports",
+      "country": "France",
+      "country_flag_emoji": "🇫🇷",
+      "language": "French",
+      "is_vip": true
+    },
+    {
+      "id": 499,
+      "title": "beIN Sports MAX 9 France",
+      "image": "",
+      "category": "Sports",
+      "country": "France",
+      "country_flag_emoji": "🇫🇷",
+      "language": "French",
+      "is_vip": true
+    },
+    {
+      "id": 597,
+      "title": "beIN SPORTS MAX AR",
+      "image": "",
+      "category": "Sports",
+      "country": "Qatar",
+      "country_flag_emoji": "🇶🇦",
+      "language": "Arabic",
+      "is_vip": true
+    },
+    {
+      "id": 61,
+      "title": "beIN Sports MENA English 1",
+      "image": "",
+      "category": "Sports",
+      "country": "Qatar",
+      "country_flag_emoji": "🇶🇦",
+      "language": "English",
+      "is_vip": true
+    },
+    {
+      "id": 90,
+      "title": "beIN Sports MENA English 2",
+      "image": "",
+      "category": "Sports",
+      "country": "Qatar",
+      "country_flag_emoji": "🇶🇦",
+      "language": "English",
+      "is_vip": true
+    },
+    {
+      "id": 425,
+      "title": "BeIN SPORTS USA",
+      "image": "",
+      "category": "Sports",
+      "country": "United States",
+      "country_flag_emoji": "🇺🇸",
+      "language": "English",
+      "is_vip": true
+    },
+    {
+      "id": 100,
+      "title": "beIN SPORTS XTRA 1",
+      "image": "",
+      "category": "Sports",
+      "country": "United States",
+      "country_flag_emoji": "🇺🇸",
+      "language": "English",
+      "is_vip": true
+    },
+    {
+      "id": 397,
+      "title": "BIG TEN Network (BTN USA)",
+      "image": "",
+      "category": "Sports",
+      "country": "United States",
+      "country_flag_emoji": "🇺🇸",
+      "language": "English",
+      "is_vip": true
+    },
+    {
+      "id": 463,
+      "title": "Canal+ Foot France",
+      "image": "",
+      "category": "Sports",
+      "country": "France",
+      "country_flag_emoji": "🇫🇷",
+      "language": "French",
+      "is_vip": true
+    },
+    {
+      "id": 273,
+      "title": "Canal+ Formula 1",
+      "image": "",
+      "category": "Sports",
+      "country": "France",
+      "country_flag_emoji": "🇫🇷",
+      "language": "French",
+      "is_vip": true
+    },
+    {
+      "id": 271,
+      "title": "Canal+ MotoGP France",
+      "image": "",
+      "category": "Sports",
+      "country": "France",
+      "country_flag_emoji": "🇫🇷",
+      "language": "French",
+      "is_vip": true
+    },
+    {
+      "id": 486,
+      "title": "Canal+ Sport 1 Afrique",
+      "image": "https://i.imgur.com/EOXnU15.png",
+      "category": "Sports",
+      "country": "Pan-Africa",
+      "country_flag_emoji": "🌍",
+      "language": "French",
+      "is_vip": true
+    },
+    {
+      "id": 487,
+      "title": "Canal+ Sport 2 Afrique",
+      "image": "https://i.imgur.com/EOXnU15.png",
+      "category": "Sports",
+      "country": "Pan-Africa",
+      "country_flag_emoji": "🌍",
+      "language": "French",
+      "is_vip": true
+    },
+    {
+      "id": 1043,
+      "title": "Canal+ Sport 2 CZ",
+      "image": "https://i.imgur.com/EOXnU15.png",
+      "category": "Sports",
+      "country": "Czechia",
+      "country_flag_emoji": "🇨🇿",
+      "language": "Czech",
+      "is_vip": true
+    },
+    {
+      "id": 73,
+      "title": "Canal+ Sport 2 Poland",
+      "image": "https://i.imgur.com/EOXnU15.png",
+      "category": "Sports",
+      "country": "Poland",
+      "country_flag_emoji": "🇵🇱",
+      "language": "Polish",
+      "is_vip": true
+    },
+    {
+      "id": 1064,
+      "title": "Canal+ Sport 2 SK",
+      "image": "https://i.imgur.com/EOXnU15.png",
+      "category": "Sports",
+      "country": "Slovakia",
+      "country_flag_emoji": "🇸🇰",
+      "language": "Slovak",
+      "is_vip": true
+    },
+    {
+      "id": 488,
+      "title": "Canal+ Sport 3 Afrique",
+      "image": "https://i.imgur.com/EOXnU15.png",
+      "category": "Sports",
+      "country": "Pan-Africa",
+      "country_flag_emoji": "🌍",
+      "language": "French",
+      "is_vip": true
+    },
+    {
+      "id": 1044,
+      "title": "Canal+ Sport 3 CZ",
+      "image": "https://i.imgur.com/EOXnU15.png",
+      "category": "Sports",
+      "country": "Czechia",
+      "country_flag_emoji": "🇨🇿",
+      "language": "Czech",
+      "is_vip": true
+    },
+    {
+      "id": 259,
+      "title": "Canal+ Sport 3 Poland",
+      "image": "https://i.imgur.com/EOXnU15.png",
+      "category": "Sports",
+      "country": "Poland",
+      "country_flag_emoji": "🇵🇱",
+      "language": "Polish",
+      "is_vip": true
+    },
+    {
+      "id": 1065,
+      "title": "Canal+ Sport 3 SK",
+      "image": "https://i.imgur.com/EOXnU15.png",
+      "category": "Sports",
+      "country": "Slovakia",
+      "country_flag_emoji": "🇸🇰",
+      "language": "Slovak",
+      "is_vip": true
+    },
+    {
+      "id": 489,
+      "title": "Canal+ Sport 4 Afrique",
+      "image": "https://i.imgur.com/EOXnU15.png",
+      "category": "Sports",
+      "country": "Pan-Africa",
+      "country_flag_emoji": "🌍",
+      "language": "French",
+      "is_vip": true
+    },
+    {
+      "id": 1045,
+      "title": "Canal+ Sport 4 CZ",
+      "image": "https://i.imgur.com/EOXnU15.png",
+      "category": "Sports",
+      "country": "Czechia",
+      "country_flag_emoji": "🇨🇿",
+      "language": "Czech",
+      "is_vip": true
+    },
+    {
+      "id": 1066,
+      "title": "Canal+ Sport 4 SK",
+      "image": "https://i.imgur.com/EOXnU15.png",
+      "category": "Sports",
+      "country": "Slovakia",
+      "country_flag_emoji": "🇸🇰",
+      "language": "Slovak",
+      "is_vip": true
+    },
+    {
+      "id": 490,
+      "title": "Canal+ Sport 5 Afrique",
+      "image": "https://i.imgur.com/EOXnU15.png",
+      "category": "Sports",
+      "country": "Pan-Africa",
+      "country_flag_emoji": "🌍",
+      "language": "French",
+      "is_vip": true
+    },
+    {
+      "id": 1046,
+      "title": "Canal+ Sport 5 CZ",
+      "image": "https://i.imgur.com/EOXnU15.png",
+      "category": "Sports",
+      "country": "Czechia",
+      "country_flag_emoji": "🇨🇿",
+      "language": "Czech",
+      "is_vip": true
+    },
+    {
+      "id": 75,
+      "title": "Canal+ Sport 5 Poland",
+      "image": "https://i.imgur.com/EOXnU15.png",
+      "category": "Sports",
+      "country": "Poland",
+      "country_flag_emoji": "🇵🇱",
+      "language": "Polish",
+      "is_vip": true
+    },
+    {
+      "id": 1047,
+      "title": "Canal+ Sport 6 CZ",
+      "image": "https://i.imgur.com/EOXnU15.png",
+      "category": "Sports",
+      "country": "Czechia",
+      "country_flag_emoji": "🇨🇿",
+      "language": "Czech",
+      "is_vip": true
+    },
+    {
+      "id": 1048,
+      "title": "Canal+ Sport 7 CZ",
+      "image": "https://i.imgur.com/EOXnU15.png",
+      "category": "Sports",
+      "country": "Czechia",
+      "country_flag_emoji": "🇨🇿",
+      "language": "Czech",
+      "is_vip": true
+    },
+    {
+      "id": 1049,
+      "title": "Canal+ Sport 8 CZ",
+      "image": "https://i.imgur.com/EOXnU15.png",
+      "category": "Sports",
+      "country": "Czechia",
+      "country_flag_emoji": "🇨🇿",
+      "language": "Czech",
+      "is_vip": true
+    },
+    {
+      "id": 1020,
+      "title": "Canal+ Sport CZ",
+      "image": "https://i.imgur.com/EOXnU15.png",
+      "category": "Sports",
+      "country": "Czechia",
+      "country_flag_emoji": "🇨🇿",
+      "language": "Czech",
+      "is_vip": true
+    },
+    {
+      "id": 122,
+      "title": "Canal+ Sport France",
+      "image": "https://i.imgur.com/EOXnU15.png",
+      "category": "Sports",
+      "country": "France",
+      "country_flag_emoji": "🇫🇷",
+      "language": "French",
+      "is_vip": true
+    },
+    {
+      "id": 48,
+      "title": "Canal+ Sport Poland",
+      "image": "https://i.imgur.com/E0WTMa2.png",
+      "category": "Sports",
+      "country": "Poland",
+      "country_flag_emoji": "🇵🇱",
+      "language": "Polish",
+      "is_vip": true
+    },
+    {
+      "id": 1063,
+      "title": "Canal+ Sport SK",
+      "image": "https://i.imgur.com/EOXnU15.png",
+      "category": "Sports",
+      "country": "Slovakia",
+      "country_flag_emoji": "🇸🇰",
+      "language": "Slovak",
+      "is_vip": true
+    },
+    {
+      "id": 464,
+      "title": "Canal+ Sport360",
+      "image": "https://i.imgur.com/EOXnU15.png",
+      "category": "Sports",
+      "country": "France",
+      "country_flag_emoji": "🇫🇷",
+      "language": "French",
+      "is_vip": true
+    },
+    {
+      "id": 910,
+      "title": "CBS Sports Golazo",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/960px-CBS_logo_%282020%29.svg.png",
+      "category": "Sports",
+      "country": "United States",
+      "country_flag_emoji": "🇺🇸",
+      "language": "English",
+      "is_vip": true
+    },
+    {
+      "id": 308,
+      "title": "CBS Sports Network (CBSSN)",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/960px-CBS_logo_%282020%29.svg.png",
+      "category": "Sports",
+      "country": "United States",
+      "country_flag_emoji": "🇺🇸",
+      "language": "English",
+      "is_vip": true
+    },
+    {
+      "id": 776,
+      "title": "Chicago Sports Network",
+      "image": "",
+      "category": "Sports",
+      "country": "United States",
+      "country_flag_emoji": "🇺🇸",
+      "language": "English",
+      "is_vip": true
+    },
+    {
+      "id": 933,
+      "title": "Claro Sports MX",
+      "image": "",
+      "category": "Sports",
+      "country": "Mexico",
+      "country_flag_emoji": "🇲🇽",
+      "language": "Spanish",
+      "is_vip": true
+    },
+    {
+      "id": 89,
+      "title": "Combate Brasil",
+      "image": "",
+      "category": "Sports",
+      "country": "Brazil",
+      "country_flag_emoji": "🇧🇷",
+      "language": "Portuguese",
+      "is_vip": true
+    },
+    {
+      "id": 1033,
+      "title": "CT Sport CZ",
+      "image": "",
+      "category": "Sports",
+      "country": "Czechia",
+      "country_flag_emoji": "🇨🇿",
+      "language": "Czech",
+      "is_vip": true
+    },
+    {
+      "id": 911,
+      "title": "Cytavision Sports 1 Cyprus",
+      "image": "",
+      "category": "Sports",
+      "country": "Cyprus",
+      "country_flag_emoji": "🇨🇾",
+      "language": "Greek",
+      "is_vip": true
+    },
+    {
+      "id": 912,
+      "title": "Cytavision Sports 2 Cyprus",
+      "image": "",
+      "category": "Sports",
+      "country": "Cyprus",
+      "country_flag_emoji": "🇨🇾",
+      "language": "Greek",
+      "is_vip": true
+    },
+    {
+      "id": 913,
+      "title": "Cytavision Sports 3 Cyprus",
+      "image": "",
+      "category": "Sports",
+      "country": "Cyprus",
+      "country_flag_emoji": "🇨🇾",
+      "language": "Greek",
+      "is_vip": true
+    },
+    {
+      "id": 914,
+      "title": "Cytavision Sports 4 Cyprus",
+      "image": "",
+      "category": "Sports",
+      "country": "Cyprus",
+      "country_flag_emoji": "🇨🇾",
+      "language": "Greek",
+      "is_vip": true
+    },
+    {
+      "id": 915,
+      "title": "Cytavision Sports 5 Cyprus",
+      "image": "",
+      "category": "Sports",
+      "country": "Cyprus",
+      "country_flag_emoji": "🇨🇾",
+      "language": "Greek",
+      "is_vip": true
+    },
+    {
+      "id": 916,
+      "title": "Cytavision Sports 6 Cyprus",
+      "image": "",
+      "category": "Sports",
+      "country": "Cyprus",
+      "country_flag_emoji": "🇨🇾",
+      "language": "Greek",
+      "is_vip": true
+    },
+    {
+      "id": 917,
+      "title": "Cytavision Sports 7 Cyprus",
+      "image": "",
+      "category": "Sports",
+      "country": "Cyprus",
+      "country_flag_emoji": "🇨🇾",
+      "language": "Greek",
+      "is_vip": true
+    },
+    {
+      "id": 426,
+      "title": "DAZN 1 Bar DE",
+      "image": "",
+      "category": "Sports",
+      "country": "Germany",
+      "country_flag_emoji": "🇩🇪",
+      "language": "German",
+      "is_vip": true
+    },
+    {
+      "id": 445,
+      "title": "DAZN 1 Spain",
+      "image": "",
+      "category": "Sports",
+      "country": "Spain",
+      "country_flag_emoji": "🇪🇸",
+      "language": "Spanish",
+      "is_vip": true
+    },
+    {
+      "id": 230,
+      "title": "DAZN 1 UK",
+      "image": "",
+      "category": "Sports",
+      "country": "United Kingdom",
+      "country_flag_emoji": "🇬🇧",
+      "language": "English",
+      "is_vip": true
+    },
+    {
+      "id": 427,
+      "title": "DAZN 2 Bar DE",
+      "image": "",
+      "category": "Sports",
+      "country": "Germany",
+      "country_flag_emoji": "🇩🇪",
+      "language": "German",
+      "is_vip": true
+    },
+    {
+      "id": 446,
+      "title": "DAZN 2 Spain",
+      "image": "",
+      "category": "Sports",
+      "country": "Spain",
+      "country_flag_emoji": "🇪🇸",
+      "language": "Spanish",
+      "is_vip": true
+    },
+    {
+      "id": 447,
+      "title": "DAZN 3 Spain",
+      "image": "",
+      "category": "Sports",
+      "country": "Spain",
+      "country_flag_emoji": "🇪🇸",
+      "language": "Spanish",
+      "is_vip": true
+    },
+    {
+      "id": 448,
+      "title": "DAZN 4 Spain",
+      "image": "",
+      "category": "Sports",
+      "country": "Spain",
+      "country_flag_emoji": "🇪🇸",
+      "language": "Spanish",
+      "is_vip": true
+    },
+    {
+      "id": 537,
+      "title": "DAZN F1 ES",
+      "image": "",
+      "category": "Sports",
+      "country": "Spain",
+      "country_flag_emoji": "🇪🇸",
+      "language": "Spanish",
+      "is_vip": true
+    },
+    {
+      "id": 538,
+      "title": "DAZN LaLiga",
+      "image": "",
+      "category": "Sports",
+      "country": "Spain",
+      "country_flag_emoji": "🇪🇸",
+      "language": "Spanish",
+      "is_vip": true
+    },
+    {
+      "id": 960,
+      "title": "DAZN Ligue 1 France",
+      "image": "",
+      "category": "Sports",
+      "country": "France",
+      "country_flag_emoji": "🇫🇷",
+      "language": "French",
+      "is_vip": true
+    },
+    {
+      "id": 918,
+      "title": "DAZN Portugal FIFA Mundial de Clubes",
+      "image": "",
+      "category": "Sports",
+      "country": "Portugal",
+      "country_flag_emoji": "🇵🇹",
+      "language": "Portuguese",
+      "is_vip": true
+    },
+    {
+      "id": 877,
+      "title": "DAZN ZONA Italy",
+      "image": "",
+      "category": "Sports",
+      "country": "Italy",
+      "country_flag_emoji": "🇮🇹",
+      "language": "Italian",
+      "is_vip": true
+    },
+    {
+      "id": 466,
+      "title": "Diema Sport 2 Bulgaria",
+      "image": "",
+      "category": "Sports",
+      "country": "Bulgaria",
+      "country_flag_emoji": "🇧🇬",
+      "language": "Bulgarian",
+      "is_vip": true
+    },
+    {
+      "id": 467,
+      "title": "Diema Sport 3 Bulgaria",
+      "image": "",
+      "category": "Sports",
+      "country": "Bulgaria",
+      "country_flag_emoji": "🇧🇬",
+      "language": "Bulgarian",
+      "is_vip": true
+    },
+    {
+      "id": 465,
+      "title": "Diema Sport Bulgaria",
+      "image": "",
+      "category": "Sports",
+      "country": "Bulgaria",
+      "country_flag_emoji": "🇧🇬",
+      "language": "Bulgarian",
+      "is_vip": true
+    },
+    {
+      "id": 400,
+      "title": "Digi Sport 1 Romania",
+      "image": "",
+      "category": "Sports",
+      "country": "Romania",
+      "country_flag_emoji": "🇷🇴",
+      "language": "Romanian",
+      "is_vip": true
+    },
+    {
+      "id": 401,
+      "title": "Digi Sport 2 Romania",
+      "image": "",
+      "category": "Sports",
+      "country": "Romania",
+      "country_flag_emoji": "🇷🇴",
+      "language": "Romanian",
+      "is_vip": true
+    },
+    {
+      "id": 402,
+      "title": "Digi Sport 3 Romania",
+      "image": "",
+      "category": "Sports",
+      "country": "Romania",
+      "country_flag_emoji": "🇷🇴",
+      "language": "Romanian",
+      "is_vip": true
+    },
+    {
+      "id": 403,
+      "title": "Digi Sport 4 Romania",
+      "image": "",
+      "category": "Sports",
+      "country": "Romania",
+      "country_flag_emoji": "🇷🇴",
+      "language": "Romanian",
+      "is_vip": true
+    },
+    {
+      "id": 608,
+      "title": "Dubai Racing 2 UAE",
+      "image": "",
+      "category": "Sports",
+      "country": "United Arab Emirates",
+      "country_flag_emoji": "🇦🇪",
+      "language": "Arabic",
+      "is_vip": true
+    },
+    {
+      "id": 604,
+      "title": "Dubai Sports 1 UAE",
+      "image": "",
+      "category": "Sports",
+      "country": "United Arab Emirates",
+      "country_flag_emoji": "🇦🇪",
+      "language": "Arabic",
+      "is_vip": true
+    },
+    {
+      "id": 605,
+      "title": "Dubai Sports 2 UAE",
+      "image": "",
+      "category": "Sports",
+      "country": "United Arab Emirates",
+      "country_flag_emoji": "🇦🇪",
+      "language": "Arabic",
+      "is_vip": true
+    },
+    {
+      "id": 606,
+      "title": "Dubai Sports 3 UAE",
+      "image": "",
+      "category": "Sports",
+      "country": "United Arab Emirates",
+      "country_flag_emoji": "🇦🇪",
+      "language": "Arabic",
+      "is_vip": true
+    },
+    {
+      "id": 71,
+      "title": "Eleven Sports 1 Poland",
+      "image": "",
+      "category": "Sports",
+      "country": "Poland",
+      "country_flag_emoji": "🇵🇱",
+      "language": "Polish",
+      "is_vip": true
+    },
+    {
+      "id": 455,
+      "title": "Eleven Sports 1 Portugal",
+      "image": "",
+      "category": "Sports",
+      "country": "Portugal",
+      "country_flag_emoji": "🇵🇹",
+      "language": "Portuguese",
+      "is_vip": true
+    },
+    {
+      "id": 72,
+      "title": "Eleven Sports 2 Poland",
+      "image": "",
+      "category": "Sports",
+      "country": "Poland",
+      "country_flag_emoji": "🇵🇱",
+      "language": "Polish",
+      "is_vip": true
+    },
+    {
+      "id": 456,
+      "title": "Eleven Sports 2 Portugal",
+      "image": "",
+      "category": "Sports",
+      "country": "Portugal",
+      "country_flag_emoji": "🇵🇹",
+      "language": "Portuguese",
+      "is_vip": true
+    },
+    {
+      "id": 428,
+      "title": "Eleven Sports 3 Poland",
+      "image": "",
+      "category": "Sports",
+      "country": "Poland",
+      "country_flag_emoji": "🇵🇱",
+      "language": "Polish",
+      "is_vip": true
+    },
+    {
+      "id": 457,
+      "title": "Eleven Sports 3 Portugal",
+      "image": "",
+      "category": "Sports",
+      "country": "Portugal",
+      "country_flag_emoji": "🇵🇹",
+      "language": "Portuguese",
+      "is_vip": true
+    },
+    {
+      "id": 999,
+      "title": "Eleven Sports 4 Poland",
+      "image": "",
+      "category": "Sports",
+      "country": "Poland",
+      "country_flag_emoji": "🇵🇱",
+      "language": "Polish",
+      "is_vip": true
+    },
+    {
+      "id": 458,
+      "title": "Eleven Sports 4 Portugal",
+      "image": "",
+      "category": "Sports",
+      "country": "Portugal",
+      "country_flag_emoji": "🇵🇹",
+      "language": "Portuguese",
+      "is_vip": true
+    },
+    {
+      "id": 459,
+      "title": "Eleven Sports 5 Portugal",
+      "image": "",
+      "category": "Sports",
+      "country": "Portugal",
+      "country_flag_emoji": "🇵🇹",
+      "language": "Portuguese",
+      "is_vip": true
+    },
+    {
+      "id": 925,
+      "title": "ESPN 1 MX",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png",
+      "category": "Sports",
+      "country": "Mexico",
+      "country_flag_emoji": "🇲🇽",
+      "language": "Spanish",
+      "is_vip": true
+    },
+    {
+      "id": 379,
+      "title": "ESPN 1 NL",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png",
+      "category": "Sports",
+      "country": "Netherlands",
+      "country_flag_emoji": "🇳🇱",
+      "language": "Dutch",
+      "is_vip": true
+    },
+    {
+      "id": 926,
+      "title": "ESPN 2 MX",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png",
+      "category": "Sports",
+      "country": "Mexico",
+      "country_flag_emoji": "🇲🇽",
+      "language": "Spanish",
+      "is_vip": true
+    },
+    {
+      "id": 386,
+      "title": "ESPN 2 NL",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png",
+      "category": "Sports",
+      "country": "Netherlands",
+      "country_flag_emoji": "🇳🇱",
+      "language": "Dutch",
+      "is_vip": true
+    },
+    {
+      "id": 927,
+      "title": "ESPN 3 MX",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png",
+      "category": "Sports",
+      "country": "Mexico",
+      "country_flag_emoji": "🇲🇽",
+      "language": "Spanish",
+      "is_vip": true
+    },
+    {
+      "id": 888,
+      "title": "ESPN 3 NL",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png",
+      "category": "Sports",
+      "country": "Netherlands",
+      "country_flag_emoji": "🇳🇱",
+      "language": "Dutch",
+      "is_vip": true
+    },
+    {
+      "id": 928,
+      "title": "ESPN 4 MX",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png",
+      "category": "Sports",
+      "country": "Mexico",
+      "country_flag_emoji": "🇲🇽",
+      "language": "Spanish",
+      "is_vip": true
+    },
+    {
+      "id": 149,
+      "title": "ESPN Argentina",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png",
+      "category": "Sports",
+      "country": "Argentina",
+      "country_flag_emoji": "🇦🇷",
+      "language": "Spanish",
+      "is_vip": true
+    },
+    {
+      "id": 81,
+      "title": "ESPN Brasil",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png",
+      "category": "Sports",
+      "country": "Brazil",
+      "country_flag_emoji": "🇧🇷",
+      "language": "Portuguese",
+      "is_vip": true
+    },
+    {
+      "id": 375,
+      "title": "ESPN Deportes",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png",
+      "category": "Sports",
+      "country": "United States",
+      "country_flag_emoji": "🇺🇸",
+      "language": "Spanish",
+      "is_vip": true
+    },
+    {
+      "id": 387,
+      "title": "ESPN Premium Argentina",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png",
+      "category": "Sports",
+      "country": "Argentina",
+      "country_flag_emoji": "🇦🇷",
+      "language": "Spanish",
+      "is_vip": true
+    },
+    {
+      "id": 44,
+      "title": "ESPN USA",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png",
+      "category": "Sports",
+      "country": "United States",
+      "country_flag_emoji": "🇺🇸",
+      "language": "English",
+      "is_vip": true
+    },
+    {
+      "id": 150,
+      "title": "ESPN2 Argentina",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png",
+      "category": "Sports",
+      "country": "Argentina",
+      "country_flag_emoji": "🇦🇷",
+      "language": "Spanish",
+      "is_vip": true
+    },
+    {
+      "id": 82,
+      "title": "ESPN2 Brasil",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png",
+      "category": "Sports",
+      "country": "Brazil",
+      "country_flag_emoji": "🇧🇷",
+      "language": "Portuguese",
+      "is_vip": true
+    },
+    {
+      "id": 45,
+      "title": "ESPN2 USA",
+      "image": "https://i.imgur.com/00tsvjE.png",
+      "category": "Sports",
+      "country": "United States",
+      "country_flag_emoji": "🇺🇸",
+      "language": "English",
+      "is_vip": true
+    },
+    {
+      "id": 798,
+      "title": "ESPN3 Argentina",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png",
+      "category": "Sports",
+      "country": "Argentina",
+      "country_flag_emoji": "🇦🇷",
+      "language": "Spanish",
+      "is_vip": true
+    },
+    {
+      "id": 83,
+      "title": "ESPN3 Brasil",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png",
+      "category": "Sports",
+      "country": "Brazil",
+      "country_flag_emoji": "🇧🇷",
+      "language": "Portuguese",
+      "is_vip": true
+    },
+    {
+      "id": 85,
+      "title": "ESPN4 Brasil",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png",
+      "category": "Sports",
+      "country": "Brazil",
+      "country_flag_emoji": "🇧🇷",
+      "language": "Portuguese",
+      "is_vip": true
+    },
+    {
+      "id": 288,
+      "title": "ESPNews",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png",
+      "category": "Sports",
+      "country": "United States",
+      "country_flag_emoji": "🇺🇸",
+      "language": "English",
+      "is_vip": true
+    },
+    {
+      "id": 316,
+      "title": "ESPNU USA",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png",
+      "category": "Sports",
+      "country": "United States",
+      "country_flag_emoji": "🇺🇸",
+      "language": "English",
+      "is_vip": true
+    },
+    {
+      "id": 772,
+      "title": "Eurosport 1 France",
+      "image": "https://i.imgur.com/s4jDnJh.png",
+      "category": "Sports",
+      "country": "France",
+      "country_flag_emoji": "🇫🇷",
+      "language": "French",
+      "is_vip": true
+    },
+    {
+      "id": 41,
+      "title": "EuroSport 1 Greece",
+      "image": "https://i.imgur.com/s4jDnJh.png",
+      "category": "Sports",
+      "country": "Greece",
+      "country_flag_emoji": "🇬🇷",
+      "language": "Greek",
+      "is_vip": true
+    },
+    {
+      "id": 878,
+      "title": "EuroSport 1 Italy",
+      "image": "https://i.imgur.com/s4jDnJh.png",
+      "category": "Sports",
+      "country": "Italy",
+      "country_flag_emoji": "🇮🇹",
+      "language": "Italian",
+      "is_vip": true
+    },
+    {
+      "id": 233,
+      "title": "Eurosport 1 NL",
+      "image": "https://i.imgur.com/s4jDnJh.png",
+      "category": "Sports",
+      "country": "Netherlands",
+      "country_flag_emoji": "🇳🇱",
+      "language": "Dutch",
+      "is_vip": true
+    },
+    {
+      "id": 57,
+      "title": "EuroSport 1 Poland",
+      "image": "https://static.wikia.nocookie.net/logopedia/images/e/e7/Eurosport_1_2022.svg/revision/latest?cb=20220806090310",
+      "category": "Sports",
+      "country": "Poland",
+      "country_flag_emoji": "🇵🇱",
+      "language": "Polish",
+      "is_vip": true
+    },
+    {
+      "id": 524,
+      "title": "EuroSport 1 Spain",
+      "image": "https://i.imgur.com/s4jDnJh.png",
+      "category": "Sports",
+      "country": "Spain",
+      "country_flag_emoji": "🇪🇸",
+      "language": "Spanish",
+      "is_vip": true
+    },
+    {
+      "id": 231,
+      "title": "Eurosport 1 SW",
+      "image": "https://i.imgur.com/s4jDnJh.png",
+      "category": "Sports",
+      "country": "Sweden",
+      "country_flag_emoji": "🇸🇪",
+      "language": "Swedish",
+      "is_vip": true
+    },
+    {
+      "id": 773,
+      "title": "Eurosport 2 France",
+      "image": "https://i.imgur.com/f56dHgR.png",
+      "category": "Sports",
+      "country": "France",
+      "country_flag_emoji": "🇫🇷",
+      "language": "French",
+      "is_vip": true
+    },
+    {
+      "id": 42,
+      "title": "EuroSport 2 Greece",
+      "image": "https://i.imgur.com/s4jDnJh.png",
+      "category": "Sports",
+      "country": "Greece",
+      "country_flag_emoji": "🇬🇷",
+      "language": "Greek",
+      "is_vip": true
+    },
+    {
+      "id": 879,
+      "title": "EuroSport 2 Italy",
+      "image": "https://i.imgur.com/s4jDnJh.png",
+      "category": "Sports",
+      "country": "Italy",
+      "country_flag_emoji": "🇮🇹",
+      "language": "Italian",
+      "is_vip": true
+    },
+    {
+      "id": 234,
+      "title": "Eurosport 2 NL",
+      "image": "https://i.imgur.com/s4jDnJh.png",
+      "category": "Sports",
+      "country": "Netherlands",
+      "country_flag_emoji": "🇳🇱",
+      "language": "Dutch",
+      "is_vip": true
+    },
+    {
+      "id": 58,
+      "title": "EuroSport 2 Poland",
+      "image": "https://i.imgur.com/s4jDnJh.png",
+      "category": "Sports",
+      "country": "Poland",
+      "country_flag_emoji": "🇵🇱",
+      "language": "Polish",
+      "is_vip": true
+    },
+    {
+      "id": 525,
+      "title": "EuroSport 2 Spain",
+      "image": "https://i.imgur.com/s4jDnJh.png",
+      "category": "Sports",
+      "country": "Spain",
+      "country_flag_emoji": "🇪🇸",
+      "language": "Spanish",
+      "is_vip": true
+    },
+    {
+      "id": 232,
+      "title": "Eurosport 2 SW",
+      "image": "https://i.imgur.com/s4jDnJh.png",
+      "category": "Sports",
+      "country": "Sweden",
+      "country_flag_emoji": "🇸🇪",
+      "language": "Swedish",
+      "is_vip": true
+    },
+    {
+      "id": 890,
+      "title": "FanDuel Sports Network Arizona",
+      "image": "",
+      "category": "Sports",
+      "country": "United States",
+      "country_flag_emoji": "🇺🇸",
+      "language": "English",
+      "is_vip": true
+    },
+    {
+      "id": 896,
+      "title": "FanDuel Sports Network Midwest",
+      "image": "",
+      "category": "Sports",
+      "country": "United States",
+      "country_flag_emoji": "🇺🇸",
+      "language": "English",
+      "is_vip": true
+    },
+    {
+      "id": 897,
+      "title": "FanDuel Sports Network New Orleans",
+      "image": "",
+      "category": "Sports",
+      "country": "United States",
+      "country_flag_emoji": "🇺🇸",
+      "language": "English",
+      "is_vip": true
+    },
+    {
+      "id": 898,
+      "title": "FanDuel Sports Network North",
+      "image": "",
+      "category": "Sports",
+      "country": "United States",
+      "country_flag_emoji": "🇺🇸",
+      "language": "English",
+      "is_vip": true
+    },
+    {
+      "id": 899,
+      "title": "FanDuel Sports Network Ohio",
+      "image": "",
+      "category": "Sports",
+      "country": "United States",
+      "country_flag_emoji": "🇺🇸",
+      "language": "English",
+      "is_vip": true
+    },
+    {
+      "id": 900,
+      "title": "FanDuel Sports Network Oklahoma",
+      "image": "",
+      "category": "Sports",
+      "country": "United States",
+      "country_flag_emoji": "🇺🇸",
+      "language": "English",
+      "is_vip": true
+    },
+    {
+      "id": 902,
+      "title": "FanDuel Sports Network SoCal",
+      "image": "",
+      "category": "Sports",
+      "country": "United States",
+      "country_flag_emoji": "🇺🇸",
+      "language": "English",
+      "is_vip": true
+    },
+    {
+      "id": 903,
+      "title": "FanDuel Sports Network South",
+      "image": "",
+      "category": "Sports",
+      "country": "United States",
+      "country_flag_emoji": "🇺🇸",
+      "language": "English",
+      "is_vip": true
+    },
+    {
+      "id": 904,
+      "title": "FanDuel Sports Network Southeast",
+      "image": "",
+      "category": "Sports",
+      "country": "United States",
+      "country_flag_emoji": "🇺🇸",
+      "language": "English",
+      "is_vip": true
+    },
+    {
+      "id": 905,
+      "title": "FanDuel Sports Network Sun",
+      "image": "",
+      "category": "Sports",
+      "country": "United States",
+      "country_flag_emoji": "🇺🇸",
+      "language": "English",
+      "is_vip": true
+    },
+    {
+      "id": 906,
+      "title": "FanDuel Sports Network West",
+      "image": "",
+      "category": "Sports",
+      "country": "United States",
+      "country_flag_emoji": "🇺🇸",
+      "language": "English",
+      "is_vip": true
+    },
+    {
+      "id": 907,
+      "title": "FanDuel Sports Network Wisconsin",
+      "image": "",
+      "category": "Sports",
+      "country": "United States",
+      "country_flag_emoji": "🇺🇸",
+      "language": "English",
+      "is_vip": true
+    },
+    {
+      "id": 757,
+      "title": "Fight Network",
+      "image": "",
+      "category": "Sports",
+      "country": "United States",
+      "country_flag_emoji": "🇺🇸",
+      "language": "English",
+      "is_vip": true
+    },
+    {
+      "id": 369,
+      "title": "Fox Cricket",
+      "image": "",
+      "category": "Sports",
+      "country": "Australia",
+      "country_flag_emoji": "🇦🇺",
+      "language": "English",
+      "is_vip": true
+    },
+    {
+      "id": 756,
+      "title": "FOX Soccer Plus",
+      "image": "",
+      "category": "Sports",
+      "country": "United States",
+      "country_flag_emoji": "🇺🇸",
+      "language": "English",
+      "is_vip": true
+    },
+    {
+      "id": 929,
+      "title": "Fox Sports 1 MX",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/960px-FOX_Sports_logo.svg.png",
+      "category": "Sports",
+      "country": "Mexico",
+      "country_flag_emoji": "🇲🇽",
+      "language": "Spanish",
+      "is_vip": true
+    },
+    {
+      "id": 39,
+      "title": "Fox Sports 1 USA",
+      "image": "https://i.imgur.com/O9BapV9.png",
+      "category": "Sports",
+      "country": "United States",
+      "country_flag_emoji": "🇺🇸",
+      "language": "English",
+      "is_vip": true
+    },
+    {
+      "id": 788,
+      "title": "Fox Sports 2 Argentina",
+      "image": "",
+      "category": "Sports",
+      "country": "Argentina",
+      "country_flag_emoji": "🇦🇷",
+      "language": "Spanish",
+      "is_vip": true
+    },
+    {
+      "id": 930,
+      "title": "Fox Sports 2 MX",
+      "image": "",
+      "category": "Sports",
+      "country": "Mexico",
+      "country_flag_emoji": "🇲🇽",
+      "language": "Spanish",
+      "is_vip": true
+    },
+    {
+      "id": 758,
+      "title": "Fox Sports 2 USA",
+      "image": "https://i.imgur.com/LHtxKI8.png",
+      "category": "Sports",
+      "country": "United States",
+      "country_flag_emoji": "🇺🇸",
+      "language": "English",
+      "is_vip": true
+    },
+    {
+      "id": 789,
+      "title": "Fox Sports 3 Argentina",
+      "image": "",
+      "category": "Sports",
+      "country": "Argentina",
+      "country_flag_emoji": "🇦🇷",
+      "language": "Spanish",
+      "is_vip": true
+    },
+    {
+      "id": 931,
+      "title": "Fox Sports 3 MX",
+      "image": "",
+      "category": "Sports",
+      "country": "Mexico",
+      "country_flag_emoji": "🇲🇽",
+      "language": "Spanish",
+      "is_vip": true
+    },
+    {
+      "id": 820,
+      "title": "FOX Sports 502 AU",
+      "image": "",
+      "category": "Sports",
+      "country": "Australia",
+      "country_flag_emoji": "🇦🇺",
+      "language": "English",
+      "is_vip": true
+    },
+    {
+      "id": 821,
+      "title": "FOX Sports 503 AU",
+      "image": "",
+      "category": "Sports",
+      "country": "Australia",
+      "country_flag_emoji": "🇦🇺",
+      "language": "English",
+      "is_vip": true
+    },
+    {
+      "id": 822,
+      "title": "FOX Sports 504 AU",
+      "image": "",
+      "category": "Sports",
+      "country": "Australia",
+      "country_flag_emoji": "🇦🇺",
+      "language": "English",
+      "is_vip": true
+    },
+    {
+      "id": 823,
+      "title": "FOX Sports 505 AU",
+      "image": "",
+      "category": "Sports",
+      "country": "Australia",
+      "country_flag_emoji": "🇦🇺",
+      "language": "English",
+      "is_vip": true
+    },
+    {
+      "id": 824,
+      "title": "FOX Sports 506 AU",
+      "image": "",
+      "category": "Sports",
+      "country": "Australia",
+      "country_flag_emoji": "🇦🇺",
+      "language": "English",
+      "is_vip": true
+    },
+    {
+      "id": 825,
+      "title": "FOX Sports 507 AU",
+      "image": "",
+      "category": "Sports",
+      "country": "Australia",
+      "country_flag_emoji": "🇦🇺",
+      "language": "English",
+      "is_vip": true
+    },
+    {
+      "id": 787,
+      "title": "Fox Sports Argentina",
+      "image": "",
+      "category": "Sports",
+      "country": "Argentina",
+      "country_flag_emoji": "🇦🇷",
+      "language": "Spanish",
+      "is_vip": true
+    },
+    {
+      "id": 830,
+      "title": "Fox Sports Premium MX",
+      "image": "",
+      "category": "Sports",
+      "country": "Mexico",
+      "country_flag_emoji": "🇲🇽",
+      "language": "Spanish",
+      "is_vip": true
+    },
+    {
+      "id": 318,
+      "title": "GOLF Channel USA",
+      "image": "",
+      "category": "Sports",
+      "country": "United States",
+      "country_flag_emoji": "🇺🇸",
+      "language": "English",
+      "is_vip": true
+    },
+    {
+      "id": 539,
+      "title": "LaLiga SmartBank TV",
+      "image": "",
+      "category": "Sports",
+      "country": "Spain",
+      "country_flag_emoji": "🇪🇸",
+      "language": "Spanish",
+      "is_vip": true
+    },
+    {
+      "id": 276,
+      "title": "LaLigaTV UK",
+      "image": "",
+      "category": "Sports",
+      "country": "United Kingdom",
+      "country_flag_emoji": "🇬🇧",
+      "language": "English",
+      "is_vip": true
+    },
+    {
+      "id": 265,
+      "title": "M4 Sports Hungary",
+      "image": "",
+      "category": "Sports",
+      "country": "Hungary",
+      "country_flag_emoji": "🇭🇺",
+      "language": "Hungarian",
+      "is_vip": true
+    },
+    {
+      "id": 622,
+      "title": "Magenta Sport 1 HD",
+      "image": "",
+      "category": "Sports",
+      "country": "Germany",
+      "country_flag_emoji": "🇩🇪",
+      "language": "German",
+      "is_vip": true
+    },
+    {
+      "id": 623,
+      "title": "Magenta Sport 2 HD",
+      "image": "",
+      "category": "Sports",
+      "country": "Germany",
+      "country_flag_emoji": "🇩🇪",
+      "language": "German",
+      "is_vip": true
+    },
+    {
+      "id": 624,
+      "title": "Magenta Sport 3 HD",
+      "image": "",
+      "category": "Sports",
+      "country": "Germany",
+      "country_flag_emoji": "🇩🇪",
+      "language": "German",
+      "is_vip": true
+    },
+    {
+      "id": 625,
+      "title": "Magenta Sport 4 HD",
+      "image": "",
+      "category": "Sports",
+      "country": "Germany",
+      "country_flag_emoji": "🇩🇪",
+      "language": "German",
+      "is_vip": true
+    },
+    {
+      "id": 626,
+      "title": "Magenta Sport 5 HD",
+      "image": "",
+      "category": "Sports",
+      "country": "Germany",
+      "country_flag_emoji": "🇩🇪",
+      "language": "German",
+      "is_vip": true
+    },
+    {
+      "id": 627,
+      "title": "Magenta Sport 6 HD",
+      "image": "",
+      "category": "Sports",
+      "country": "Germany",
+      "country_flag_emoji": "🇩🇪",
+      "language": "German",
+      "is_vip": true
+    },
+    {
+      "id": 628,
+      "title": "Magenta Sport 7 HD",
+      "image": "",
+      "category": "Sports",
+      "country": "Germany",
+      "country_flag_emoji": "🇩🇪",
+      "language": "German",
+      "is_vip": true
+    },
+    {
+      "id": 629,
+      "title": "Magenta Sport 8 HD",
+      "image": "",
+      "category": "Sports",
+      "country": "Germany",
+      "country_flag_emoji": "🇩🇪",
+      "language": "German",
+      "is_vip": true
+    },
+    {
+      "id": 630,
+      "title": "Magenta Sport 9 HD",
+      "image": "",
+      "category": "Sports",
+      "country": "Germany",
+      "country_flag_emoji": "🇩🇪",
+      "language": "German",
+      "is_vip": true
+    },
+    {
+      "id": 770,
+      "title": "Marquee Sports Network",
+      "image": "",
+      "category": "Sports",
+      "country": "United States",
+      "country_flag_emoji": "🇺🇸",
+      "language": "English",
+      "is_vip": true
+    },
+    {
+      "id": 136,
+      "title": "Match Football 1 Russia",
+      "image": "",
+      "category": "Sports",
+      "country": "Russia",
+      "country_flag_emoji": "🇷🇺",
+      "language": "Russian",
+      "is_vip": true
+    },
+    {
+      "id": 137,
+      "title": "Match Football 2 Russia",
+      "image": "",
+      "category": "Sports",
+      "country": "Russia",
+      "country_flag_emoji": "🇷🇺",
+      "language": "Russian",
+      "is_vip": true
+    },
+    {
+      "id": 138,
+      "title": "Match Football 3 Russia",
+      "image": "",
+      "category": "Sports",
+      "country": "Russia",
+      "country_flag_emoji": "🇷🇺",
+      "language": "Russian",
+      "is_vip": true
+    },
+    {
+      "id": 573,
+      "title": "Match Premier Russia",
+      "image": "",
+      "category": "Sports",
+      "country": "Russia",
+      "country_flag_emoji": "🇷🇺",
+      "language": "Russian",
+      "is_vip": true
+    },
+    {
+      "id": 127,
+      "title": "Match TV Russia",
+      "image": "",
+      "category": "Sports",
+      "country": "Russia",
+      "country_flag_emoji": "🇷🇺",
+      "language": "Russian",
+      "is_vip": true
+    },
+    {
+      "id": 472,
+      "title": "Max Sport 1 Bulgaria",
+      "image": "",
+      "category": "Sports",
+      "country": "Bulgaria",
+      "country_flag_emoji": "🇧🇬",
+      "language": "Bulgarian",
+      "is_vip": true
+    },
+    {
+      "id": 779,
+      "title": "Max Sport 1 Croatia",
+      "image": "",
+      "category": "Sports",
+      "country": "Croatia",
+      "country_flag_emoji": "🇭🇷",
+      "language": "Croatian",
+      "is_vip": true
+    },
+    {
+      "id": 473,
+      "title": "Max Sport 2 Bulgaria",
+      "image": "",
+      "category": "Sports",
+      "country": "Bulgaria",
+      "country_flag_emoji": "🇧🇬",
+      "language": "Bulgarian",
+      "is_vip": true
+    },
+    {
+      "id": 780,
+      "title": "Max Sport 2 Croatia",
+      "image": "",
+      "category": "Sports",
+      "country": "Croatia",
+      "country_flag_emoji": "🇭🇷",
+      "language": "Croatian",
+      "is_vip": true
+    },
+    {
+      "id": 474,
+      "title": "Max Sport 3 Bulgaria",
+      "image": "",
+      "category": "Sports",
+      "country": "Bulgaria",
+      "country_flag_emoji": "🇧🇬",
+      "language": "Bulgarian",
+      "is_vip": true
+    },
+    {
+      "id": 475,
+      "title": "Max Sport 4 Bulgaria",
+      "image": "",
+      "category": "Sports",
+      "country": "Bulgaria",
+      "country_flag_emoji": "🇧🇬",
+      "language": "Bulgarian",
+      "is_vip": true
+    },
+    {
+      "id": 399,
+      "title": "MLB Network USA",
+      "image": "https://i.imgur.com/sA5V39D.png",
+      "category": "Sports",
+      "country": "United States",
+      "country_flag_emoji": "🇺🇸",
+      "language": "English",
+      "is_vip": true
+    },
+    {
+      "id": 778,
+      "title": "Monumental Sports Network",
+      "image": "",
+      "category": "Sports",
+      "country": "United States",
+      "country_flag_emoji": "🇺🇸",
+      "language": "English",
+      "is_vip": true
+    },
+    {
+      "id": 528,
+      "title": "Movistar Golf Spain",
+      "image": "",
+      "category": "Sports",
+      "country": "Spain",
+      "country_flag_emoji": "🇪🇸",
+      "language": "Spanish",
+      "is_vip": true
+    },
+    {
+      "id": 84,
+      "title": "Movistar Laliga",
+      "image": "",
+      "category": "Sports",
+      "country": "Spain",
+      "country_flag_emoji": "🇪🇸",
+      "language": "Spanish",
+      "is_vip": true
+    },
+    {
+      "id": 404,
+      "title": "NBA TV USA",
+      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/960px-NBA_TV.svg.png",
+      "category": "Sports",
+      "country": "United States",
+      "country_flag_emoji": "🇺🇸",
+      "language": "English",
+      "is_vip": true
+    },
+    {
+      "id": 753,
+      "title": "NBC Sports Bay Area",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/960px-NBC_logo_2022_%28vertical%29.svg.png",
+      "category": "Sports",
+      "country": "United States",
+      "country_flag_emoji": "🇺🇸",
+      "language": "English",
+      "is_vip": true
+    },
+    {
+      "id": 754,
+      "title": "NBC Sports Boston",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/960px-NBC_logo_2022_%28vertical%29.svg.png",
+      "category": "Sports",
+      "country": "United States",
+      "country_flag_emoji": "🇺🇸",
+      "language": "English",
+      "is_vip": true
+    },
+    {
+      "id": 755,
+      "title": "NBC Sports California",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/960px-NBC_logo_2022_%28vertical%29.svg.png",
+      "category": "Sports",
+      "country": "United States",
+      "country_flag_emoji": "🇺🇸",
+      "language": "English",
+      "is_vip": true
+    },
+    {
+      "id": 777,
+      "title": "NBC Sports Philadelphia",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/960px-NBC_logo_2022_%28vertical%29.svg.png",
+      "category": "Sports",
+      "country": "United States",
+      "country_flag_emoji": "🇺🇸",
+      "language": "English",
+      "is_vip": true
+    },
+    {
+      "id": 405,
+      "title": "NFL Network",
+      "image": "",
+      "category": "Sports",
+      "country": "United States",
+      "country_flag_emoji": "🇺🇸",
+      "language": "English",
+      "is_vip": true
+    },
+    {
+      "id": 667,
+      "title": "NFL RedZone",
+      "image": "",
+      "category": "Sports",
+      "country": "United States",
+      "country_flag_emoji": "🇺🇸",
+      "language": "English",
+      "is_vip": true
+    },
+    {
+      "id": 663,
+      "title": "NHL Network USA",
+      "image": "",
+      "category": "Sports",
+      "country": "United States",
+      "country_flag_emoji": "🇺🇸",
+      "language": "English",
+      "is_vip": true
+    },
+    {
+      "id": 1021,
+      "title": "Nova Sport 1 CZ",
+      "image": "",
+      "category": "Sports",
+      "country": "Czechia",
+      "country_flag_emoji": "🇨🇿",
+      "language": "Czech",
+      "is_vip": true
+    },
+    {
+      "id": 1022,
+      "title": "Nova Sport 2 CZ",
+      "image": "",
+      "category": "Sports",
+      "country": "Czechia",
+      "country_flag_emoji": "🇨🇿",
+      "language": "Czech",
+      "is_vip": true
+    },
+    {
+      "id": 1023,
+      "title": "Nova Sport 3 CZ",
+      "image": "",
+      "category": "Sports",
+      "country": "Czechia",
+      "country_flag_emoji": "🇨🇿",
+      "language": "Czech",
+      "is_vip": true
+    },
+    {
+      "id": 1060,
+      "title": "Nova Sport 3 SK",
+      "image": "",
+      "category": "Sports",
+      "country": "Slovakia",
+      "country_flag_emoji": "🇸🇰",
+      "language": "Slovak",
+      "is_vip": true
+    },
+    {
+      "id": 1024,
+      "title": "Nova Sport 4 CZ",
+      "image": "",
+      "category": "Sports",
+      "country": "Czechia",
+      "country_flag_emoji": "🇨🇿",
+      "language": "Czech",
+      "is_vip": true
+    },
+    {
+      "id": 1061,
+      "title": "Nova Sport 4 SK",
+      "image": "",
+      "category": "Sports",
+      "country": "Slovakia",
+      "country_flag_emoji": "🇸🇰",
+      "language": "Slovak",
+      "is_vip": true
+    },
+    {
+      "id": 1025,
+      "title": "Nova Sport 5 CZ",
+      "image": "",
+      "category": "Sports",
+      "country": "Czechia",
+      "country_flag_emoji": "🇨🇿",
+      "language": "Czech",
+      "is_vip": true
+    },
+    {
+      "id": 1062,
+      "title": "Nova Sport 5 SK",
+      "image": "",
+      "category": "Sports",
+      "country": "Slovakia",
+      "country_flag_emoji": "🇸🇰",
+      "language": "Slovak",
+      "is_vip": true
+    },
+    {
+      "id": 1026,
+      "title": "Nova Sport 6 CZ",
+      "image": "",
+      "category": "Sports",
+      "country": "Czechia",
+      "country_flag_emoji": "🇨🇿",
+      "language": "Czech",
+      "is_vip": true
+    },
+    {
+      "id": 468,
+      "title": "Nova Sport Bulgaria",
+      "image": "",
+      "category": "Sports",
+      "country": "Bulgaria",
+      "country_flag_emoji": "🇧🇬",
+      "language": "Bulgarian",
+      "is_vip": true
+    },
+    {
+      "id": 582,
+      "title": "Nova Sport Serbia",
+      "image": "",
+      "category": "Sports",
+      "country": "Serbia",
+      "country_flag_emoji": "🇷🇸",
+      "language": "Serbian",
+      "is_vip": true
+    },
+    {
+      "id": 631,
+      "title": "Nova Sports 1 Greece",
+      "image": "",
+      "category": "Sports",
+      "country": "Greece",
+      "country_flag_emoji": "🇬🇷",
+      "language": "Greek",
+      "is_vip": true
+    },
+    {
+      "id": 632,
+      "title": "Nova Sports 2 Greece",
+      "image": "",
+      "category": "Sports",
+      "country": "Greece",
+      "country_flag_emoji": "🇬🇷",
+      "language": "Greek",
+      "is_vip": true
+    },
+    {
+      "id": 633,
+      "title": "Nova Sports 3 Greece",
+      "image": "",
+      "category": "Sports",
+      "country": "Greece",
+      "country_flag_emoji": "🇬🇷",
+      "language": "Greek",
+      "is_vip": true
+    },
+    {
+      "id": 634,
+      "title": "Nova Sports 4 Greece",
+      "image": "",
+      "category": "Sports",
+      "country": "Greece",
+      "country_flag_emoji": "🇬🇷",
+      "language": "Greek",
+      "is_vip": true
+    },
+    {
+      "id": 635,
+      "title": "Nova Sports 5 Greece",
+      "image": "",
+      "category": "Sports",
+      "country": "Greece",
+      "country_flag_emoji": "🇬🇷",
+      "language": "Greek",
+      "is_vip": true
+    },
+    {
+      "id": 636,
+      "title": "Nova Sports 6 Greece",
+      "image": "",
+      "category": "Sports",
+      "country": "Greece",
+      "country_flag_emoji": "🇬🇷",
+      "language": "Greek",
+      "is_vip": true
+    },
+    {
+      "id": 639,
+      "title": "Nova Sports News Greece",
+      "image": "",
+      "category": "Sports",
+      "country": "Greece",
+      "country_flag_emoji": "🇬🇷",
+      "language": "Greek",
+      "is_vip": true
+    },
+    {
+      "id": 599,
+      "title": "Nova Sports Premier League Greece",
+      "image": "",
+      "category": "Sports",
+      "country": "Greece",
+      "country_flag_emoji": "🇬🇷",
+      "language": "Greek",
+      "is_vip": true
+    },
+    {
+      "id": 638,
+      "title": "Nova Sports Prime Greece",
+      "image": "",
+      "category": "Sports",
+      "country": "Greece",
+      "country_flag_emoji": "🇬🇷",
+      "language": "Greek",
+      "is_vip": true
+    },
+    {
+      "id": 637,
+      "title": "Nova Sports Start Greece",
+      "image": "",
+      "category": "Sports",
+      "country": "Greece",
+      "country_flag_emoji": "🇬🇷",
+      "language": "Greek",
+      "is_vip": true
+    },
+    {
+      "id": 1027,
+      "title": "Oneplay Sport 1 CZ",
+      "image": "",
+      "category": "Sports",
+      "country": "Czechia",
+      "country_flag_emoji": "🇨🇿",
+      "language": "Czech",
+      "is_vip": true
+    },
+    {
+      "id": 1028,
+      "title": "Oneplay Sport 2 CZ",
+      "image": "",
+      "category": "Sports",
+      "country": "Czechia",
+      "country_flag_emoji": "🇨🇿",
+      "language": "Czech",
+      "is_vip": true
+    },
+    {
+      "id": 1029,
+      "title": "Oneplay Sport 3 CZ",
+      "image": "",
+      "category": "Sports",
+      "country": "Czechia",
+      "country_flag_emoji": "🇨🇿",
+      "language": "Czech",
+      "is_vip": true
+    },
+    {
+      "id": 1038,
+      "title": "OnePlay Sport 4 CZ",
+      "image": "",
+      "category": "Sports",
+      "country": "Czechia",
+      "country_flag_emoji": "🇨🇿",
+      "language": "Czech",
+      "is_vip": true
+    },
+    {
+      "id": 611,
+      "title": "OnTime Sports",
+      "image": "",
+      "category": "Sports",
+      "country": "Egypt",
+      "country_flag_emoji": "🇪🇬",
+      "language": "Arabic",
+      "is_vip": true
+    },
+    {
+      "id": 439,
+      "title": "Orange Sport 1 Romania",
+      "image": "",
+      "category": "Sports",
+      "country": "Romania",
+      "country_flag_emoji": "🇷🇴",
+      "language": "Romanian",
+      "is_vip": true
+    },
+    {
+      "id": 440,
+      "title": "Orange Sport 2 Romania",
+      "image": "",
+      "category": "Sports",
+      "country": "Romania",
+      "country_flag_emoji": "🇷🇴",
+      "language": "Romanian",
+      "is_vip": true
+    },
+    {
+      "id": 441,
+      "title": "Orange Sport 3 Romania",
+      "image": "",
+      "category": "Sports",
+      "country": "Romania",
+      "country_flag_emoji": "🇷🇴",
+      "language": "Romanian",
+      "is_vip": true
+    },
+    {
+      "id": 442,
+      "title": "Orange Sport 4 Romania",
+      "image": "",
+      "category": "Sports",
+      "country": "Romania",
+      "country_flag_emoji": "🇷🇴",
+      "language": "Romanian",
+      "is_vip": true
+    },
+    {
+      "id": 287,
+      "title": "Pac-12 Network USA",
+      "image": "",
+      "category": "Sports",
+      "country": "United States",
+      "country_flag_emoji": "🇺🇸",
+      "language": "English",
+      "is_vip": true
+    },
+    {
+      "id": 43,
+      "title": "PDC TV",
+      "image": "",
+      "category": "Sports",
+      "country": "United Kingdom",
+      "country_flag_emoji": "🇬🇧",
+      "language": "English",
+      "is_vip": true
+    },
+    {
+      "id": 50,
+      "title": "Polsat Sport 2 Poland",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Polsat_Sport_2021_gradient.svg/500px-Polsat_Sport_2021_gradient.svg.png",
+      "category": "Sports",
+      "country": "Poland",
+      "country_flag_emoji": "🇵🇱",
+      "language": "Polish",
+      "is_vip": true
+    },
+    {
+      "id": 129,
+      "title": "Polsat Sport 3 Poland",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Polsat_Sport_2021_gradient.svg/500px-Polsat_Sport_2021_gradient.svg.png",
+      "category": "Sports",
+      "country": "Poland",
+      "country_flag_emoji": "🇵🇱",
+      "language": "Polish",
+      "is_vip": true
+    },
+    {
+      "id": 993,
+      "title": "Polsat Sport Extra 1 HD Poland",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Polsat_Sport_2021_gradient.svg/500px-Polsat_Sport_2021_gradient.svg.png",
+      "category": "Sports",
+      "country": "Poland",
+      "country_flag_emoji": "🇵🇱",
+      "language": "Polish",
+      "is_vip": true
+    },
+    {
+      "id": 994,
+      "title": "Polsat Sport Extra 2 HD Poland",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Polsat_Sport_2021_gradient.svg/500px-Polsat_Sport_2021_gradient.svg.png",
+      "category": "Sports",
+      "country": "Poland",
+      "country_flag_emoji": "🇵🇱",
+      "language": "Polish",
+      "is_vip": true
+    },
+    {
+      "id": 995,
+      "title": "Polsat Sport Extra 3 HD Poland",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Polsat_Sport_2021_gradient.svg/500px-Polsat_Sport_2021_gradient.svg.png",
+      "category": "Sports",
+      "country": "Poland",
+      "country_flag_emoji": "🇵🇱",
+      "language": "Polish",
+      "is_vip": true
+    },
+    {
+      "id": 996,
+      "title": "Polsat Sport Extra 4 HD Poland",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Polsat_Sport_2021_gradient.svg/500px-Polsat_Sport_2021_gradient.svg.png",
+      "category": "Sports",
+      "country": "Poland",
+      "country_flag_emoji": "🇵🇱",
+      "language": "Polish",
+      "is_vip": true
+    },
+    {
+      "id": 997,
+      "title": "Polsat Sport Fight HD Poland",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Polsat_Sport_2021_gradient.svg/500px-Polsat_Sport_2021_gradient.svg.png",
+      "category": "Sports",
+      "country": "Poland",
+      "country_flag_emoji": "🇵🇱",
+      "language": "Polish",
+      "is_vip": true
+    },
+    {
+      "id": 998,
+      "title": "Polsat Sport NEWS HD Poland",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Polsat_Sport_2021_gradient.svg/500px-Polsat_Sport_2021_gradient.svg.png",
+      "category": "Sports",
+      "country": "Poland",
+      "country_flag_emoji": "🇵🇱",
+      "language": "Polish",
+      "is_vip": true
+    },
+    {
+      "id": 47,
+      "title": "Polsat Sport Poland",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Polsat_Sport_2021_gradient.svg/500px-Polsat_Sport_2021_gradient.svg.png",
+      "category": "Sports",
+      "country": "Poland",
+      "country_flag_emoji": "🇵🇱",
+      "language": "Polish",
+      "is_vip": true
+    },
+    {
+      "id": 991,
+      "title": "Polsat Sport Premium 1 Super HD PL",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Polsat_Sport_2021_gradient.svg/500px-Polsat_Sport_2021_gradient.svg.png",
+      "category": "Sports",
+      "country": "Poland",
+      "country_flag_emoji": "🇵🇱",
+      "language": "Polish",
+      "is_vip": true
+    },
+    {
+      "id": 992,
+      "title": "Polsat Sport Premium 2 Super HD PL",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Polsat_Sport_2021_gradient.svg/500px-Polsat_Sport_2021_gradient.svg.png",
+      "category": "Sports",
+      "country": "Poland",
+      "country_flag_emoji": "🇵🇱",
+      "language": "Polish",
+      "is_vip": true
+    },
+    {
+      "id": 1030,
+      "title": "Premier Sport 1 CZ",
+      "image": "",
+      "category": "Sports",
+      "country": "Czechia",
+      "country_flag_emoji": "🇨🇿",
+      "language": "Czech",
+      "is_vip": true
+    },
+    {
+      "id": 1031,
+      "title": "Premier Sport 2 CZ",
+      "image": "",
+      "category": "Sports",
+      "country": "Czechia",
+      "country_flag_emoji": "🇨🇿",
+      "language": "Czech",
+      "is_vip": true
+    },
+    {
+      "id": 1032,
+      "title": "Premier Sport 3 CZ",
+      "image": "",
+      "category": "Sports",
+      "country": "Czechia",
+      "country_flag_emoji": "🇨🇿",
+      "language": "Czech",
+      "is_vip": true
+    },
+    {
+      "id": 771,
+      "title": "Premier Sports Ireland 1",
+      "image": "",
+      "category": "Sports",
+      "country": "Ireland",
+      "country_flag_emoji": "🇮🇪",
+      "language": "English",
+      "is_vip": true
+    },
+    {
+      "id": 799,
+      "title": "Premier Sports Ireland 2",
+      "image": "",
+      "category": "Sports",
+      "country": "Ireland",
+      "country_flag_emoji": "🇮🇪",
+      "language": "English",
+      "is_vip": true
+    },
+    {
+      "id": 583,
+      "title": "Prima Sport 1",
+      "image": "",
+      "category": "Sports",
+      "country": "Romania",
+      "country_flag_emoji": "🇷🇴",
+      "language": "Romanian",
+      "is_vip": true
+    },
+    {
+      "id": 584,
+      "title": "Prima Sport 2",
+      "image": "",
+      "category": "Sports",
+      "country": "Romania",
+      "country_flag_emoji": "🇷🇴",
+      "language": "Romanian",
+      "is_vip": true
+    },
+    {
+      "id": 585,
+      "title": "Prima Sport 3",
+      "image": "",
+      "category": "Sports",
+      "country": "Romania",
+      "country_flag_emoji": "🇷🇴",
+      "language": "Romanian",
+      "is_vip": true
+    },
+    {
+      "id": 586,
+      "title": "Prima Sport 4",
+      "image": "",
+      "category": "Sports",
+      "country": "Romania",
+      "country_flag_emoji": "🇷🇴",
+      "language": "Romanian",
+      "is_vip": true
+    },
+    {
+      "id": 450,
+      "title": "PTV Sports",
+      "image": "",
+      "category": "Sports",
+      "country": "Pakistan",
+      "country_flag_emoji": "🇵🇰",
+      "language": "Urdu",
+      "is_vip": true
+    },
+    {
+      "id": 555,
+      "title": "Racing Tv UK",
+      "image": "",
+      "category": "Sports",
+      "country": "United Kingdom",
+      "country_flag_emoji": "🇬🇧",
+      "language": "English",
+      "is_vip": true
+    },
+    {
+      "id": 882,
+      "title": "Rai Sport Italy",
+      "image": "https://i.imgur.com/6PEevOM.png",
+      "category": "Sports",
+      "country": "Italy",
+      "country_flag_emoji": "🇮🇹",
+      "language": "Italian",
+      "is_vip": true
+    },
+    {
+      "id": 607,
+      "title": "Rally Tv",
+      "image": "https://i.postimg.cc/WtLq2C7c/logo-Rally-Tv1.png",
+      "category": "Sports",
+      "country": "United States",
+      "country_flag_emoji": "🇺🇸",
+      "language": "English",
+      "is_vip": true
+    },
+    {
+      "id": 840,
+      "title": "RDS 2 CA",
+      "image": "",
+      "category": "Sports",
+      "country": "Canada",
+      "country_flag_emoji": "🇨🇦",
+      "language": "French",
+      "is_vip": true
+    },
+    {
+      "id": 839,
+      "title": "RDS CA",
+      "image": "",
+      "category": "Sports",
+      "country": "Canada",
+      "country_flag_emoji": "🇨🇦",
+      "language": "French",
+      "is_vip": true
+    },
+    {
+      "id": 841,
+      "title": "RDS Info CA",
+      "image": "",
+      "category": "Sports",
+      "country": "Canada",
+      "country_flag_emoji": "🇨🇦",
+      "language": "French",
+      "is_vip": true
+    },
+    {
+      "id": 471,
+      "title": "Ring Bulgaria",
+      "image": "",
+      "category": "Sports",
+      "country": "Bulgaria",
+      "country_flag_emoji": "🇧🇬",
+      "language": "Bulgarian",
+      "is_vip": true
+    },
+    {
+      "id": 119,
+      "title": "RMC Sport 1 France",
+      "image": "",
+      "category": "Sports",
+      "country": "France",
+      "country_flag_emoji": "🇫🇷",
+      "language": "French",
+      "is_vip": true
+    },
+    {
+      "id": 120,
+      "title": "RMC Sport 2 France",
+      "image": "",
+      "category": "Sports",
+      "country": "France",
+      "country_flag_emoji": "🇫🇷",
+      "language": "French",
+      "is_vip": true
+    },
+    {
+      "id": 920,
+      "title": "Root Sports Northwest",
+      "image": "",
+      "category": "Sports",
+      "country": "United States",
+      "country_flag_emoji": "🇺🇸",
+      "language": "English",
+      "is_vip": true
+    },
+    {
+      "id": 385,
+      "title": "SEC Network USA",
+      "image": "",
+      "category": "Sports",
+      "country": "United States",
+      "country_flag_emoji": "🇺🇸",
+      "language": "English",
+      "is_vip": true
+    },
+    {
+      "id": 588,
+      "title": "Sky Sport 1 NZ",
+      "image": "https://i.imgur.com/ThJHEuN.png",
+      "category": "Sports",
+      "country": "New Zealand",
+      "country_flag_emoji": "🇳🇿",
+      "language": "English",
+      "is_vip": true
+    },
+    {
+      "id": 589,
+      "title": "Sky Sport 2 NZ",
+      "image": "",
+      "category": "Sports",
+      "country": "New Zealand",
+      "country_flag_emoji": "🇳🇿",
+      "language": "English",
+      "is_vip": true
+    },
+    {
+      "id": 869,
+      "title": "Sky Sport 24 Italy",
+      "image": "",
+      "category": "Sports",
+      "country": "Italy",
+      "country_flag_emoji": "🇮🇹",
+      "language": "Italian",
+      "is_vip": true
+    },
+    {
+      "id": 590,
+      "title": "Sky Sport 3 NZ",
+      "image": "",
+      "category": "Sports",
+      "country": "New Zealand",
+      "country_flag_emoji": "🇳🇿",
+      "language": "English",
+      "is_vip": true
+    },
+    {
+      "id": 591,
+      "title": "Sky Sport 4 NZ",
+      "image": "",
+      "category": "Sports",
+      "country": "New Zealand",
+      "country_flag_emoji": "🇳🇿",
+      "language": "English",
+      "is_vip": true
+    },
+    {
+      "id": 592,
+      "title": "Sky Sport 5 NZ",
+      "image": "",
+      "category": "Sports",
+      "country": "New Zealand",
+      "country_flag_emoji": "🇳🇿",
+      "language": "English",
+      "is_vip": true
+    },
+    {
+      "id": 593,
+      "title": "Sky Sport 6 NZ",
+      "image": "",
+      "category": "Sports",
+      "country": "New Zealand",
+      "country_flag_emoji": "🇳🇿",
+      "language": "English",
+      "is_vip": true
+    },
+    {
+      "id": 594,
+      "title": "Sky Sport 7 NZ",
+      "image": "",
+      "category": "Sports",
+      "country": "New Zealand",
+      "country_flag_emoji": "🇳🇿",
+      "language": "English",
+      "is_vip": true
+    },
+    {
+      "id": 595,
+      "title": "Sky Sport 8 NZ",
+      "image": "",
+      "category": "Sports",
+      "country": "New Zealand",
+      "country_flag_emoji": "🇳🇿",
+      "language": "English",
+      "is_vip": true
+    },
+    {
+      "id": 596,
+      "title": "Sky Sport 9 NZ",
+      "image": "",
+      "category": "Sports",
+      "country": "New Zealand",
+      "country_flag_emoji": "🇳🇿",
+      "language": "English",
+      "is_vip": true
+    },
+    {
+      "id": 462,
+      "title": "Sky Sport Arena Italy",
+      "image": "",
+      "category": "Sports",
+      "country": "Italy",
+      "country_flag_emoji": "🇮🇹",
+      "language": "Italian",
+      "is_vip": true
+    },
+    {
+      "id": 559,
+      "title": "Sky Sport Austria 1 HD",
+      "image": "",
+      "category": "Sports",
+      "country": "Germany",
+      "country_flag_emoji": "🇩🇪",
+      "language": "German",
+      "is_vip": true
+    },
+    {
+      "id": 875,
+      "title": "Sky Sport Basket Italy",
+      "image": "",
+      "category": "Sports",
+      "country": "Italy",
+      "country_flag_emoji": "🇮🇹",
+      "language": "Italian",
+      "is_vip": true
+    },
+    {
+      "id": 558,
+      "title": "Sky Sport Bundesliga 1 HD",
+      "image": "",
+      "category": "Sports",
+      "country": "Germany",
+      "country_flag_emoji": "🇩🇪",
+      "language": "German",
+      "is_vip": true
+    },
+    {
+      "id": 946,
+      "title": "Sky Sport Bundesliga 2",
+      "image": "",
+      "category": "Sports",
+      "country": "Germany",
+      "country_flag_emoji": "🇩🇪",
+      "language": "German",
+      "is_vip": true
+    },
+    {
+      "id": 947,
+      "title": "Sky Sport Bundesliga 3",
+      "image": "",
+      "category": "Sports",
+      "country": "Germany",
+      "country_flag_emoji": "🇩🇪",
+      "language": "German",
+      "is_vip": true
+    },
+    {
+      "id": 948,
+      "title": "Sky Sport Bundesliga 4",
+      "image": "",
+      "category": "Sports",
+      "country": "Germany",
+      "country_flag_emoji": "🇩🇪",
+      "language": "German",
+      "is_vip": true
+    },
+    {
+      "id": 949,
+      "title": "Sky Sport Bundesliga 5",
+      "image": "",
+      "category": "Sports",
+      "country": "Germany",
+      "country_flag_emoji": "🇩🇪",
+      "language": "German",
+      "is_vip": true
+    },
+    {
+      "id": 870,
+      "title": "Sky Sport Calcio Italy",
+      "image": "",
+      "category": "Sports",
+      "country": "Italy",
+      "country_flag_emoji": "🇮🇹",
+      "language": "Italian",
+      "is_vip": true
+    },
+    {
+      "id": 577,
+      "title": "Sky Sport F1 Italy",
+      "image": "",
+      "category": "Sports",
+      "country": "Italy",
+      "country_flag_emoji": "🇮🇹",
+      "language": "Italian",
+      "is_vip": true
+    },
+    {
+      "id": 460,
+      "title": "Sky Sport MAX Italy",
+      "image": "",
+      "category": "Sports",
+      "country": "Italy",
+      "country_flag_emoji": "🇮🇹",
+      "language": "Italian",
+      "is_vip": true
+    },
+    {
+      "id": 557,
+      "title": "Sky Sport Mix DE",
+      "image": "",
+      "category": "Sports",
+      "country": "Germany",
+      "country_flag_emoji": "🇩🇪",
+      "language": "German",
+      "is_vip": true
+    },
+    {
+      "id": 575,
+      "title": "Sky Sport MotoGP Italy",
+      "image": "",
+      "category": "Sports",
+      "country": "Italy",
+      "country_flag_emoji": "🇮🇹",
+      "language": "Italian",
+      "is_vip": true
+    },
+    {
+      "id": 587,
+      "title": "Sky Sport Select NZ",
+      "image": "",
+      "category": "Sports",
+      "country": "New Zealand",
+      "country_flag_emoji": "🇳🇿",
+      "language": "English",
+      "is_vip": true
+    },
+    {
+      "id": 576,
+      "title": "Sky Sport Tennis Italy",
+      "image": "",
+      "category": "Sports",
+      "country": "Italy",
+      "country_flag_emoji": "🇮🇹",
+      "language": "Italian",
+      "is_vip": true
+    },
+    {
+      "id": 556,
+      "title": "Sky Sport Top Event DE",
+      "image": "",
+      "category": "Sports",
+      "country": "Germany",
+      "country_flag_emoji": "🇩🇪",
+      "language": "German",
+      "is_vip": true
+    },
+    {
+      "id": 461,
+      "title": "Sky Sport UNO Italy",
+      "image": "",
+      "category": "Sports",
+      "country": "Italy",
+      "country_flag_emoji": "🇮🇹",
+      "language": "Italian",
+      "is_vip": true
+    },
+    {
+      "id": 240,
+      "title": "Sky Sports 1 DE",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Sky_Sport_1_DE_Logo_2020.svg/960px-Sky_Sport_1_DE_Logo_2020.svg.png",
+      "category": "Sports",
+      "country": "Germany",
+      "country_flag_emoji": "🇩🇪",
+      "language": "German",
+      "is_vip": true
+    },
+    {
+      "id": 241,
+      "title": "Sky Sports 2 DE",
+      "image": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1301.png",
+      "category": "Sports",
+      "country": "Germany",
+      "country_flag_emoji": "🇩🇪",
+      "language": "German",
+      "is_vip": true
+    },
+    {
+      "id": 37,
+      "title": "Sky Sports Action UK",
+      "image": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1301.png",
+      "category": "Sports",
+      "country": "United Kingdom",
+      "country_flag_emoji": "🇬🇧",
+      "language": "English",
+      "is_vip": true
+    },
+    {
+      "id": 65,
+      "title": "Sky Sports Cricket",
+      "image": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1301.png",
+      "category": "Sports",
+      "country": "United Kingdom",
+      "country_flag_emoji": "🇬🇧",
+      "language": "English",
+      "is_vip": true
+    },
+    {
+      "id": 274,
+      "title": "Sky Sports F1 DE",
+      "image": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1301.png",
+      "category": "Sports",
+      "country": "Germany",
+      "country_flag_emoji": "🇩🇪",
+      "language": "German",
+      "is_vip": true
+    },
+    {
+      "id": 60,
+      "title": "Sky Sports F1 UK",
+      "image": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1301.png",
+      "category": "Sports",
+      "country": "United Kingdom",
+      "country_flag_emoji": "🇬🇧",
+      "language": "English",
+      "is_vip": true
+    },
+    {
+      "id": 35,
+      "title": "Sky Sports Football UK",
+      "image": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1301.png",
+      "category": "Sports",
+      "country": "United Kingdom",
+      "country_flag_emoji": "🇬🇧",
+      "language": "English",
+      "is_vip": true
+    },
+    {
+      "id": 785,
+      "title": "Sky Sports Golf DE",
+      "image": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1301.png",
+      "category": "Sports",
+      "country": "Germany",
+      "country_flag_emoji": "🇩🇪",
+      "language": "German",
+      "is_vip": true
+    },
+    {
+      "id": 574,
+      "title": "Sky Sports Golf Italy",
+      "image": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1301.png",
+      "category": "Sports",
+      "country": "Italy",
+      "country_flag_emoji": "🇮🇹",
+      "language": "Italian",
+      "is_vip": true
+    },
+    {
+      "id": 70,
+      "title": "Sky Sports Golf UK",
+      "image": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1301.png",
+      "category": "Sports",
+      "country": "United Kingdom",
+      "country_flag_emoji": "🇬🇧",
+      "language": "English",
+      "is_vip": true
+    },
+    {
+      "id": 38,
+      "title": "Sky Sports Main Event",
+      "image": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1301.png",
+      "category": "Sports",
+      "country": "United Kingdom",
+      "country_flag_emoji": "🇬🇧",
+      "language": "English",
+      "is_vip": true
+    },
+    {
+      "id": 449,
+      "title": "Sky Sports MIX UK",
+      "image": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1301.png",
+      "category": "Sports",
+      "country": "United Kingdom",
+      "country_flag_emoji": "🇬🇧",
+      "language": "English",
+      "is_vip": true
+    },
+    {
+      "id": 366,
+      "title": "Sky Sports News UK",
+      "image": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1301.png",
+      "category": "Sports",
+      "country": "United Kingdom",
+      "country_flag_emoji": "🇬🇧",
+      "language": "English",
+      "is_vip": true
+    },
+    {
+      "id": 130,
+      "title": "Sky sports Premier League",
+      "image": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1301.png",
+      "category": "Sports",
+      "country": "United Kingdom",
+      "country_flag_emoji": "🇬🇧",
+      "language": "English",
+      "is_vip": true
+    },
+    {
+      "id": 554,
+      "title": "Sky Sports Racing UK",
+      "image": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1301.png",
+      "category": "Sports",
+      "country": "United Kingdom",
+      "country_flag_emoji": "🇬🇧",
+      "language": "English",
+      "is_vip": true
+    },
+    {
+      "id": 884,
+      "title": "Sky Sports Tennis DE",
+      "image": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1301.png",
+      "category": "Sports",
+      "country": "Germany",
+      "country_flag_emoji": "🇩🇪",
+      "language": "German",
+      "is_vip": true
+    },
+    {
+      "id": 46,
+      "title": "Sky Sports Tennis UK",
+      "image": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1301.png",
+      "category": "Sports",
+      "country": "United Kingdom",
+      "country_flag_emoji": "🇬🇧",
+      "language": "English",
+      "is_vip": true
+    },
+    {
+      "id": 36,
+      "title": "Sky Sports+ Plus",
+      "image": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1301.png",
+      "category": "Sports",
+      "country": "United Kingdom",
+      "country_flag_emoji": "🇬🇧",
+      "language": "English",
+      "is_vip": true
+    },
+    {
+      "id": 885,
+      "title": "SONY TEN 1",
+      "image": "",
+      "category": "Sports",
+      "country": "India",
+      "country_flag_emoji": "🇮🇳",
+      "language": "English",
+      "is_vip": true
+    },
+    {
+      "id": 886,
+      "title": "SONY TEN 2",
+      "image": "",
+      "category": "Sports",
+      "country": "India",
+      "country_flag_emoji": "🇮🇳",
+      "language": "English",
+      "is_vip": true
+    },
+    {
+      "id": 887,
+      "title": "SONY TEN 3",
+      "image": "",
+      "category": "Sports",
+      "country": "India",
+      "country_flag_emoji": "🇮🇳",
+      "language": "English",
+      "is_vip": true
+    },
+    {
+      "id": 764,
+      "title": "Spectrum Sportsnet LA",
+      "image": "",
+      "category": "Sports",
+      "country": "United States",
+      "country_flag_emoji": "🇺🇸",
+      "language": "English",
+      "is_vip": true
+    },
+    {
+      "id": 982,
+      "title": "Spectrum SportsNet USA",
+      "image": "",
+      "category": "Sports",
+      "country": "United States",
+      "country_flag_emoji": "🇺🇸",
+      "language": "English",
+      "is_vip": true
+    },
+    {
+      "id": 1042,
+      "title": "Sport 1 CZ",
+      "image": "",
+      "category": "Sports",
+      "country": "Czechia",
+      "country_flag_emoji": "🇨🇿",
+      "language": "Czech",
+      "is_vip": true
+    },
+    {
+      "id": 140,
+      "title": "Sport 1 Israel",
+      "image": "",
+      "category": "Sports",
+      "country": "Israel",
+      "country_flag_emoji": "🇮🇱",
+      "language": "Hebrew",
+      "is_vip": true
+    },
+    {
+      "id": 141,
+      "title": "Sport 2 Israel",
+      "image": "",
+      "category": "Sports",
+      "country": "Israel",
+      "country_flag_emoji": "🇮🇱",
+      "language": "Hebrew",
+      "is_vip": true
+    },
+    {
+      "id": 142,
+      "title": "Sport 3 Israel",
+      "image": "",
+      "category": "Sports",
+      "country": "Israel",
+      "country_flag_emoji": "🇮🇱",
+      "language": "Hebrew",
+      "is_vip": true
+    },
+    {
+      "id": 143,
+      "title": "Sport 4 Israel",
+      "image": "",
+      "category": "Sports",
+      "country": "Israel",
+      "country_flag_emoji": "🇮🇱",
+      "language": "Hebrew",
+      "is_vip": true
+    },
+    {
+      "id": 148,
+      "title": "Sport 5 Gold Israel",
+      "image": "",
+      "category": "Sports",
+      "country": "Israel",
+      "country_flag_emoji": "🇮🇱",
+      "language": "Hebrew",
+      "is_vip": true
+    },
+    {
+      "id": 144,
+      "title": "Sport 5 Israel",
+      "image": "",
+      "category": "Sports",
+      "country": "Israel",
+      "country_flag_emoji": "🇮🇱",
+      "language": "Hebrew",
+      "is_vip": true
+    },
+    {
+      "id": 146,
+      "title": "Sport 5 Live Israel",
+      "image": "",
+      "category": "Sports",
+      "country": "Israel",
+      "country_flag_emoji": "🇮🇱",
+      "language": "Hebrew",
+      "is_vip": true
+    },
+    {
+      "id": 145,
+      "title": "Sport 5 PLUS Israel",
+      "image": "",
+      "category": "Sports",
+      "country": "Israel",
+      "country_flag_emoji": "🇮🇱",
+      "language": "Hebrew",
+      "is_vip": true
+    },
+    {
+      "id": 147,
+      "title": "Sport 5 Star Israel",
+      "image": "",
+      "category": "Sports",
+      "country": "Israel",
+      "country_flag_emoji": "🇮🇱",
+      "language": "Hebrew",
+      "is_vip": true
+    },
+    {
+      "id": 965,
+      "title": "Sport en France",
+      "image": "",
+      "category": "Sports",
+      "country": "France",
+      "country_flag_emoji": "🇫🇷",
+      "language": "French",
+      "is_vip": true
+    },
+    {
+      "id": 101,
+      "title": "Sport Klub 1 Croatia",
+      "image": "",
+      "category": "Sports",
+      "country": "Croatia",
+      "country_flag_emoji": "🇭🇷",
+      "language": "Croatian",
+      "is_vip": true
+    },
+    {
+      "id": 102,
+      "title": "Sport Klub 2 Croatia",
+      "image": "",
+      "category": "Sports",
+      "country": "Croatia",
+      "country_flag_emoji": "🇭🇷",
+      "language": "Croatian",
+      "is_vip": true
+    },
+    {
+      "id": 103,
+      "title": "Sport Klub 3 Croatia",
+      "image": "",
+      "category": "Sports",
+      "country": "Croatia",
+      "country_flag_emoji": "🇭🇷",
+      "language": "Croatian",
+      "is_vip": true
+    },
+    {
+      "id": 104,
+      "title": "Sport Klub 4 Croatia",
+      "image": "",
+      "category": "Sports",
+      "country": "Croatia",
+      "country_flag_emoji": "🇭🇷",
+      "language": "Croatian",
+      "is_vip": true
+    },
+    {
+      "id": 710,
+      "title": "Sport KLUB Golf Croatia",
+      "image": "",
+      "category": "Sports",
+      "country": "Croatia",
+      "country_flag_emoji": "🇭🇷",
+      "language": "Croatian",
+      "is_vip": true
+    },
+    {
+      "id": 453,
+      "title": "Sport Klub HD Croatia",
+      "image": "",
+      "category": "Sports",
+      "country": "Croatia",
+      "country_flag_emoji": "🇭🇷",
+      "language": "Croatian",
+      "is_vip": true
+    },
+    {
+      "id": 49,
+      "title": "Sport TV1 Portugal",
+      "image": "",
+      "category": "Sports",
+      "country": "Portugal",
+      "country_flag_emoji": "🇵🇹",
+      "language": "Portuguese",
+      "is_vip": true
+    },
+    {
+      "id": 74,
+      "title": "Sport TV2 Portugal",
+      "image": "",
+      "category": "Sports",
+      "country": "Portugal",
+      "country_flag_emoji": "🇵🇹",
+      "language": "Portuguese",
+      "is_vip": true
+    },
+    {
+      "id": 454,
+      "title": "Sport TV3 Portugal",
+      "image": "",
+      "category": "Sports",
+      "country": "Portugal",
+      "country_flag_emoji": "🇵🇹",
+      "language": "Portuguese",
+      "is_vip": true
+    },
+    {
+      "id": 289,
+      "title": "Sport TV4 Portugal",
+      "image": "",
+      "category": "Sports",
+      "country": "Portugal",
+      "country_flag_emoji": "🇵🇹",
+      "language": "Portuguese",
+      "is_vip": true
+    },
+    {
+      "id": 290,
+      "title": "Sport TV5 Portugal",
+      "image": "",
+      "category": "Sports",
+      "country": "Portugal",
+      "country_flag_emoji": "🇵🇹",
+      "language": "Portuguese",
+      "is_vip": true
+    },
+    {
+      "id": 291,
+      "title": "Sport TV6 Portugal",
+      "image": "",
+      "category": "Sports",
+      "country": "Portugal",
+      "country_flag_emoji": "🇵🇹",
+      "language": "Portuguese",
+      "is_vip": true
+    },
+    {
+      "id": 641,
+      "title": "Sport1 Germany",
+      "image": "",
+      "category": "Sports",
+      "country": "Germany",
+      "country_flag_emoji": "🇩🇪",
+      "language": "German",
+      "is_vip": true
+    },
+    {
+      "id": 571,
+      "title": "SportDigital Fussball",
+      "image": "",
+      "category": "Sports",
+      "country": "Germany",
+      "country_flag_emoji": "🇩🇪",
+      "language": "German",
+      "is_vip": true
+    },
+    {
+      "id": 640,
+      "title": "Sportdigital1+ Germany",
+      "image": "",
+      "category": "Sports",
+      "country": "Germany",
+      "country_flag_emoji": "🇩🇪",
+      "language": "German",
+      "is_vip": true
+    },
+    {
+      "id": 716,
+      "title": "Sporting TV Portugal",
+      "image": "",
+      "category": "Sports",
+      "country": "Portugal",
+      "country_flag_emoji": "🇵🇹",
+      "language": "Portuguese",
+      "is_vip": true
+    },
+    {
+      "id": 409,
+      "title": "Sportsnet 360",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Logo_Sportsnet_2011.svg/960px-Logo_Sportsnet_2011.svg.png",
+      "category": "Sports",
+      "country": "Canada",
+      "country_flag_emoji": "🇨🇦",
+      "language": "English",
+      "is_vip": true
+    },
+    {
+      "id": 408,
+      "title": "Sportsnet East",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Logo_Sportsnet_2011.svg/960px-Logo_Sportsnet_2011.svg.png",
+      "category": "Sports",
+      "country": "Canada",
+      "country_flag_emoji": "🇨🇦",
+      "language": "English",
+      "is_vip": true
+    },
+    {
+      "id": 759,
+      "title": "SportsNet New York (SNY)",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Logo_Sportsnet_2011.svg/960px-Logo_Sportsnet_2011.svg.png",
+      "category": "Sports",
+      "country": "United States",
+      "country_flag_emoji": "🇺🇸",
+      "language": "English",
+      "is_vip": true
+    },
+    {
+      "id": 411,
+      "title": "Sportsnet One",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Logo_Sportsnet_2011.svg/960px-Logo_Sportsnet_2011.svg.png",
+      "category": "Sports",
+      "country": "Canada",
+      "country_flag_emoji": "🇨🇦",
+      "language": "English",
+      "is_vip": true
+    },
+    {
+      "id": 406,
+      "title": "Sportsnet Ontario",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Logo_Sportsnet_2011.svg/960px-Logo_Sportsnet_2011.svg.png",
+      "category": "Sports",
+      "country": "Canada",
+      "country_flag_emoji": "🇨🇦",
+      "language": "English",
+      "is_vip": true
+    },
+    {
+      "id": 922,
+      "title": "SportsNet Pittsburgh",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Logo_Sportsnet_2011.svg/960px-Logo_Sportsnet_2011.svg.png",
+      "category": "Sports",
+      "country": "Canada",
+      "country_flag_emoji": "🇨🇦",
+      "language": "English",
+      "is_vip": true
+    },
+    {
+      "id": 407,
+      "title": "Sportsnet West",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Logo_Sportsnet_2011.svg/960px-Logo_Sportsnet_2011.svg.png",
+      "category": "Sports",
+      "country": "Canada",
+      "country_flag_emoji": "🇨🇦",
+      "language": "English",
+      "is_vip": true
+    },
+    {
+      "id": 410,
+      "title": "Sportsnet World",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Logo_Sportsnet_2011.svg/960px-Logo_Sportsnet_2011.svg.png",
+      "category": "Sports",
+      "country": "Canada",
+      "country_flag_emoji": "🇨🇦",
+      "language": "English",
+      "is_vip": true
+    },
+    {
+      "id": 78,
+      "title": "SporTV Brasil",
+      "image": "",
+      "category": "Sports",
+      "country": "Brazil",
+      "country_flag_emoji": "🇧🇷",
+      "language": "Portuguese",
+      "is_vip": true
+    },
+    {
+      "id": 79,
+      "title": "SporTV2 Brasil",
+      "image": "",
+      "category": "Sports",
+      "country": "Brazil",
+      "country_flag_emoji": "🇧🇷",
+      "language": "Portuguese",
+      "is_vip": true
+    },
+    {
+      "id": 80,
+      "title": "SporTV3 Brasil",
+      "image": "",
+      "category": "Sports",
+      "country": "Brazil",
+      "country_flag_emoji": "🇧🇷",
+      "language": "Portuguese",
+      "is_vip": true
+    },
+    {
+      "id": 614,
+      "title": "SSC Sport 1",
+      "image": "",
+      "category": "Sports",
+      "country": "Saudi Arabia",
+      "country_flag_emoji": "🇸🇦",
+      "language": "Arabic",
+      "is_vip": true
+    },
+    {
+      "id": 615,
+      "title": "SSC Sport 2",
+      "image": "",
+      "category": "Sports",
+      "country": "Saudi Arabia",
+      "country_flag_emoji": "🇸🇦",
+      "language": "Arabic",
+      "is_vip": true
+    },
+    {
+      "id": 616,
+      "title": "SSC Sport 3",
+      "image": "",
+      "category": "Sports",
+      "country": "Saudi Arabia",
+      "country_flag_emoji": "🇸🇦",
+      "language": "Arabic",
+      "is_vip": true
+    },
+    {
+      "id": 617,
+      "title": "SSC Sport 4",
+      "image": "",
+      "category": "Sports",
+      "country": "Saudi Arabia",
+      "country_flag_emoji": "🇸🇦",
+      "language": "Arabic",
+      "is_vip": true
+    },
+    {
+      "id": 618,
+      "title": "SSC Sport 5",
+      "image": "",
+      "category": "Sports",
+      "country": "Saudi Arabia",
+      "country_flag_emoji": "🇸🇦",
+      "language": "Arabic",
+      "is_vip": true
+    },
+    {
+      "id": 619,
+      "title": "SSC Sport Extra 1",
+      "image": "",
+      "category": "Sports",
+      "country": "Saudi Arabia",
+      "country_flag_emoji": "🇸🇦",
+      "language": "Arabic",
+      "is_vip": true
+    },
+    {
+      "id": 620,
+      "title": "SSC Sport Extra 2",
+      "image": "",
+      "category": "Sports",
+      "country": "Saudi Arabia",
+      "country_flag_emoji": "🇸🇦",
+      "language": "Arabic",
+      "is_vip": true
+    },
+    {
+      "id": 621,
+      "title": "SSC Sport Extra 3",
+      "image": "",
+      "category": "Sports",
+      "country": "Saudi Arabia",
+      "country_flag_emoji": "🇸🇦",
+      "language": "Arabic",
+      "is_vip": true
+    },
+    {
+      "id": 267,
+      "title": "Star Sports 1 IN",
+      "image": "",
+      "category": "Sports",
+      "country": "India",
+      "country_flag_emoji": "🇮🇳",
+      "language": "English",
+      "is_vip": true
+    },
+    {
+      "id": 268,
+      "title": "Star Sports Hindi IN",
+      "image": "",
+      "category": "Sports",
+      "country": "India",
+      "country_flag_emoji": "🇮🇳",
+      "language": "Hindi",
+      "is_vip": true
+    },
+    {
+      "id": 420,
+      "title": "SuperSport Action",
+      "image": "",
+      "category": "Sports",
+      "country": "South Africa",
+      "country_flag_emoji": "🇿🇦",
+      "language": "English",
+      "is_vip": true
+    },
+    {
+      "id": 368,
+      "title": "SuperSport Cricket",
+      "image": "",
+      "category": "Sports",
+      "country": "South Africa",
+      "country_flag_emoji": "🇿🇦",
+      "language": "English",
+      "is_vip": true
+    },
+    {
+      "id": 56,
+      "title": "Supersport Football",
+      "image": "",
+      "category": "Sports",
+      "country": "South Africa",
+      "country_flag_emoji": "🇿🇦",
+      "language": "English",
+      "is_vip": true
+    },
+    {
+      "id": 422,
+      "title": "SuperSport Golf",
+      "image": "",
+      "category": "Sports",
+      "country": "South Africa",
+      "country_flag_emoji": "🇿🇦",
+      "language": "English",
+      "is_vip": true
+    },
+    {
+      "id": 412,
+      "title": "SuperSport Grandstand",
+      "image": "",
+      "category": "Sports",
+      "country": "South Africa",
+      "country_flag_emoji": "🇿🇦",
+      "language": "English",
+      "is_vip": true
+    },
+    {
+      "id": 415,
+      "title": "SuperSport LaLiga",
+      "image": "",
+      "category": "Sports",
+      "country": "South Africa",
+      "country_flag_emoji": "🇿🇦",
+      "language": "English",
+      "is_vip": true
+    },
+    {
+      "id": 572,
+      "title": "SuperSport MaXimo 1",
+      "image": "",
+      "category": "Sports",
+      "country": "South Africa",
+      "country_flag_emoji": "🇿🇦",
+      "language": "English",
+      "is_vip": true
+    },
+    {
+      "id": 424,
+      "title": "SuperSport Motorsport",
+      "image": "",
+      "category": "Sports",
+      "country": "South Africa",
+      "country_flag_emoji": "🇿🇦",
+      "language": "English",
+      "is_vip": true
+    },
+    {
+      "id": 414,
+      "title": "SuperSport Premier league",
+      "image": "",
+      "category": "Sports",
+      "country": "South Africa",
+      "country_flag_emoji": "🇿🇦",
+      "language": "English",
+      "is_vip": true
+    },
+    {
+      "id": 413,
+      "title": "SuperSport PSL",
+      "image": "",
+      "category": "Sports",
+      "country": "South Africa",
+      "country_flag_emoji": "🇿🇦",
+      "language": "English",
+      "is_vip": true
+    },
+    {
+      "id": 421,
+      "title": "SuperSport Rugby",
+      "image": "",
+      "category": "Sports",
+      "country": "South Africa",
+      "country_flag_emoji": "🇿🇦",
+      "language": "English",
+      "is_vip": true
+    },
+    {
+      "id": 423,
+      "title": "SuperSport Tennis",
+      "image": "",
+      "category": "Sports",
+      "country": "South Africa",
+      "country_flag_emoji": "🇿🇦",
+      "language": "English",
+      "is_vip": true
+    },
+    {
+      "id": 416,
+      "title": "SuperSport Variety 1",
+      "image": "",
+      "category": "Sports",
+      "country": "South Africa",
+      "country_flag_emoji": "🇿🇦",
+      "language": "English",
+      "is_vip": true
+    },
+    {
+      "id": 417,
+      "title": "SuperSport Variety 2",
+      "image": "",
+      "category": "Sports",
+      "country": "South Africa",
+      "country_flag_emoji": "🇿🇦",
+      "language": "English",
+      "is_vip": true
+    },
+    {
+      "id": 418,
+      "title": "SuperSport Variety 3",
+      "image": "",
+      "category": "Sports",
+      "country": "South Africa",
+      "country_flag_emoji": "🇿🇦",
+      "language": "English",
+      "is_vip": true
+    },
+    {
+      "id": 419,
+      "title": "SuperSport Variety 4",
+      "image": "",
+      "category": "Sports",
+      "country": "South Africa",
+      "country_flag_emoji": "🇿🇦",
+      "language": "English",
+      "is_vip": true
+    },
+    {
+      "id": 270,
+      "title": "T Sports BD",
+      "image": "",
+      "category": "Sports",
+      "country": "Bangladesh",
+      "country_flag_emoji": "🇧🇩",
+      "language": "Bengali",
+      "is_vip": true
+    },
+    {
+      "id": 529,
+      "title": "Teledeporte Spain (TDP)",
+      "image": "",
+      "category": "Sports",
+      "country": "Spain",
+      "country_flag_emoji": "🇪🇸",
+      "language": "Spanish",
+      "is_vip": true
+    },
+    {
+      "id": 741,
+      "title": "Ten Sports PK",
+      "image": "",
+      "category": "Sports",
+      "country": "Pakistan",
+      "country_flag_emoji": "🇵🇰",
+      "language": "Urdu",
+      "is_vip": true
+    },
+    {
+      "id": 40,
+      "title": "Tennis Channel",
+      "image": "https://i.imgur.com/tsljAnY.png",
+      "category": "Sports",
+      "country": "United States",
+      "country_flag_emoji": "🇺🇸",
+      "language": "English",
+      "is_vip": true
+    },
+    {
+      "id": 709,
+      "title": "Tennis+ 10",
+      "image": "",
+      "category": "Sports",
+      "country": "",
+      "country_flag_emoji": "",
+      "language": "English",
+      "is_vip": true
+    },
+    {
+      "id": 711,
+      "title": "Tennis+ 12",
+      "image": "",
+      "category": "Sports",
+      "country": "",
+      "country_flag_emoji": "",
+      "language": "English",
+      "is_vip": true
+    },
+    {
+      "id": 469,
+      "title": "TF1 France",
+      "image": "",
+      "category": "Sports",
+      "country": "France",
+      "country_flag_emoji": "🇫🇷",
+      "language": "French",
+      "is_vip": true
+    },
+    {
+      "id": 31,
+      "title": "TNT Sports 1 UK",
+      "image": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-1-uk.png?raw=true",
+      "category": "Sports",
+      "country": "United Kingdom",
+      "country_flag_emoji": "🇬🇧",
+      "language": "English",
+      "is_vip": true
+    },
+    {
+      "id": 32,
+      "title": "TNT Sports 2 UK",
+      "image": "",
+      "category": "Sports",
+      "country": "United Kingdom",
+      "country_flag_emoji": "🇬🇧",
+      "language": "English",
+      "is_vip": true
+    },
+    {
+      "id": 33,
+      "title": "TNT Sports 3 UK",
+      "image": "",
+      "category": "Sports",
+      "country": "United Kingdom",
+      "country_flag_emoji": "🇬🇧",
+      "language": "English",
+      "is_vip": true
+    },
+    {
+      "id": 34,
+      "title": "TNT Sports 4 UK",
+      "image": "",
+      "category": "Sports",
+      "country": "United Kingdom",
+      "country_flag_emoji": "🇬🇧",
+      "language": "English",
+      "is_vip": true
+    },
+    {
+      "id": 388,
+      "title": "TNT Sports Argentina",
+      "image": "",
+      "category": "Sports",
+      "country": "Argentina",
+      "country_flag_emoji": "🇦🇷",
+      "language": "Spanish",
+      "is_vip": true
+    },
+    {
+      "id": 642,
+      "title": "TNT Sports HD Chile",
+      "image": "",
+      "category": "Sports",
+      "country": "Chile",
+      "country_flag_emoji": "🇨🇱",
+      "language": "Spanish",
+      "is_vip": true
+    },
+    {
+      "id": 111,
+      "title": "TSN1",
+      "image": "",
+      "category": "Sports",
+      "country": "Canada",
+      "country_flag_emoji": "🇨🇦",
+      "language": "English",
+      "is_vip": true
+    },
+    {
+      "id": 112,
+      "title": "TSN2",
+      "image": "",
+      "category": "Sports",
+      "country": "Canada",
+      "country_flag_emoji": "🇨🇦",
+      "language": "English",
+      "is_vip": true
+    },
+    {
+      "id": 113,
+      "title": "TSN3",
+      "image": "",
+      "category": "Sports",
+      "country": "Canada",
+      "country_flag_emoji": "🇨🇦",
+      "language": "English",
+      "is_vip": true
+    },
+    {
+      "id": 114,
+      "title": "TSN4",
+      "image": "",
+      "category": "Sports",
+      "country": "Canada",
+      "country_flag_emoji": "🇨🇦",
+      "language": "English",
+      "is_vip": true
+    },
+    {
+      "id": 115,
+      "title": "TSN5",
+      "image": "",
+      "category": "Sports",
+      "country": "Canada",
+      "country_flag_emoji": "🇨🇦",
+      "language": "English",
+      "is_vip": true
+    },
+    {
+      "id": 935,
+      "title": "TUDN MX",
+      "image": "",
+      "category": "Sports",
+      "country": "Mexico",
+      "country_flag_emoji": "🇲🇽",
+      "language": "Spanish",
+      "is_vip": true
+    },
+    {
+      "id": 66,
+      "title": "TUDN USA",
+      "image": "",
+      "category": "Sports",
+      "country": "United States",
+      "country_flag_emoji": "🇺🇸",
+      "language": "Spanish",
+      "is_vip": true
+    },
+    {
+      "id": 814,
+      "title": "TV 2 Sport 2 Norway",
+      "image": "",
+      "category": "Sports",
+      "country": "Norway",
+      "country_flag_emoji": "🇳🇴",
+      "language": "Norwegian",
+      "is_vip": true
+    },
+    {
+      "id": 812,
+      "title": "TV 2 Sport Norway",
+      "image": "",
+      "category": "Sports",
+      "country": "Norway",
+      "country_flag_emoji": "🇳🇴",
+      "language": "Norwegian",
+      "is_vip": true
+    },
+    {
+      "id": 810,
+      "title": "TV2 Sport Denmark",
+      "image": "",
+      "category": "Sports",
+      "country": "Denmark",
+      "country_flag_emoji": "🇩🇰",
+      "language": "Danish",
+      "is_vip": true
+    },
+    {
+      "id": 808,
+      "title": "TV2 Sport X Denmark",
+      "image": "",
+      "category": "Sports",
+      "country": "Denmark",
+      "country_flag_emoji": "🇩🇰",
+      "language": "Danish",
+      "is_vip": true
+    },
+    {
+      "id": 809,
+      "title": "TV3 Sport Denmark",
+      "image": "",
+      "category": "Sports",
+      "country": "Denmark",
+      "country_flag_emoji": "🇩🇰",
+      "language": "Danish",
+      "is_vip": true
+    },
+    {
+      "id": 747,
+      "title": "TV4 Football Sweden",
+      "image": "",
+      "category": "Sports",
+      "country": "Sweden",
+      "country_flag_emoji": "🇸🇪",
+      "language": "Swedish",
+      "is_vip": true
+    },
+    {
+      "id": 703,
+      "title": "TV4 Sport Live 1",
+      "image": "",
+      "category": "Sports",
+      "country": "Sweden",
+      "country_flag_emoji": "🇸🇪",
+      "language": "Swedish",
+      "is_vip": true
+    },
+    {
+      "id": 704,
+      "title": "TV4 Sport Live 2",
+      "image": "",
+      "category": "Sports",
+      "country": "Sweden",
+      "country_flag_emoji": "🇸🇪",
+      "language": "Swedish",
+      "is_vip": true
+    },
+    {
+      "id": 705,
+      "title": "TV4 Sport Live 3",
+      "image": "",
+      "category": "Sports",
+      "country": "Sweden",
+      "country_flag_emoji": "🇸🇪",
+      "language": "Swedish",
+      "is_vip": true
+    },
+    {
+      "id": 706,
+      "title": "TV4 Sport Live 4",
+      "image": "",
+      "category": "Sports",
+      "country": "Sweden",
+      "country_flag_emoji": "🇸🇪",
+      "language": "Swedish",
+      "is_vip": true
+    },
+    {
+      "id": 707,
+      "title": "TV4 Sportkanalen",
+      "image": "",
+      "category": "Sports",
+      "country": "Sweden",
+      "country_flag_emoji": "🇸🇪",
+      "language": "Swedish",
+      "is_vip": true
+    },
+    {
+      "id": 701,
+      "title": "TV4 Tennis",
+      "image": "",
+      "category": "Sports",
+      "country": "Sweden",
+      "country_flag_emoji": "🇸🇪",
+      "language": "Swedish",
+      "is_vip": true
+    },
+    {
+      "id": 833,
+      "title": "TVA Sports",
+      "image": "",
+      "category": "Sports",
+      "country": "Canada",
+      "country_flag_emoji": "🇨🇦",
+      "language": "French",
+      "is_vip": true
+    },
+    {
+      "id": 834,
+      "title": "TVA Sports 2",
+      "image": "",
+      "category": "Sports",
+      "country": "Canada",
+      "country_flag_emoji": "🇨🇦",
+      "language": "French",
+      "is_vip": true
+    },
+    {
+      "id": 128,
+      "title": "TVP Sport Poland",
+      "image": "",
+      "category": "Sports",
+      "country": "Poland",
+      "country_flag_emoji": "🇵🇱",
+      "language": "Polish",
+      "is_vip": true
+    },
+    {
+      "id": 746,
+      "title": "TYC Sports Argentina",
+      "image": "",
+      "category": "Sports",
+      "country": "Argentina",
+      "country_flag_emoji": "🇦🇷",
+      "language": "Spanish",
+      "is_vip": true
+    },
+    {
+      "id": 272,
+      "title": "V Sport Motor Sweden",
+      "image": "",
+      "category": "Sports",
+      "country": "Sweden",
+      "country_flag_emoji": "🇸🇪",
+      "language": "Swedish",
+      "is_vip": true
+    },
+    {
+      "id": 451,
+      "title": "Viaplay Sports 1 UK",
+      "image": "",
+      "category": "Sports",
+      "country": "United Kingdom",
+      "country_flag_emoji": "🇬🇧",
+      "language": "English",
+      "is_vip": true
+    },
+    {
+      "id": 550,
+      "title": "Viaplay Sports 2 UK",
+      "image": "",
+      "category": "Sports",
+      "country": "United Kingdom",
+      "country_flag_emoji": "🇬🇧",
+      "language": "English",
+      "is_vip": true
+    },
+    {
+      "id": 260,
+      "title": "Vodafone Sport",
+      "image": "",
+      "category": "Sports",
+      "country": "",
+      "country_flag_emoji": "",
+      "language": "",
+      "is_vip": true
+    },
+    {
+      "id": 598,
+      "title": "Willow 2 Cricket",
+      "image": "",
+      "category": "Sports",
+      "country": "Pakistan",
+      "country_flag_emoji": "🇵🇰",
+      "language": "Urdu",
+      "is_vip": true
+    },
+    {
+      "id": 346,
+      "title": "Willow Cricket",
+      "image": "",
+      "category": "Sports",
+      "country": "Pakistan",
+      "country_flag_emoji": "🇵🇰",
+      "language": "Urdu",
+      "is_vip": true
+    },
+    {
+      "id": 392,
+      "title": "Win Sports+ Columbia",
+      "image": "",
+      "category": "Sports",
+      "country": "Colombia",
+      "country_flag_emoji": "🇨🇴",
+      "language": "Spanish",
+      "is_vip": true
+    },
+    {
+      "id": 376,
+      "title": "WWE Network",
+      "image": "",
+      "category": "Sports",
+      "country": "United States",
+      "country_flag_emoji": "🇺🇸",
+      "language": "English",
+      "is_vip": true
+    },
+    {
+      "id": 398,
+      "title": "Ziggo Sport 2 NL",
+      "image": "",
+      "category": "Sports",
+      "country": "Netherlands",
+      "country_flag_emoji": "🇳🇱",
+      "language": "Dutch",
+      "is_vip": true
+    },
+    {
+      "id": 919,
+      "title": "Ziggo Sport 3 NL",
+      "image": "",
+      "category": "Sports",
+      "country": "Netherlands",
+      "country_flag_emoji": "🇳🇱",
+      "language": "Dutch",
+      "is_vip": true
+    },
+    {
+      "id": 396,
+      "title": "Ziggo Sport 4 NL",
+      "image": "",
+      "category": "Sports",
+      "country": "Netherlands",
+      "country_flag_emoji": "🇳🇱",
+      "language": "Dutch",
+      "is_vip": true
+    },
+    {
+      "id": 383,
+      "title": "Ziggo Sport 5 NL",
+      "image": "",
+      "category": "Sports",
+      "country": "Netherlands",
+      "country_flag_emoji": "🇳🇱",
+      "language": "Dutch",
+      "is_vip": true
+    },
+    {
+      "id": 901,
+      "title": "Ziggo Sport 6 NL",
+      "image": "",
+      "category": "Sports",
+      "country": "Netherlands",
+      "country_flag_emoji": "🇳🇱",
+      "language": "Dutch",
+      "is_vip": true
+    },
+    {
+      "id": 393,
+      "title": "Ziggo Sport NL",
+      "image": "",
+      "category": "Sports",
+      "country": "Netherlands",
+      "country_flag_emoji": "🇳🇱",
+      "language": "Dutch",
+      "is_vip": true
+    },
+    {
+      "id": 744,
+      "title": "Fashion TV",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/960px-Fashion_TV_logo.svg.png",
+      "category": "Music",
+      "country": "France",
+      "country_flag_emoji": "🇫🇷",
+      "language": "English",
+      "is_vip": true
+    },
+    {
+      "id": 279,
+      "title": "FUSE TV USA",
+      "image": "",
+      "category": "Music",
+      "country": "United States",
+      "country_flag_emoji": "🇺🇸",
+      "language": "English",
+      "is_vip": true
+    },
+    {
+      "id": 806,
+      "title": "MTV Denmark",
+      "image": "",
+      "category": "Music",
+      "country": "Denmark",
+      "country_flag_emoji": "🇩🇰",
+      "language": "Danish",
+      "is_vip": true
+    },
+    {
+      "id": 990,
+      "title": "MTV Poland",
+      "image": "",
+      "category": "Music",
+      "country": "Poland",
+      "country_flag_emoji": "🇵🇱",
+      "language": "Polish",
+      "is_vip": true
+    },
+    {
+      "id": 367,
+      "title": "MTV UK",
+      "image": "",
+      "category": "Music",
+      "country": "United Kingdom",
+      "country_flag_emoji": "🇬🇧",
+      "language": "English",
+      "is_vip": true
+    },
+    {
+      "id": 371,
+      "title": "MTV USA",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/960px-MTV_2021_%28brand_version%29.svg.png",
+      "category": "Music",
+      "country": "United States",
+      "country_flag_emoji": "🇺🇸",
+      "language": "English",
+      "is_vip": true
+    },
+    {
+      "id": 666,
+      "title": "Nick Music",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/NickMusic.svg/960px-NickMusic.svg.png",
+      "category": "Music",
+      "country": "United States",
+      "country_flag_emoji": "🇺🇸",
+      "language": "English",
+      "is_vip": true
+    },
+    {
+      "id": 344,
+      "title": "VH1 USA",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/960px-VH1_logonew.svg.png",
+      "category": "Music",
+      "country": "United States",
+      "country_flag_emoji": "🇺🇸",
+      "language": "English",
+      "is_vip": true
+    },
+    {
+      "id": 501,
+      "title": "18+ (Player-01)",
+      "image": "",
+      "category": "Adult",
+      "country": "",
+      "country_flag_emoji": "",
+      "language": "",
+      "is_vip": true
+    },
+    {
+      "id": 502,
+      "title": "18+ (Player-02)",
+      "image": "",
+      "category": "Adult",
+      "country": "",
+      "country_flag_emoji": "",
+      "language": "",
+      "is_vip": true
+    },
+    {
+      "id": 503,
+      "title": "18+ (Player-03)",
+      "image": "",
+      "category": "Adult",
+      "country": "",
+      "country_flag_emoji": "",
+      "language": "",
+      "is_vip": true
+    },
+    {
+      "id": 504,
+      "title": "18+ (Player-04)",
+      "image": "",
+      "category": "Adult",
+      "country": "",
+      "country_flag_emoji": "",
+      "language": "",
+      "is_vip": true
+    },
+    {
+      "id": 505,
+      "title": "18+ (Player-05)",
+      "image": "",
+      "category": "Adult",
+      "country": "",
+      "country_flag_emoji": "",
+      "language": "",
+      "is_vip": true
+    },
+    {
+      "id": 506,
+      "title": "18+ (Player-06)",
+      "image": "",
+      "category": "Adult",
+      "country": "",
+      "country_flag_emoji": "",
+      "language": "",
+      "is_vip": true
+    },
+    {
+      "id": 507,
+      "title": "18+ (Player-07)",
+      "image": "",
+      "category": "Adult",
+      "country": "",
+      "country_flag_emoji": "",
+      "language": "",
+      "is_vip": true
+    },
+    {
+      "id": 508,
+      "title": "18+ (Player-08)",
+      "image": "",
+      "category": "Adult",
+      "country": "",
+      "country_flag_emoji": "",
+      "language": "",
+      "is_vip": true
+    },
+    {
+      "id": 509,
+      "title": "18+ (Player-09)",
+      "image": "",
+      "category": "Adult",
+      "country": "",
+      "country_flag_emoji": "",
+      "language": "",
+      "is_vip": true
+    },
+    {
+      "id": 510,
+      "title": "18+ (Player-10)",
+      "image": "",
+      "category": "Adult",
+      "country": "",
+      "country_flag_emoji": "",
+      "language": "",
+      "is_vip": true
+    },
+    {
+      "id": 511,
+      "title": "18+ (Player-11)",
+      "image": "",
+      "category": "Adult",
+      "country": "",
+      "country_flag_emoji": "",
+      "language": "",
+      "is_vip": true
+    },
+    {
+      "id": 512,
+      "title": "18+ (Player-12)",
+      "image": "",
+      "category": "Adult",
+      "country": "",
+      "country_flag_emoji": "",
+      "language": "",
+      "is_vip": true
+    },
+    {
+      "id": 513,
+      "title": "18+ (Player-13)",
+      "image": "",
+      "category": "Adult",
+      "country": "",
+      "country_flag_emoji": "",
+      "language": "",
+      "is_vip": true
+    },
+    {
+      "id": 514,
+      "title": "18+ (Player-14)",
+      "image": "",
+      "category": "Adult",
+      "country": "",
+      "country_flag_emoji": "",
+      "language": "",
+      "is_vip": true
+    },
+    {
+      "id": 515,
+      "title": "18+ (Player-15)",
+      "image": "",
+      "category": "Adult",
+      "country": "",
+      "country_flag_emoji": "",
+      "language": "",
+      "is_vip": true
+    },
+    {
+      "id": 516,
+      "title": "18+ (Player-16)",
+      "image": "",
+      "category": "Adult",
+      "country": "",
+      "country_flag_emoji": "",
+      "language": "",
+      "is_vip": true
+    },
+    {
+      "id": 517,
+      "title": "18+ (Player-17)",
+      "image": "",
+      "category": "Adult",
+      "country": "",
+      "country_flag_emoji": "",
+      "language": "",
+      "is_vip": true
+    },
+    {
+      "id": 518,
+      "title": "18+ (Player-18)",
+      "image": "",
+      "category": "Adult",
+      "country": "",
+      "country_flag_emoji": "",
+      "language": "",
+      "is_vip": true
+    },
+    {
+      "id": 519,
+      "title": "18+ (Player-19)",
+      "image": "",
+      "category": "Adult",
+      "country": "",
+      "country_flag_emoji": "",
+      "language": "",
+      "is_vip": true
+    },
+    {
+      "id": 520,
+      "title": "18+ (Player-20)",
+      "image": "",
+      "category": "Adult",
+      "country": "",
+      "country_flag_emoji": "",
+      "language": ""
     }
   ]
 }
